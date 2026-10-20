@@ -1,0 +1,62 @@
+[
+  {
+    "path": "prompts/3D真人提示词.txt",
+    "sha256": "d89a649361f55d298c62d44d294d5eb665cd3310006a481a42fdd674239f64cf"
+  },
+  {
+    "path": "prompts/AI剧本生成.txt",
+    "sha256": "acd3443ca63da9b97238e77a6e9d37627c63c8fee67e48d394ed26d1d208d296"
+  },
+  {
+    "path": "prompts/三四 视图提词.txt",
+    "sha256": "95d4f5da7c4bcb2c0beb0c681de46cf1452dbbc3d45ff11a7fcfcd4e6bc39348"
+  },
+  {
+    "path": "prompts/仿真人分镜10s带人物站位.txt",
+    "sha256": "9e356ed57d5c469c243d29a4f28d7b6ca241b4258531999b695ec3023921be1a"
+  },
+  {
+    "path": "prompts/仿真人分镜头15s带人物站位.txt",
+    "sha256": "4f305c2507cde6736731c4ec1350f88ba0aa4479ef288647782c4e41754c4c2b"
+  },
+  {
+    "path": "prompts/分幕提示词.txt",
+    "sha256": "5f5b7116ad5b2381d5a0be9dba402d8ff555934d442391e07ac5fb1ce530949e"
+  },
+  {
+    "path": "prompts/原创故事提示词.txt",
+    "sha256": "b51541f900bb163097da9de64807a2a0d116d8a430782aeca70f4e61fa7f9090"
+  },
+  {
+    "path": "prompts/小说转分镜（直播用）(1).txt",
+    "sha256": "80d79d05df8d30836075a04c9ce1fca44be4ed9f19899a7eeaa9ce2de83d8d65"
+  },
+  {
+    "path": "prompts/小说转剧本.txt",
+    "sha256": "dedb12ec6fc6a6d66f5f1d636ea930b3126a2e0b60e687d106eba573a20ce0b7"
+  },
+  {
+    "path": "prompts/角色场景提示词 3D.txt",
+    "sha256": "2f17b593251b3152480898c044047a32e59960889614329f6caf8dc9955cdcb1"
+  },
+  {
+    "path": "prompts/角色场景提示词.txt",
+    "sha256": "40f08b2b9de269aa2f1a91cc5c5ef7b5c0470401f0f5ab7cb52dc7435c117521"
+  },
+  {
+    "path": "prompts/角色形象2D.txt",
+    "sha256": "15eec8bf8b6ec77cc2203dd227acfa4b1502cb13e58c17e9241b224723c969c8"
+  },
+  {
+    "path": "prompts/道具+角色+场景提取.txt",
+    "sha256": "7dce7585cae72e234d06e56f387c4d1c7b51296983125c8a89d5d90aa2fc8f19"
+  },
+  {
+    "path": "prompts/镜头提示词 10秒.txt",
+    "sha256": "20e830987350fb933009f20d018da34cf6f5a78c1affb9fdc1cb26d02c758365"
+  },
+  {
+    "path": "prompts/镜头提示词2   15秒.txt",
+    "sha256": "3cda2d2b6dee936708f21a6de351c4dae6bac77692ffaca1de29047375eafc0d"
+  }
+]
