@@ -1,0 +1,4307 @@
+{
+  "title": "笨蛋哈利与马尔福大小姐的二三事",
+  "author": "Luis没了",
+  "source_filename": "笨蛋哈利与马尔福大小姐的二三事 作者：Luis没了.txt",
+  "source_sha256": "7e4f96c4dc06ad3383f8f733bd7520d1b1d7f649dff5718a563b6fa97b24aff5",
+  "encoding": "utf-8-sig",
+  "normalization": "CRCRLF -> LF; CRLF -> LF; CR -> LF",
+  "total_characters": 1052704,
+  "chapter_entries": 429,
+  "last_heading": "第431章 开始吧，准备好了（马上都是糖 来追个更，点个催更呗）",
+  "notes": [
+    "章节号存在截断和重复，按ordinal与id定位，不自动修补原文编号。",
+    "仅建立全文目录；背景手册采用明确列出的重点章节，不表示已逐字校对全书。"
+  ],
+  "chapters": [
+    {
+      "id": "CH-0001",
+      "ordinal": 1,
+      "label_number": 1,
+      "title": "第1章 猫头鹰的通知信 上（白金的傲娇少女！）",
+      "normalized_char_start": 689,
+      "normalized_char_end": 3516,
+      "characters": 2827,
+      "chapter_sha256": "6663ef682804cd44183700d5bc4283e02a50d8a3beecf7f7a0aa34f06d7645db"
+    },
+    {
+      "id": "CH-0002",
+      "ordinal": 2,
+      "label_number": 2,
+      "title": "第2章 猫头鹰的通知信 下（对角巷的初遇）",
+      "normalized_char_start": 3516,
+      "normalized_char_end": 6691,
+      "characters": 3175,
+      "chapter_sha256": "ccccebe6f39adecc99160bd2436e1f12502ad899a54ff7714e0c7723631b0437"
+    },
+    {
+      "id": "CH-0003",
+      "ordinal": 3,
+      "label_number": 3,
+      "title": "第3章 对角巷 上",
+      "normalized_char_start": 6691,
+      "normalized_char_end": 9413,
+      "characters": 2722,
+      "chapter_sha256": "4865c8441d8b430cfa98a9e8e8c9de06812f6778d8562e3cc2211412fec7dc72"
+    },
+    {
+      "id": "CH-0004",
+      "ordinal": 4,
+      "label_number": 4,
+      "title": "第4章 对角巷 中",
+      "normalized_char_start": 9413,
+      "normalized_char_end": 11856,
+      "characters": 2443,
+      "chapter_sha256": "4b51767a90cce1f04a96ebb149727ffa89235e76d786fb93208f76b29d8d4c74"
+    },
+    {
+      "id": "CH-0005",
+      "ordinal": 5,
+      "label_number": 5,
+      "title": "第5章 对角巷 下（再见无礼的家伙）",
+      "normalized_char_start": 11856,
+      "normalized_char_end": 13792,
+      "characters": 1936,
+      "chapter_sha256": "10eb522d2790d6328106e6b484ad4ccf642a97d92643716b2e02576113fceb14"
+    },
+    {
+      "id": "CH-0006",
+      "ordinal": 6,
+      "label_number": 6,
+      "title": "第6章 霍格沃兹的列车 1 （我怎么可能对哈利波特好奇呢？）",
+      "normalized_char_start": 13792,
+      "normalized_char_end": 16133,
+      "characters": 2341,
+      "chapter_sha256": "0982869f027b6de91b8987990a3f95f65ba11c1fad03a5c384f0dde5e33ac26e"
+    },
+    {
+      "id": "CH-0007",
+      "ordinal": 7,
+      "label_number": 7,
+      "title": "第7章 霍格沃兹的列车 2",
+      "normalized_char_start": 16133,
+      "normalized_char_end": 18392,
+      "characters": 2259,
+      "chapter_sha256": "bdaf70ac7b0fad2c4d9dfd5513c7b0d528a9e568a08af7d174e46c54c991773f"
+    },
+    {
+      "id": "CH-0008",
+      "ordinal": 8,
+      "label_number": 8,
+      "title": "第8章 霍格沃兹的列车 3",
+      "normalized_char_start": 18392,
+      "normalized_char_end": 20664,
+      "characters": 2272,
+      "chapter_sha256": "edf6c66b2d822c5269e2264bae1adeeea68ea49b8b515b5837c467a92f5d2f4b"
+    },
+    {
+      "id": "CH-0009",
+      "ordinal": 9,
+      "label_number": 9,
+      "title": "第9章 霍格沃兹的列车 4",
+      "normalized_char_start": 20664,
+      "normalized_char_end": 23117,
+      "characters": 2453,
+      "chapter_sha256": "9537ef3ba1932ae9a9bf92c805cd1e081e0059d3266397d27a198041d5749a40"
+    },
+    {
+      "id": "CH-0010",
+      "ordinal": 10,
+      "label_number": 10,
+      "title": "第10章 分院帽 上",
+      "normalized_char_start": 23117,
+      "normalized_char_end": 26080,
+      "characters": 2963,
+      "chapter_sha256": "1bbae8b4192a05f7f066c87dd773331d0f80f61e90acfe0ef5b9799378c685bb"
+    },
+    {
+      "id": "CH-0011",
+      "ordinal": 11,
+      "label_number": 11,
+      "title": "第11章 分院帽 下（傲娇大小姐发动！）",
+      "normalized_char_start": 26080,
+      "normalized_char_end": 29870,
+      "characters": 3790,
+      "chapter_sha256": "65d87497db284e236567174195af058946f0e51b36a6583867741d79d64d99b0"
+    },
+    {
+      "id": "CH-0012",
+      "ordinal": 12,
+      "label_number": 12,
+      "title": "第12章 记忆球与飞行课 1（哈利波特不过是徒有其名啦！）",
+      "normalized_char_start": 29870,
+      "normalized_char_end": 32370,
+      "characters": 2500,
+      "chapter_sha256": "895dc5db2073350a27271a00604c035c013a42147e46cb7076c1e3c428bf18fe"
+    },
+    {
+      "id": "CH-0013",
+      "ordinal": 13,
+      "label_number": 13,
+      "title": "第13章 记忆球与飞行课 2（笨蛋波特？好好学学马尔福大小姐！）",
+      "normalized_char_start": 32370,
+      "normalized_char_end": 35370,
+      "characters": 3000,
+      "chapter_sha256": "f12e7db216200f80f47d8ac5bbd541c07f1b4a5e293066777c44675ec5fb4de6"
+    },
+    {
+      "id": "CH-0014",
+      "ordinal": 14,
+      "label_number": 14,
+      "title": "第14章 记忆球与飞行课 3（没想到本小姐竟然要用平民扫帚……）",
+      "normalized_char_start": 35370,
+      "normalized_char_end": 38076,
+      "characters": 2706,
+      "chapter_sha256": "3837f08d9481e40878557979e559914747b9c9852a17b88cc804d764a799e797"
+    },
+    {
+      "id": "CH-0015",
+      "ordinal": 15,
+      "label_number": 15,
+      "title": "第15章 记忆球与飞行课 4（这就是反差感）",
+      "normalized_char_start": 38076,
+      "normalized_char_end": 41264,
+      "characters": 3188,
+      "chapter_sha256": "f81ac87d7c1ebab592f38e7df518489b51f7da3656f34d570b0611b3652f146f"
+    },
+    {
+      "id": "CH-0016",
+      "ordinal": 16,
+      "label_number": 16,
+      "title": "第16章 午夜的决斗 上",
+      "normalized_char_start": 41264,
+      "normalized_char_end": 44998,
+      "characters": 3734,
+      "chapter_sha256": "0eeee2e130b299f311a79e05c67d25a18b224104407682453b170db9050be526"
+    },
+    {
+      "id": "CH-0017",
+      "ordinal": 17,
+      "label_number": 17,
+      "title": "第17章 午夜的决斗 下",
+      "normalized_char_start": 44998,
+      "normalized_char_end": 48420,
+      "characters": 3422,
+      "chapter_sha256": "bdcd0aaaba5535d5069041fa1984db0e7afb3b20a9a9fed3558c68c43509c07d"
+    },
+    {
+      "id": "CH-0018",
+      "ordinal": 18,
+      "label_number": 18,
+      "title": "第18章 千金的傲娇性格",
+      "normalized_char_start": 48420,
+      "normalized_char_end": 50945,
+      "characters": 2525,
+      "chapter_sha256": "01f3324ff49a763f0a06fe6955ea5b617c7c7ad55aad54b75d59d934efcf7dd4"
+    },
+    {
+      "id": "CH-0019",
+      "ordinal": 19,
+      "label_number": 19,
+      "title": "第19章 万圣节的意外 上（倒挂金钟！）",
+      "normalized_char_start": 50945,
+      "normalized_char_end": 53733,
+      "characters": 2788,
+      "chapter_sha256": "48dfa5660cf8fc214536d72785057c9457907751b5fa7493ec7a0250fd75863c"
+    },
+    {
+      "id": "CH-0020",
+      "ordinal": 20,
+      "label_number": 20,
+      "title": "第20章 万圣节的意外 下",
+      "normalized_char_start": 53733,
+      "normalized_char_end": 56398,
+      "characters": 2665,
+      "chapter_sha256": "7152ebe8604a49c3e1cd4c71fdc20b8927d107fbb086ced7c7f6f93c9bbfab16"
+    },
+    {
+      "id": "CH-0021",
+      "ordinal": 21,
+      "label_number": 21,
+      "title": "第21章 魁地奇与圣诞夜 上",
+      "normalized_char_start": 56398,
+      "normalized_char_end": 59551,
+      "characters": 3153,
+      "chapter_sha256": "72bdaed66b9e86f1dcafc5012f4c1ff49685ae424006b5546f87b886c05678f9"
+    },
+    {
+      "id": "CH-0022",
+      "ordinal": 22,
+      "label_number": 22,
+      "title": "第22章 魁地奇与圣诞夜 下",
+      "normalized_char_start": 59551,
+      "normalized_char_end": 62940,
+      "characters": 3389,
+      "chapter_sha256": "b9fb72a554d3cf72ed291afa9afb0d233929400bae9b16a06bfb6983bcd97fcf"
+    },
+    {
+      "id": "CH-0023",
+      "ordinal": 23,
+      "label_number": 23,
+      "title": "第23章 你就这么不想与本小姐合作吗？",
+      "normalized_char_start": 62940,
+      "normalized_char_end": 65670,
+      "characters": 2730,
+      "chapter_sha256": "c36ea7faab20f9328606ed2b3f710b6eb572e3827e5dc8de082cdf7ebdb6cddc"
+    },
+    {
+      "id": "CH-0024",
+      "ordinal": 24,
+      "label_number": 24,
+      "title": "第24章 海格的龙",
+      "normalized_char_start": 65670,
+      "normalized_char_end": 71494,
+      "characters": 5824,
+      "chapter_sha256": "90cce2b52f19c963f4a13e647df7dc9c08eebf06f8e66037bc64f8421bfa3c0d"
+    },
+    {
+      "id": "CH-0025",
+      "ordinal": 25,
+      "label_number": 25,
+      "title": "第25章 给本小姐离波特远点！",
+      "normalized_char_start": 71494,
+      "normalized_char_end": 75416,
+      "characters": 3922,
+      "chapter_sha256": "077fca061548b41c56199364f2f31fc05dd39270ff94df8d91ebc9be4dc04a7e"
+    },
+    {
+      "id": "CH-0026",
+      "ordinal": 26,
+      "label_number": 26,
+      "title": "第26章 禁忌森林的幽影 上",
+      "normalized_char_start": 75416,
+      "normalized_char_end": 79302,
+      "characters": 3886,
+      "chapter_sha256": "0db6aa12bc1c00f01286a2f1b820c99dc6aadbb10ca90f752b83a29eab4cebb1"
+    },
+    {
+      "id": "CH-0027",
+      "ordinal": 27,
+      "label_number": 27,
+      "title": "第27章 禁忌森林的幽影 中（初遇人马）",
+      "normalized_char_start": 79302,
+      "normalized_char_end": 82942,
+      "characters": 3640,
+      "chapter_sha256": "9e8655d061815ec6d475b99dd34d7968ba600cea75ab143f1e1c0374c13a184c"
+    },
+    {
+      "id": "CH-0028",
+      "ordinal": 28,
+      "label_number": 28,
+      "title": "第28章 禁忌森林的幽影 下",
+      "normalized_char_start": 82942,
+      "normalized_char_end": 87589,
+      "characters": 4647,
+      "chapter_sha256": "15b3e30b69d82f0b910eef66006134fa89d31592cc3afba5d6cd313b2fe1d1d8"
+    },
+    {
+      "id": "CH-0029",
+      "ordinal": 29,
+      "label_number": 29,
+      "title": "第29章 哈利与马尔福棋局",
+      "normalized_char_start": 87589,
+      "normalized_char_end": 92489,
+      "characters": 4900,
+      "chapter_sha256": "6dd24969ab1395ddd0e26c24f486aa24c34522f45fb2f14bc18a5416e2db7a85"
+    },
+    {
+      "id": "CH-0030",
+      "ordinal": 30,
+      "label_number": 30,
+      "title": "第30章 西弗勒斯绝对不是坏人！",
+      "normalized_char_start": 92489,
+      "normalized_char_end": 97378,
+      "characters": 4889,
+      "chapter_sha256": "9c7d83fe3b35e670eae9479461b76f6d315105d19e397204aad129902c3bb3a7"
+    },
+    {
+      "id": "CH-0031",
+      "ordinal": 31,
+      "label_number": 31,
+      "title": "第31章 不要扯本小姐的后腿！",
+      "normalized_char_start": 97378,
+      "normalized_char_end": 102009,
+      "characters": 4631,
+      "chapter_sha256": "666c92d7b1a53023ab3d04d1b92b1e2e27cfb75ac01cd09b303c032bcc6996ca"
+    },
+    {
+      "id": "CH-0032",
+      "ordinal": 32,
+      "label_number": 32,
+      "title": "第32章 初现的阴影",
+      "normalized_char_start": 102009,
+      "normalized_char_end": 104475,
+      "characters": 2466,
+      "chapter_sha256": "ab045b655da1930097234ad6f55ab13d9e7c979d39a65be57e9e708a2ab38bb4"
+    },
+    {
+      "id": "CH-0033",
+      "ordinal": 33,
+      "label_number": 33,
+      "title": "第33章 遵命，大小姐！",
+      "normalized_char_start": 104475,
+      "normalized_char_end": 107824,
+      "characters": 3349,
+      "chapter_sha256": "aa7eff8b050c85cb1cf8cf38a9ea04a032b57af788c798f582644a7dba0059cd"
+    },
+    {
+      "id": "CH-0034",
+      "ordinal": 34,
+      "label_number": 34,
+      "title": "第34章 全校的秘密？",
+      "normalized_char_start": 107824,
+      "normalized_char_end": 110963,
+      "characters": 3139,
+      "chapter_sha256": "7422eed7d13a8061a6978502855e6181a0742a46b96ae8bc8edf009616bb9298"
+    },
+    {
+      "id": "CH-0035",
+      "ordinal": 35,
+      "label_number": 35,
+      "title": "第35章 明年胜利一定是我的！",
+      "normalized_char_start": 110963,
+      "normalized_char_end": 112548,
+      "characters": 1585,
+      "chapter_sha256": "5098df402ec93953c2b6781bc09392aa68e620eaa6c35c65305ca173659033b6"
+    },
+    {
+      "id": "CH-0036",
+      "ordinal": 36,
+      "label_number": 36,
+      "title": "第36章 背后的谜团",
+      "normalized_char_start": 112548,
+      "normalized_char_end": 115410,
+      "characters": 2862,
+      "chapter_sha256": "d4b8cc6a1e5d966b0682c73ab32b80818636d1567d3e4892e53e9da212f2bff9"
+    },
+    {
+      "id": "CH-0037",
+      "ordinal": 37,
+      "label_number": 37,
+      "title": "第37章 成何体统！",
+      "normalized_char_start": 115410,
+      "normalized_char_end": 118004,
+      "characters": 2594,
+      "chapter_sha256": "5c22935de038379b012d8628db1efd6ec43aea49cb65c9cf43bae1a7a999445e"
+    },
+    {
+      "id": "CH-0038",
+      "ordinal": 38,
+      "label_number": 38,
+      "title": "第38章 真是花心阿?名人波特!",
+      "normalized_char_start": 118004,
+      "normalized_char_end": 121947,
+      "characters": 3943,
+      "chapter_sha256": "6cadbd722766cef8be06eccf92878265a2fafba940f814e07e1649e8385ddc0f"
+    },
+    {
+      "id": "CH-0039",
+      "ordinal": 39,
+      "label_number": 39,
+      "title": "第39章 冠军以后只会是斯莱特林！",
+      "normalized_char_start": 121947,
+      "normalized_char_end": 124449,
+      "characters": 2502,
+      "chapter_sha256": "ea7827a31477199006d89fce962d4ad2071ae510fd43f92c625403ceb47f7f85"
+    },
+    {
+      "id": "CH-0040",
+      "ordinal": 40,
+      "label_number": 40,
+      "title": "第40章 最惨的开学 上",
+      "normalized_char_start": 124449,
+      "normalized_char_end": 126737,
+      "characters": 2288,
+      "chapter_sha256": "9848cb7494126a135133a0b2d0983884156c1dc3adb653e5a5754cd387f6f8f0"
+    },
+    {
+      "id": "CH-0041",
+      "ordinal": 41,
+      "label_number": 41,
+      "title": "第41章 最惨的开学 下",
+      "normalized_char_start": 126737,
+      "normalized_char_end": 129405,
+      "characters": 2668,
+      "chapter_sha256": "98fac1200c4aba916d260e3b4783df2b7623a6a6631ea4a4a66ecd802dbf2b1d"
+    },
+    {
+      "id": "CH-0042",
+      "ordinal": 42,
+      "label_number": 42,
+      "title": "第42章 唯一的收获",
+      "normalized_char_start": 129405,
+      "normalized_char_end": 131462,
+      "characters": 2057,
+      "chapter_sha256": "f3523d2639118c817a072e74c5633c35201d9a18c036411cb1c20a943afd1e96"
+    },
+    {
+      "id": "CH-0043",
+      "ordinal": 43,
+      "label_number": 43,
+      "title": "第43章 本小姐才不会说谎？",
+      "normalized_char_start": 131462,
+      "normalized_char_end": 133337,
+      "characters": 1875,
+      "chapter_sha256": "471a8ba18064679e68466619b89a98932087921efeebe1256db15e8953ccba42"
+    },
+    {
+      "id": "CH-0044",
+      "ordinal": 44,
+      "label_number": 44,
+      "title": "第44章 一触即发的闹剧",
+      "normalized_char_start": 133337,
+      "normalized_char_end": 136324,
+      "characters": 2987,
+      "chapter_sha256": "566393ad8a054480c323fd9d53ced8b8f68f9c088a8d4c425125103ff7e08bbe"
+    },
+    {
+      "id": "CH-0045",
+      "ordinal": 45,
+      "label_number": 45,
+      "title": "第45章 隐藏深处的危机！",
+      "normalized_char_start": 136324,
+      "normalized_char_end": 137863,
+      "characters": 1539,
+      "chapter_sha256": "3a8db973f515cfc63f627f9336737cdd90b454807ede8a00e5311f33dbbfcd4b"
+    },
+    {
+      "id": "CH-0046",
+      "ordinal": 46,
+      "label_number": 46,
+      "title": "第46章 不详的谈话!",
+      "normalized_char_start": 137863,
+      "normalized_char_end": 140479,
+      "characters": 2616,
+      "chapter_sha256": "b31b6f80019747ff38a9ad9d87f9b9dafd6e5ceaef3a9797fd307f2b4623907e"
+    },
+    {
+      "id": "CH-0047",
+      "ordinal": 47,
+      "label_number": 47,
+      "title": "第47章 快拍！有断掉的手！",
+      "normalized_char_start": 140479,
+      "normalized_char_end": 142383,
+      "characters": 1904,
+      "chapter_sha256": "071bc21e59758918ab03bd115d29620da774938065f3937f7445045926696157"
+    },
+    {
+      "id": "CH-0048",
+      "ordinal": 48,
+      "label_number": 48,
+      "title": "第48章 密室又开了！",
+      "normalized_char_start": 142383,
+      "normalized_char_end": 144381,
+      "characters": 1998,
+      "chapter_sha256": "fbbaeac2358938b969276e41304ecc2ca9af2057890f1323f46a31ab8463a5f7"
+    },
+    {
+      "id": "CH-0049",
+      "ordinal": 49,
+      "label_number": 49,
+      "title": "第49章 决斗俱乐部",
+      "normalized_char_start": 144381,
+      "normalized_char_end": 146250,
+      "characters": 1869,
+      "chapter_sha256": "71b25c781535a4a7596e38945a3e292411bc901aae4e5d7c2d38881469e918a4"
+    },
+    {
+      "id": "CH-0050",
+      "ordinal": 50,
+      "label_number": 50,
+      "title": "第50章 小心，日记！",
+      "normalized_char_start": 146250,
+      "normalized_char_end": 148541,
+      "characters": 2291,
+      "chapter_sha256": "18941e7dd3f03a1e1c116d788711a1cba5ef3f4a77e2b789789c7559ed8245f5"
+    },
+    {
+      "id": "CH-0051",
+      "ordinal": 51,
+      "label_number": 51,
+      "title": "第51章 风头被斯内普抢了.....",
+      "normalized_char_start": 148541,
+      "normalized_char_end": 151608,
+      "characters": 3067,
+      "chapter_sha256": "e8df86165d5565c33aa09db8c2bff495dcde0a162416174628fd5b71a33add04"
+    },
+    {
+      "id": "CH-0052",
+      "ordinal": 52,
+      "label_number": 52,
+      "title": "第52章 你...你会蛇语？",
+      "normalized_char_start": 151608,
+      "normalized_char_end": 154248,
+      "characters": 2640,
+      "chapter_sha256": "2cd2ba6249cfeb0697fecbd47ce03530a81346a0717a5d7e34e08b48fbd2e6a1"
+    },
+    {
+      "id": "CH-0053",
+      "ordinal": 53,
+      "label_number": 53,
+      "title": "第53章 日记的算计",
+      "normalized_char_start": 154248,
+      "normalized_char_end": 156749,
+      "characters": 2501,
+      "chapter_sha256": "0288510b1016fae4b4be81e38689a4b741056d5854842416599bfc9aaccd0303"
+    },
+    {
+      "id": "CH-0054",
+      "ordinal": 54,
+      "label_number": 54,
+      "title": "第54章 进来吧！",
+      "normalized_char_start": 156749,
+      "normalized_char_end": 159842,
+      "characters": 3093,
+      "chapter_sha256": "6b382789402167229582f405f464925fe8be4aeb216f63c013cfbf60a08b80c8"
+    },
+    {
+      "id": "CH-0055",
+      "ordinal": 55,
+      "label_number": 55,
+      "title": "第55章 深夜的谈话",
+      "normalized_char_start": 159842,
+      "normalized_char_end": 162825,
+      "characters": 2983,
+      "chapter_sha256": "28b3d402d51a1fd21c6d874ce5950566c786d232c338100639df4ad1eda98f2c"
+    },
+    {
+      "id": "CH-0056",
+      "ordinal": 56,
+      "label_number": 56,
+      "title": "第56章 哭泣的三人组",
+      "normalized_char_start": 162825,
+      "normalized_char_end": 165085,
+      "characters": 2260,
+      "chapter_sha256": "f3a544ab7ca2283a65e09f2f6f3c1ae34b7c7c94173df8c25de19da28f5104b6"
+    },
+    {
+      "id": "CH-0057",
+      "ordinal": 57,
+      "label_number": 57,
+      "title": "第57章 请自重欧！",
+      "normalized_char_start": 165085,
+      "normalized_char_end": 166862,
+      "characters": 1777,
+      "chapter_sha256": "cddf24ab205f2a0d0a2cb296e8720b97bac433991041e5566bd9f8d5088565c9"
+    },
+    {
+      "id": "CH-0058",
+      "ordinal": 58,
+      "label_number": 58,
+      "title": "第58章 只要所有人都是级长就好了！",
+      "normalized_char_start": 166862,
+      "normalized_char_end": 168848,
+      "characters": 1986,
+      "chapter_sha256": "06e011cb63f88c0931949ce67a7980f6201f25948d6f9559c8f7b4302e92a218"
+    },
+    {
+      "id": "CH-0059",
+      "ordinal": 59,
+      "label_number": 59,
+      "title": "第59章 被揭穿的哈利！",
+      "normalized_char_start": 168848,
+      "normalized_char_end": 170756,
+      "characters": 1908,
+      "chapter_sha256": "46bec9fcb9c90aed9a3d96539559b8729c53517876e144c9b2da060442a63b66"
+    },
+    {
+      "id": "CH-0060",
+      "ordinal": 60,
+      "label_number": 60,
+      "title": "第60章 恢复真身！",
+      "normalized_char_start": 170756,
+      "normalized_char_end": 172825,
+      "characters": 2069,
+      "chapter_sha256": "8c69b8e91127ff2d00a1865b1a3bf111c9f4e234e6f6e22b50b70eb875cbcbeb"
+    },
+    {
+      "id": "CH-0061",
+      "ordinal": 61,
+      "label_number": 61,
+      "title": "第61章 叫什么好呢？（就这样吧随意点）",
+      "normalized_char_start": 172825,
+      "normalized_char_end": 174545,
+      "characters": 1720,
+      "chapter_sha256": "941b34a414361e5037a2bc28a214f7c5619dec4f5d229edf7a7df1655b483993"
+    },
+    {
+      "id": "CH-0062",
+      "ordinal": 62,
+      "label_number": 62,
+      "title": "第62章 罗恩：为什么受伤的总是我！",
+      "normalized_char_start": 174545,
+      "normalized_char_end": 176414,
+      "characters": 1869,
+      "chapter_sha256": "dee531d219651260e1f5dad64709aafb803445d123707d65cc8b2005c4549f95"
+    },
+    {
+      "id": "CH-0063",
+      "ordinal": 63,
+      "label_number": 63,
+      "title": "第63章 幸福....幸福.....呜",
+      "normalized_char_start": 176414,
+      "normalized_char_end": 178314,
+      "characters": 1900,
+      "chapter_sha256": "cc972b7493dc67cea5559eb94a7589a90c2d69a4d16894bc97e1d530caa5532c"
+    },
+    {
+      "id": "CH-0064",
+      "ordinal": 64,
+      "label_number": 64,
+      "title": "第64章 秘密的练习课",
+      "normalized_char_start": 178314,
+      "normalized_char_end": 179942,
+      "characters": 1628,
+      "chapter_sha256": "b014c06cb9f989e898d2657fc3ec0131ea23e599a0734f0eadd952791d4b7830"
+    },
+    {
+      "id": "CH-0065",
+      "ordinal": 65,
+      "label_number": 65,
+      "title": "第65章 情人节",
+      "normalized_char_start": 179942,
+      "normalized_char_end": 182198,
+      "characters": 2256,
+      "chapter_sha256": "ca2428ccb721ef5591e12fd6161eb8e0b3f1b8efa3ed019a26cf0530f243d11d"
+    },
+    {
+      "id": "CH-0066",
+      "ordinal": 66,
+      "label_number": 66,
+      "title": "第66章 抢夺的日记",
+      "normalized_char_start": 182198,
+      "normalized_char_end": 184473,
+      "characters": 2275,
+      "chapter_sha256": "31d7cdf580a59031cf6143f452631222f34712607faef907c1a9edddcea314f5"
+    },
+    {
+      "id": "CH-0067",
+      "ordinal": 67,
+      "label_number": 67,
+      "title": "第67章 图书馆的两人",
+      "normalized_char_start": 184473,
+      "normalized_char_end": 186118,
+      "characters": 1645,
+      "chapter_sha256": "a8b9006e98324300c7e16e1d759d833ed8f52363aaabb4c8972c46d3218fe4e2"
+    },
+    {
+      "id": "CH-0068",
+      "ordinal": 68,
+      "label_number": 68,
+      "title": "第68章 深夜的交流",
+      "normalized_char_start": 186118,
+      "normalized_char_end": 187834,
+      "characters": 1716,
+      "chapter_sha256": "f89df996c1f7dbd45503e4fa38b0e55a2611f1f5f421939e910ebec234d97017"
+    },
+    {
+      "id": "CH-0069",
+      "ordinal": 69,
+      "label_number": 69,
+      "title": "第69章 哈利与日记",
+      "normalized_char_start": 187834,
+      "normalized_char_end": 189891,
+      "characters": 2057,
+      "chapter_sha256": "141be1648969ec2e5b9ed02a548c413d5b3772bd49ad7b058cc1dcecd9aab7e2"
+    },
+    {
+      "id": "CH-0070",
+      "ordinal": 70,
+      "label_number": 70,
+      "title": "第70章 海格当年的真相",
+      "normalized_char_start": 189891,
+      "normalized_char_end": 192605,
+      "characters": 2714,
+      "chapter_sha256": "0731be784e7d85e01aabdb9c49d76c15802594e396eb48f2b2e5878e9d923e83"
+    },
+    {
+      "id": "CH-0071",
+      "ordinal": 71,
+      "label_number": 71,
+      "title": "第71章 深夜的笑声......",
+      "normalized_char_start": 192605,
+      "normalized_char_end": 194915,
+      "characters": 2310,
+      "chapter_sha256": "a229bb28fe2312d22f4132afb8796811aebd7f97be4f7a70c00f67ed72a01d40"
+    },
+    {
+      "id": "CH-0072",
+      "ordinal": 72,
+      "label_number": 72,
+      "title": "第72章 失踪的日记",
+      "normalized_char_start": 194915,
+      "normalized_char_end": 196621,
+      "characters": 1706,
+      "chapter_sha256": "be5f991bb364c0986271ef1341581a670a6d3acd3d48890eb7c6b0f2168d51f1"
+    },
+    {
+      "id": "CH-0073",
+      "ordinal": 73,
+      "label_number": 73,
+      "title": "第73章 走廊的惊魂夜",
+      "normalized_char_start": 196621,
+      "normalized_char_end": 199087,
+      "characters": 2466,
+      "chapter_sha256": "25297b64bd591def54a0d5dc6abd5efff821534eb9134e22f40bcb26977d43be"
+    },
+    {
+      "id": "CH-0074",
+      "ordinal": 74,
+      "label_number": 74,
+      "title": "第74章 床底的两人",
+      "normalized_char_start": 199087,
+      "normalized_char_end": 201171,
+      "characters": 2084,
+      "chapter_sha256": "8b74d40791c6e8b55d18723602e7598d6cff07e4289693206074b6ae7c727b3d"
+    },
+    {
+      "id": "CH-0075",
+      "ordinal": 75,
+      "label_number": 75,
+      "title": "第75章 森林边缘的两人",
+      "normalized_char_start": 201171,
+      "normalized_char_end": 202567,
+      "characters": 1396,
+      "chapter_sha256": "b5d77517af87efd48b319dd516c6c700b462d6a25db23bbf319b563083eda257"
+    },
+    {
+      "id": "CH-0076",
+      "ordinal": 76,
+      "label_number": 76,
+      "title": "第76章 阿拉戈克",
+      "normalized_char_start": 202567,
+      "normalized_char_end": 205669,
+      "characters": 3102,
+      "chapter_sha256": "955c1b2eadadd8ba14b61f8164fa847effb7ad255a1c6f1df30601a8f0afca3b"
+    },
+    {
+      "id": "CH-0077",
+      "ordinal": 77,
+      "label_number": 77,
+      "title": "第77章 多比的帮助",
+      "normalized_char_start": 205669,
+      "normalized_char_end": 207816,
+      "characters": 2147,
+      "chapter_sha256": "8435dd7ac9e09fa6736ddace99992c9df816cb1034c46400fff850a1e0a618fd"
+    },
+    {
+      "id": "CH-0078",
+      "ordinal": 78,
+      "label_number": 78,
+      "title": "第78章 凤凰福克斯",
+      "normalized_char_start": 207816,
+      "normalized_char_end": 209451,
+      "characters": 1635,
+      "chapter_sha256": "18488ade81b50e1e16c868bfe276e55b4c49c1a4b627021bae89a86936673bdb"
+    },
+    {
+      "id": "CH-0079",
+      "ordinal": 79,
+      "label_number": 79,
+      "title": "第79章 这是怎么回事？",
+      "normalized_char_start": 209451,
+      "normalized_char_end": 211573,
+      "characters": 2122,
+      "chapter_sha256": "3463bd2b53ef8eb2928931f5603af892681250db21a20669e61e1e10d684580b"
+    },
+    {
+      "id": "CH-0080",
+      "ordinal": 80,
+      "label_number": 80,
+      "title": "第80章 你这个大笨蛋！",
+      "normalized_char_start": 211573,
+      "normalized_char_end": 214388,
+      "characters": 2815,
+      "chapter_sha256": "f23a4d0fd5c7f8a2c7a6092f962b1da6608a0d2a72f19aa693689815c88bc18a"
+    },
+    {
+      "id": "CH-0081",
+      "ordinal": 81,
+      "label_number": 81,
+      "title": "第81章 谁允许你叫我的名字了?",
+      "normalized_char_start": 214388,
+      "normalized_char_end": 217192,
+      "characters": 2804,
+      "chapter_sha256": "ea49bb92fef10027fad35edaada48453a50db4b51bdc3f875d3e80ba082f16a7"
+    },
+    {
+      "id": "CH-0082",
+      "ordinal": 82,
+      "label_number": 82,
+      "title": "第82章 变态!波特!",
+      "normalized_char_start": 217192,
+      "normalized_char_end": 220021,
+      "characters": 2829,
+      "chapter_sha256": "81cecfa25a1835ba4a62623ed7c590a7762aaa0b65c74a6f26e2fed56571e30d"
+    },
+    {
+      "id": "CH-0083",
+      "ordinal": 83,
+      "label_number": 83,
+      "title": "第83章 长辈的谈话",
+      "normalized_char_start": 220021,
+      "normalized_char_end": 222340,
+      "characters": 2319,
+      "chapter_sha256": "3db0e440bf55ecc0619e84d97216beac131a31fa8fcd2fe64c3c1eff1d123231"
+    },
+    {
+      "id": "CH-0084",
+      "ordinal": 84,
+      "label_number": 84,
+      "title": "第84章 最致命的缺点：家人",
+      "normalized_char_start": 222340,
+      "normalized_char_end": 224903,
+      "characters": 2563,
+      "chapter_sha256": "11c79c877ad134b9dbc4cc8983297bbc7471782b1ad45550f65516da8f83d266"
+    },
+    {
+      "id": "CH-0085",
+      "ordinal": 85,
+      "label_number": 85,
+      "title": "第85章 晚了一个月的生日祝福",
+      "normalized_char_start": 224903,
+      "normalized_char_end": 226404,
+      "characters": 1501,
+      "chapter_sha256": "ec95b0527adf441071875e6e7662b92d4cab33d0c24982270704289d08f63017"
+    },
+    {
+      "id": "CH-0086",
+      "ordinal": 86,
+      "label_number": 86,
+      "title": "第86章 满满登登的暑假行程",
+      "normalized_char_start": 226404,
+      "normalized_char_end": 228373,
+      "characters": 1969,
+      "chapter_sha256": "ded67af63826ad7684a831edefbf9eac6c7efe49e5efd1e7770c0425e53e2d67"
+    },
+    {
+      "id": "CH-0087",
+      "ordinal": 87,
+      "label_number": 87,
+      "title": "第87章 见习舞会",
+      "normalized_char_start": 228373,
+      "normalized_char_end": 230334,
+      "characters": 1961,
+      "chapter_sha256": "004fab6fb0051e89fa799ac448701b20a9074ab444719f7f1c8293354ab9d5e0"
+    },
+    {
+      "id": "CH-0088",
+      "ordinal": 88,
+      "label_number": 88,
+      "title": "第88章 阿兹卡班的逃犯",
+      "normalized_char_start": 230334,
+      "normalized_char_end": 232438,
+      "characters": 2104,
+      "chapter_sha256": "1d78b078454e982a644c43aa7c6fac45da0deec22c014268755e0a6545b09c4d"
+    },
+    {
+      "id": "CH-0089",
+      "ordinal": 89,
+      "label_number": 89,
+      "title": "第89章 为了家人我什么都可以做！",
+      "normalized_char_start": 232438,
+      "normalized_char_end": 234657,
+      "characters": 2219,
+      "chapter_sha256": "676ba4ee23422995a416cce12ff0c34551a33f69f8f57fe5346999915151862f"
+    },
+    {
+      "id": "CH-0090",
+      "ordinal": 90,
+      "label_number": 90,
+      "title": "第90章 暑假过得如何？",
+      "normalized_char_start": 234657,
+      "normalized_char_end": 237160,
+      "characters": 2503,
+      "chapter_sha256": "8f717189c16bbb8c4be67038bb179f0f62cdf8aafc2b19cc0641ec4fc5d7cf9a"
+    },
+    {
+      "id": "CH-0091",
+      "ordinal": 91,
+      "label_number": 91,
+      "title": "第91章 对角巷的几人",
+      "normalized_char_start": 237160,
+      "normalized_char_end": 239855,
+      "characters": 2695,
+      "chapter_sha256": "6cbb6db0c48935453dd09e177996ae80eed645c8f398dc8f86f86b2ecc87ba56"
+    },
+    {
+      "id": "CH-0092",
+      "ordinal": 92,
+      "label_number": 92,
+      "title": "第92章 列车上的千金",
+      "normalized_char_start": 239855,
+      "normalized_char_end": 241742,
+      "characters": 1887,
+      "chapter_sha256": "98406a225ab72b50336f46a45e9afac4a038974f7435373c9756dc03b13aafd8"
+    },
+    {
+      "id": "CH-0093",
+      "ordinal": 93,
+      "label_number": 93,
+      "title": "第93章 才不见！",
+      "normalized_char_start": 241742,
+      "normalized_char_end": 246411,
+      "characters": 4669,
+      "chapter_sha256": "4361b79cdac75867dd39308dd3f21160cc2463d784d9c5987a9c4ba31da64d66"
+    },
+    {
+      "id": "CH-0094",
+      "ordinal": 94,
+      "label_number": 95,
+      "title": "第95章 海格是教授？",
+      "normalized_char_start": 246411,
+      "normalized_char_end": 248866,
+      "characters": 2455,
+      "chapter_sha256": "5aba4dd7b2d4b7eaa71fdf9a8b1612b3e32fbdf7b6a8fe9279efb3647671638b"
+    },
+    {
+      "id": "CH-0095",
+      "ordinal": 95,
+      "label_number": 96,
+      "title": "第96章 本小姐才不会认输！",
+      "normalized_char_start": 248866,
+      "normalized_char_end": 251083,
+      "characters": 2217,
+      "chapter_sha256": "3e1fe3c39e9f58fc4b0088416c00641b73281e288519c151a460ecb0c580f18e"
+    },
+    {
+      "id": "CH-0096",
+      "ordinal": 96,
+      "label_number": 97,
+      "title": "第97章 苦命鸳鸯",
+      "normalized_char_start": 251083,
+      "normalized_char_end": 253214,
+      "characters": 2131,
+      "chapter_sha256": "47a1db8c7216e2d40174c47f9f60711c60216851a22c3dd0819d8bb5050817d9"
+    },
+    {
+      "id": "CH-0097",
+      "ordinal": 97,
+      "label_number": 98,
+      "title": "第98章 你俩是要筑巢吗？",
+      "normalized_char_start": 253214,
+      "normalized_char_end": 258509,
+      "characters": 5295,
+      "chapter_sha256": "9398c12cb76e7865f86998dd258bdc534f620f91b14888a231aa53a5e1da159e"
+    },
+    {
+      "id": "CH-0098",
+      "ordinal": 98,
+      "label_number": 100,
+      "title": "第100章 眼神交汇的夜晚！",
+      "normalized_char_start": 258509,
+      "normalized_char_end": 260752,
+      "characters": 2243,
+      "chapter_sha256": "7d37d34c0d208a9a2fe431cb13c09787e9c848972ad6ce9d9a5ecac01607471a"
+    },
+    {
+      "id": "CH-0099",
+      "ordinal": 99,
+      "label_number": 101,
+      "title": "第101章 雨水中的真相？",
+      "normalized_char_start": 260752,
+      "normalized_char_end": 263521,
+      "characters": 2769,
+      "chapter_sha256": "2bbcd151a6c0842eb308ab930841747e4e9efd5b42796cc6624b0ee75a9c985a"
+    },
+    {
+      "id": "CH-0100",
+      "ordinal": 100,
+      "label_number": 102,
+      "title": "第102章 魁地奇上的摄魂怪",
+      "normalized_char_start": 263521,
+      "normalized_char_end": 265794,
+      "characters": 2273,
+      "chapter_sha256": "0c2d070667fbb090c236bf9b26552d7eee94008b1d314a193a70a747a26c3f6c"
+    },
+    {
+      "id": "CH-0101",
+      "ordinal": 101,
+      "label_number": 103,
+      "title": "第103章 谁……谁和他滚作一团！",
+      "normalized_char_start": 265794,
+      "normalized_char_end": 268144,
+      "characters": 2350,
+      "chapter_sha256": "19ce7f0adf196ebf69450469dbd8d20c15d3e37e27efdeda934d74c1d5ec49ee"
+    },
+    {
+      "id": "CH-0102",
+      "ordinal": 102,
+      "label_number": 104,
+      "title": "第104章 相爱相杀？",
+      "normalized_char_start": 268144,
+      "normalized_char_end": 269673,
+      "characters": 1529,
+      "chapter_sha256": "05f9122a996adcd0c8a577e9630f2cda8f9e066ec0b9815044f093805015bb2a"
+    },
+    {
+      "id": "CH-0103",
+      "ordinal": 103,
+      "label_number": 105,
+      "title": "第105章 真相是这样的吗？",
+      "normalized_char_start": 269673,
+      "normalized_char_end": 272222,
+      "characters": 2549,
+      "chapter_sha256": "0f16585232b12ad0bccba587db3cc29664c79ef7ccb3a7da177953ada2ea9fed"
+    },
+    {
+      "id": "CH-0104",
+      "ordinal": 104,
+      "label_number": 106,
+      "title": "第106章 三把扫帚酒吧",
+      "normalized_char_start": 272222,
+      "normalized_char_end": 274793,
+      "characters": 2571,
+      "chapter_sha256": "36d5c270251bc751c57b94b86a01eb96fd76260670bf08ed44878ad07dc2d40b"
+    },
+    {
+      "id": "CH-0105",
+      "ordinal": 105,
+      "label_number": 107,
+      "title": "第107章 大小姐的心灵归属",
+      "normalized_char_start": 274793,
+      "normalized_char_end": 276853,
+      "characters": 2060,
+      "chapter_sha256": "4d33c3ede0f52b3a4f91766658d395b11fca6eded9adaf076bbeb8ee17017c47"
+    },
+    {
+      "id": "CH-0106",
+      "ordinal": 106,
+      "label_number": 108,
+      "title": "第108章 真美呢！天龙座！",
+      "normalized_char_start": 276853,
+      "normalized_char_end": 279392,
+      "characters": 2539,
+      "chapter_sha256": "294c7f57373a6151ba06ba93a3a45150b39cf06f4696d7e3aefc7505d40b33cd"
+    },
+    {
+      "id": "CH-0107",
+      "ordinal": 107,
+      "label_number": 109,
+      "title": "第109章 圣诞卡片",
+      "normalized_char_start": 279392,
+      "normalized_char_end": 281529,
+      "characters": 2137,
+      "chapter_sha256": "c2ac3d06a9a23f7989948ae1fe14ce02037088cd2c128885d748364df8aa2c0d"
+    },
+    {
+      "id": "CH-0108",
+      "ordinal": 108,
+      "label_number": 110,
+      "title": "第110章 心烦意乱的圣诞 上",
+      "normalized_char_start": 281529,
+      "normalized_char_end": 283674,
+      "characters": 2145,
+      "chapter_sha256": "e5318cd8413f08d3e3f6203372fceaa76e3dd5d0df12b1b36a8d99aa4f62d6b5"
+    },
+    {
+      "id": "CH-0109",
+      "ordinal": 109,
+      "label_number": 111,
+      "title": "第111章 心烦意乱点圣诞 下",
+      "normalized_char_start": 283674,
+      "normalized_char_end": 286132,
+      "characters": 2458,
+      "chapter_sha256": "7686e9e803ea75883cd3335e51266b1c3b7f8641b7d9c89c7d1b012b8baf8800"
+    },
+    {
+      "id": "CH-0110",
+      "ordinal": 110,
+      "label_number": 112,
+      "title": "第112章 这是我的完胜！！！",
+      "normalized_char_start": 286132,
+      "normalized_char_end": 288383,
+      "characters": 2251,
+      "chapter_sha256": "ff9c789c20e10bebfb7f868a467a542bec6b089dd11c934c3c68aba3e365b5a4"
+    },
+    {
+      "id": "CH-0111",
+      "ordinal": 111,
+      "label_number": 113,
+      "title": "第113章 笨蛋破特",
+      "normalized_char_start": 288383,
+      "normalized_char_end": 290839,
+      "characters": 2456,
+      "chapter_sha256": "4f17befbec8178b1f8075134367de4ac7a30ab055ebbceb9c03459f2b428b390"
+    },
+    {
+      "id": "CH-0112",
+      "ordinal": 112,
+      "label_number": 114,
+      "title": "第114章 那是最棒的礼物",
+      "normalized_char_start": 290839,
+      "normalized_char_end": 293251,
+      "characters": 2412,
+      "chapter_sha256": "40b577b2ca5aec7659eee56a7945c0b34fa837ab66606d4813b46f75b1430215"
+    },
+    {
+      "id": "CH-0113",
+      "ordinal": 113,
+      "label_number": 115,
+      "title": "第115章 黑狗的谜团",
+      "normalized_char_start": 293251,
+      "normalized_char_end": 295538,
+      "characters": 2287,
+      "chapter_sha256": "3050f85d1f81122cdd11b0a5978ec3a9084db6c822b5bbfb9e6a91862ee06752"
+    },
+    {
+      "id": "CH-0114",
+      "ordinal": 114,
+      "label_number": 116,
+      "title": "第116章 两个女孩的会面",
+      "normalized_char_start": 295538,
+      "normalized_char_end": 297858,
+      "characters": 2320,
+      "chapter_sha256": "343fba307447d048a6e9d54a80f9c71cfa801ffa89732b192fb7dbd95ba3c5e1"
+    },
+    {
+      "id": "CH-0115",
+      "ordinal": 115,
+      "label_number": 117,
+      "title": "第117章 拯救计划",
+      "normalized_char_start": 297858,
+      "normalized_char_end": 300201,
+      "characters": 2343,
+      "chapter_sha256": "e7456360ad5e50bfa3545fe6a9c36eb8ffa01474157ec07a08511046aef197eb"
+    },
+    {
+      "id": "CH-0116",
+      "ordinal": 116,
+      "label_number": 118,
+      "title": "第118章 三人的推测？",
+      "normalized_char_start": 300201,
+      "normalized_char_end": 302556,
+      "characters": 2355,
+      "chapter_sha256": "8e45c666e73081668f1923f80055b8659718bc8b298237103a4bb856298b6af9"
+    },
+    {
+      "id": "CH-0117",
+      "ordinal": 117,
+      "label_number": 119,
+      "title": "第119章 被没收的地图……",
+      "normalized_char_start": 302556,
+      "normalized_char_end": 304997,
+      "characters": 2441,
+      "chapter_sha256": "06512b2c8e80dc057766bd62e44294ae11173c7aa475fc84ef8788e237d61533"
+    },
+    {
+      "id": "CH-0118",
+      "ordinal": 118,
+      "label_number": 120,
+      "title": "第120章 夺冠前夕",
+      "normalized_char_start": 304997,
+      "normalized_char_end": 307828,
+      "characters": 2831,
+      "chapter_sha256": "3f5875a547b4a296d7b557c673f64bbb094a4e5c97280075adbabec4249b860d"
+    },
+    {
+      "id": "CH-0119",
+      "ordinal": 119,
+      "label_number": 121,
+      "title": "第121章 盘算",
+      "normalized_char_start": 307828,
+      "normalized_char_end": 309925,
+      "characters": 2097,
+      "chapter_sha256": "7459e033f2d3ac79bf312c80a0230c531264cfc68371bb9492fd7631e80dc8ab"
+    },
+    {
+      "id": "CH-0120",
+      "ordinal": 120,
+      "label_number": 122,
+      "title": "第122章 德拉科的父母……",
+      "normalized_char_start": 309925,
+      "normalized_char_end": 312070,
+      "characters": 2145,
+      "chapter_sha256": "6051c5330eb6c42768fde2950165481ef6ec467c5201af314cf002e8c90f1a4c"
+    },
+    {
+      "id": "CH-0121",
+      "ordinal": 121,
+      "label_number": 123,
+      "title": "第123章 德拉科，你在干什么？",
+      "normalized_char_start": 312070,
+      "normalized_char_end": 314961,
+      "characters": 2891,
+      "chapter_sha256": "9fcff793cd45387ceccfa49c2f8a285c9729a32ba97bf5515930cd23c5e8b693"
+    },
+    {
+      "id": "CH-0122",
+      "ordinal": 122,
+      "label_number": 124,
+      "title": "第124章 变换的称呼",
+      "normalized_char_start": 314961,
+      "normalized_char_end": 317217,
+      "characters": 2256,
+      "chapter_sha256": "db89e5ee8e32ea02330a589230167a8cbb97da91f8543d8aaad71e22c4779754"
+    },
+    {
+      "id": "CH-0123",
+      "ordinal": 123,
+      "label_number": 125,
+      "title": "第125章 几人的行动",
+      "normalized_char_start": 317217,
+      "normalized_char_end": 319581,
+      "characters": 2364,
+      "chapter_sha256": "53de6d510863b13e17ea122067b6a6d94905ade9fcd5294cc770f7e97ede99eb"
+    },
+    {
+      "id": "CH-0124",
+      "ordinal": 124,
+      "label_number": 126,
+      "title": "第126章 让开……破特！",
+      "normalized_char_start": 319581,
+      "normalized_char_end": 321871,
+      "characters": 2290,
+      "chapter_sha256": "8084f1cb1b793519ff34896e5e78ee503cbd6e9ca14bb9d32617dcf1d7f5b1ea"
+    },
+    {
+      "id": "CH-0125",
+      "ordinal": 125,
+      "label_number": 127,
+      "title": "第127章 波特夫妇？",
+      "normalized_char_start": 321871,
+      "normalized_char_end": 324724,
+      "characters": 2853,
+      "chapter_sha256": "a141b46a35dbc8e7c3c00e06f803d704bf705d6fe6fb9c57907a18ffd631094d"
+    },
+    {
+      "id": "CH-0126",
+      "ordinal": 126,
+      "label_number": 128,
+      "title": "第128章 ……",
+      "normalized_char_start": 324724,
+      "normalized_char_end": 327115,
+      "characters": 2391,
+      "chapter_sha256": "4e2d1d84bdea67f2ef70472e9c9be07ee787305562e035ab52386976aa8256d9"
+    },
+    {
+      "id": "CH-0127",
+      "ordinal": 127,
+      "label_number": 129,
+      "title": "第129章 不能让她和自己一样！",
+      "normalized_char_start": 327115,
+      "normalized_char_end": 329449,
+      "characters": 2334,
+      "chapter_sha256": "e891b3662b05cbf4c5eadc2d79c4b5cfc72fc1cfa79c11afc6c486ce97ff02b5"
+    },
+    {
+      "id": "CH-0128",
+      "ordinal": 128,
+      "label_number": 130,
+      "title": "第130章 叛逆千金联盟",
+      "normalized_char_start": 329449,
+      "normalized_char_end": 331660,
+      "characters": 2211,
+      "chapter_sha256": "baae1df9d370a8f7d409f92bc8db0e3f1a5f1a12818d482e2688cd70c94516f2"
+    },
+    {
+      "id": "CH-0129",
+      "ordinal": 129,
+      "label_number": 131,
+      "title": "第131章 浮现的标记",
+      "normalized_char_start": 331660,
+      "normalized_char_end": 334450,
+      "characters": 2790,
+      "chapter_sha256": "8d7540ab78774a485ec9f6a68ce8bda85f5df36dfc4ccb7985ab07d100123190"
+    },
+    {
+      "id": "CH-0130",
+      "ordinal": 130,
+      "label_number": 132,
+      "title": "第132章 枕头大战！",
+      "normalized_char_start": 334450,
+      "normalized_char_end": 336468,
+      "characters": 2018,
+      "chapter_sha256": "fc73d2aec523769b75096b859c01010540d241940c8c9050a0b2ef294c0c6a4c"
+    },
+    {
+      "id": "CH-0131",
+      "ordinal": 131,
+      "label_number": 133,
+      "title": "第133章 另一面的家人",
+      "normalized_char_start": 336468,
+      "normalized_char_end": 338522,
+      "characters": 2054,
+      "chapter_sha256": "09b304b0191061ffd55282a35a501b93a89c2a74cb24db916367b1790400cc31"
+    },
+    {
+      "id": "CH-0132",
+      "ordinal": 132,
+      "label_number": 134,
+      "title": "第134章 亲昵的书信",
+      "normalized_char_start": 338522,
+      "normalized_char_end": 340815,
+      "characters": 2293,
+      "chapter_sha256": "f7df81c7f2460f6cb14773d9860fcee29e5e0b478e06052517550a978836247b"
+    },
+    {
+      "id": "CH-0133",
+      "ordinal": 133,
+      "label_number": 135,
+      "title": "第135章 第二次书信",
+      "normalized_char_start": 340815,
+      "normalized_char_end": 342853,
+      "characters": 2038,
+      "chapter_sha256": "3bdf0bf23eab4a1d87937506fb0c7cabc74317090ddd5bc4887e206e5944c3bc"
+    },
+    {
+      "id": "CH-0134",
+      "ordinal": 134,
+      "label_number": 136,
+      "title": "第136章 分析分析",
+      "normalized_char_start": 342853,
+      "normalized_char_end": 345517,
+      "characters": 2664,
+      "chapter_sha256": "d0226a610b9ab097446429e6aee2e1b284843f31c8d498dfc9771c4cf9ea1aff"
+    },
+    {
+      "id": "CH-0135",
+      "ordinal": 135,
+      "label_number": 137,
+      "title": "第137章 小绅士",
+      "normalized_char_start": 345517,
+      "normalized_char_end": 347599,
+      "characters": 2082,
+      "chapter_sha256": "8d8e04ffb8fdc4be0c6d667dfd9b1f17de652334de880292c649f3a39a5e7998"
+    },
+    {
+      "id": "CH-0136",
+      "ordinal": 136,
+      "label_number": 138,
+      "title": "第138章 搞的跟求婚一样？（糖）",
+      "normalized_char_start": 347599,
+      "normalized_char_end": 350434,
+      "characters": 2835,
+      "chapter_sha256": "b46449f0fc7ab09aad64efaa7c4ac1977394e388dac4103b01d276d4959dd9d2"
+    },
+    {
+      "id": "CH-0137",
+      "ordinal": 137,
+      "label_number": 139,
+      "title": "第139章 哈……哈利",
+      "normalized_char_start": 350434,
+      "normalized_char_end": 353250,
+      "characters": 2816,
+      "chapter_sha256": "5f945a4d5ef058e1cf0bdb6671553899fd9f592ce19e69abae06a12d450b9684"
+    },
+    {
+      "id": "CH-0138",
+      "ordinal": 138,
+      "label_number": 140,
+      "title": "第140章 你得意思是我可以……",
+      "normalized_char_start": 353250,
+      "normalized_char_end": 355447,
+      "characters": 2197,
+      "chapter_sha256": "4888509f4f78c5bb8a0d076ecf89b7836a86b76ab8685c992c7650912b140c20"
+    },
+    {
+      "id": "CH-0139",
+      "ordinal": 139,
+      "label_number": 141,
+      "title": "第141章 沁入内心的温暖（糖）",
+      "normalized_char_start": 355447,
+      "normalized_char_end": 357640,
+      "characters": 2193,
+      "chapter_sha256": "7c8991bb4dfa216c6f8994346a407e57412f1b915428989ff326c9491423f575"
+    },
+    {
+      "id": "CH-0140",
+      "ordinal": 140,
+      "label_number": 142,
+      "title": "第142章 危机袭来",
+      "normalized_char_start": 357640,
+      "normalized_char_end": 360555,
+      "characters": 2915,
+      "chapter_sha256": "f09d302ccfe1543a4ab4d4e8082adc724d920b37d7e6a846c534a47d68ef61b4"
+    },
+    {
+      "id": "CH-0141",
+      "ordinal": 141,
+      "label_number": 143,
+      "title": "第143章 黑魔标记",
+      "normalized_char_start": 360555,
+      "normalized_char_end": 362750,
+      "characters": 2195,
+      "chapter_sha256": "3cced87a8eeb7fb6d671042bf032cc22ae954f43a110516c52b4504f2e84f91e"
+    },
+    {
+      "id": "CH-0142",
+      "ordinal": 142,
+      "label_number": 144,
+      "title": "第144章 那个其实是我的魔杖",
+      "normalized_char_start": 362750,
+      "normalized_char_end": 365590,
+      "characters": 2840,
+      "chapter_sha256": "aa209460f7fe8d4f97a7381f3c43d34d586d1852e0e179e09f913dc74df913e3"
+    },
+    {
+      "id": "CH-0143",
+      "ordinal": 143,
+      "label_number": 145,
+      "title": "第145章 谜团",
+      "normalized_char_start": 365590,
+      "normalized_char_end": 367870,
+      "characters": 2280,
+      "chapter_sha256": "583af423a3f78979e666304fc08d4c5dae3d02dee0f57277f13754493a57435e"
+    },
+    {
+      "id": "CH-0144",
+      "ordinal": 144,
+      "label_number": 146,
+      "title": "第146章 护夫心切？",
+      "normalized_char_start": 367870,
+      "normalized_char_end": 370770,
+      "characters": 2900,
+      "chapter_sha256": "a91f02d99cf7390ccecc1ced2bcb28f836bc82548662db7ad0552e7b13b055e6"
+    },
+    {
+      "id": "CH-0145",
+      "ordinal": 145,
+      "label_number": 147,
+      "title": "第147章 礼服和礼服",
+      "normalized_char_start": 370770,
+      "normalized_char_end": 372949,
+      "characters": 2179,
+      "chapter_sha256": "e96d696b6b62ee04abeaa6fb04b9d7727ab182eb326f38744c49c5acb77ac72a"
+    },
+    {
+      "id": "CH-0146",
+      "ordinal": 146,
+      "label_number": 148,
+      "title": "第148章 懒得取名",
+      "normalized_char_start": 372949,
+      "normalized_char_end": 375015,
+      "characters": 2066,
+      "chapter_sha256": "2bc413fec6c29521fca975aba3d9c694a95d6342ce04fc045c0054c072a5c8ea"
+    },
+    {
+      "id": "CH-0147",
+      "ordinal": 147,
+      "label_number": 149,
+      "title": "第149章 异样的目光",
+      "normalized_char_start": 375015,
+      "normalized_char_end": 377310,
+      "characters": 2295,
+      "chapter_sha256": "ccb8b91ccd3642ae190f968c66090af3d54a2c22e6e19d59a497201b7fa4a97a"
+    },
+    {
+      "id": "CH-0148",
+      "ordinal": 148,
+      "label_number": 150,
+      "title": "第150章 你需要强大的心灵",
+      "normalized_char_start": 377310,
+      "normalized_char_end": 379853,
+      "characters": 2543,
+      "chapter_sha256": "a722e21f65d567ab76699505acfec6cbd04d2bf989e5e088a11c726c72f4f973"
+    },
+    {
+      "id": "CH-0149",
+      "ordinal": 149,
+      "label_number": 151,
+      "title": "第151章 被施变形术？",
+      "normalized_char_start": 379853,
+      "normalized_char_end": 382232,
+      "characters": 2379,
+      "chapter_sha256": "b3ecf0c6b2d56e30f3e75af41e90e7debebd0072004fd40fd8b9c01eaac27d4c"
+    },
+    {
+      "id": "CH-0150",
+      "ordinal": 150,
+      "label_number": 152,
+      "title": "第152章 糖在章末，别跑",
+      "normalized_char_start": 382232,
+      "normalized_char_end": 384481,
+      "characters": 2249,
+      "chapter_sha256": "14ea15827dd29ec04c1563694430249c13ff502d4b78064e1055b2a058b93533"
+    },
+    {
+      "id": "CH-0151",
+      "ordinal": 151,
+      "label_number": 153,
+      "title": "第153章 穆迪的课堂",
+      "normalized_char_start": 384481,
+      "normalized_char_end": 387025,
+      "characters": 2544,
+      "chapter_sha256": "d5dfec7ed1f3cc19a75dec8181bbe9abd7acb4c0f69d2cc43fbeff2c831b8405"
+    },
+    {
+      "id": "CH-0152",
+      "ordinal": 152,
+      "label_number": 153,
+      "title": "第153章 依旧懒得取名",
+      "normalized_char_start": 387025,
+      "normalized_char_end": 389389,
+      "characters": 2364,
+      "chapter_sha256": "d5d065571b370b50d493b687fb816ceec7dc46c23fd63cbbc5e6edee1ca5cd29"
+    },
+    {
+      "id": "CH-0153",
+      "ordinal": 153,
+      "label_number": 154,
+      "title": "第154章 火焰杯序幕",
+      "normalized_char_start": 389389,
+      "normalized_char_end": 392190,
+      "characters": 2801,
+      "chapter_sha256": "7b582a0c31442390934460c8b5199be6859578f46bd95d8aae2c12550c7a5e2d"
+    },
+    {
+      "id": "CH-0154",
+      "ordinal": 154,
+      "label_number": 155,
+      "title": "第155章 又是麻烦事",
+      "normalized_char_start": 392190,
+      "normalized_char_end": 394436,
+      "characters": 2246,
+      "chapter_sha256": "663c8d7107c4a873c5d7e9addb679e570fb7745da63ea96756efd57525166b4c"
+    },
+    {
+      "id": "CH-0155",
+      "ordinal": 155,
+      "label_number": 156,
+      "title": "第156章 不要浪费本小姐时间",
+      "normalized_char_start": 394436,
+      "normalized_char_end": 397139,
+      "characters": 2703,
+      "chapter_sha256": "4be23e76d2a96ee12a595bc6e23a27a082b32a7bfa961f893bd499dd796eedbe"
+    },
+    {
+      "id": "CH-0156",
+      "ordinal": 156,
+      "label_number": 157,
+      "title": "第157章 深夜的图书馆",
+      "normalized_char_start": 397139,
+      "normalized_char_end": 399941,
+      "characters": 2802,
+      "chapter_sha256": "1535d3f1b3db882ee7c1a09f60c70bca07a55e1d595c14360dd89b2ff14be765"
+    },
+    {
+      "id": "CH-0157",
+      "ordinal": 157,
+      "label_number": 158,
+      "title": "第158章 你的哈利",
+      "normalized_char_start": 399941,
+      "normalized_char_end": 401966,
+      "characters": 2025,
+      "chapter_sha256": "dfc3b2f29b2265de50950b9e02268c78025bbbc5af1e448e2b271a38103a8e93"
+    },
+    {
+      "id": "CH-0158",
+      "ordinal": 158,
+      "label_number": 159,
+      "title": "第159章 应付斯基特",
+      "normalized_char_start": 401966,
+      "normalized_char_end": 404358,
+      "characters": 2392,
+      "chapter_sha256": "8695ed4ed769c2efdf20f1b79762bd9a0232d7f9cc61490f1b434aacf3f4518c"
+    },
+    {
+      "id": "CH-0159",
+      "ordinal": 159,
+      "label_number": 160,
+      "title": "第160章 没发完呢！",
+      "normalized_char_start": 404358,
+      "normalized_char_end": 406793,
+      "characters": 2435,
+      "chapter_sha256": "5f00339f7ed923cb303856318466afaa457f53c0728675e5363657bdc0c7fb07"
+    },
+    {
+      "id": "CH-0160",
+      "ordinal": 160,
+      "label_number": 161,
+      "title": "第161章 顺利的通过",
+      "normalized_char_start": 406793,
+      "normalized_char_end": 409129,
+      "characters": 2336,
+      "chapter_sha256": "18356e19b479c1ec3e7b23198f17add7de9dd9cf606c23dc8638f99e70296af6"
+    },
+    {
+      "id": "CH-0161",
+      "ordinal": 161,
+      "label_number": 162,
+      "title": "第162章 闪闪",
+      "normalized_char_start": 409129,
+      "normalized_char_end": 411541,
+      "characters": 2412,
+      "chapter_sha256": "d41bcbe0649d4c1af176faef172490bcaee3076eeaeed5599e6d3647c8f553e8"
+    },
+    {
+      "id": "CH-0162",
+      "ordinal": 162,
+      "label_number": 163,
+      "title": "第163章 隐藏的真相",
+      "normalized_char_start": 411541,
+      "normalized_char_end": 414152,
+      "characters": 2611,
+      "chapter_sha256": "077de66c6a1bc12d075890e9dd791713664804b37ec61e55379e325f63078e33"
+    },
+    {
+      "id": "CH-0163",
+      "ordinal": 163,
+      "label_number": 164,
+      "title": "第164章 本小姐也要在斗篷里！",
+      "normalized_char_start": 414152,
+      "normalized_char_end": 416284,
+      "characters": 2132,
+      "chapter_sha256": "1a2e3b436850faf3c407e5cf94d107e8011a93178561fdb4cd9c70441da20482"
+    },
+    {
+      "id": "CH-0164",
+      "ordinal": 164,
+      "label_number": 165,
+      "title": "第165章 舞会？",
+      "normalized_char_start": 416284,
+      "normalized_char_end": 418528,
+      "characters": 2244,
+      "chapter_sha256": "58d5f744de72c8e414b5cbdd108c5316bf5fcb78944a04c8c21b23399920124b"
+    },
+    {
+      "id": "CH-0165",
+      "ordinal": 165,
+      "label_number": 166,
+      "title": "第166章 Always!",
+      "normalized_char_start": 418528,
+      "normalized_char_end": 421773,
+      "characters": 3245,
+      "chapter_sha256": "792c2f0e37f8557b22b290681e51e2965273427bf2f416ac8a0d77fbeb69aba5"
+    },
+    {
+      "id": "CH-0166",
+      "ordinal": 166,
+      "label_number": 167,
+      "title": "第167章 被千金抓住的斯基特",
+      "normalized_char_start": 421773,
+      "normalized_char_end": 424116,
+      "characters": 2343,
+      "chapter_sha256": "45ecbc7d362d0f77ca6e778fb9204f5b611fa9757bd849ea269aefb7dcd6e2f0"
+    },
+    {
+      "id": "CH-0167",
+      "ordinal": 167,
+      "label_number": 168,
+      "title": "第168章 礼服",
+      "normalized_char_start": 424116,
+      "normalized_char_end": 426564,
+      "characters": 2448,
+      "chapter_sha256": "0a3f4b7aa3fc881b4b2852647197214eda472a83a0cebb3e04ff3b7b577dc9cc"
+    },
+    {
+      "id": "CH-0168",
+      "ordinal": 168,
+      "label_number": 169,
+      "title": "第169章 斯莱特林的女王",
+      "normalized_char_start": 426564,
+      "normalized_char_end": 428659,
+      "characters": 2095,
+      "chapter_sha256": "f35a2e33564df495bda2b8b9076b202632da8af4531291852c178ec01687ef9e"
+    },
+    {
+      "id": "CH-0169",
+      "ordinal": 169,
+      "label_number": 170,
+      "title": "第170章 完美的舞会",
+      "normalized_char_start": 428659,
+      "normalized_char_end": 431801,
+      "characters": 3142,
+      "chapter_sha256": "9a0b5db6e2ab4d33b2f664c76671d5354e387634e50cbcb82c3dda5f7cabdaf1"
+    },
+    {
+      "id": "CH-0170",
+      "ordinal": 170,
+      "label_number": 171,
+      "title": "第171章 我们现在是什么关系呢？",
+      "normalized_char_start": 431801,
+      "normalized_char_end": 434171,
+      "characters": 2370,
+      "chapter_sha256": "b4c281778e66d13b4c22124a415c9375a6d59c2383ac4c3965fb97d4650ddc7e"
+    },
+    {
+      "id": "CH-0171",
+      "ordinal": 171,
+      "label_number": 172,
+      "title": "第172章 如果告白了会怎样？",
+      "normalized_char_start": 434171,
+      "normalized_char_end": 436862,
+      "characters": 2691,
+      "chapter_sha256": "7451ac66950217e220a4c38e8b9178d63d4d52a47174a14b9f89cfa527cff1fd"
+    },
+    {
+      "id": "CH-0172",
+      "ordinal": 172,
+      "label_number": 173,
+      "title": "第173章 你要一起吗？泡澡！",
+      "normalized_char_start": 436862,
+      "normalized_char_end": 438557,
+      "characters": 1695,
+      "chapter_sha256": "9b49e4fb64f3fd6db4b0a12db2b569d0f79efc22f4e021e7a7ef74b142f638c7"
+    },
+    {
+      "id": "CH-0173",
+      "ordinal": 173,
+      "label_number": 174,
+      "title": "第174章 共闯浴室！",
+      "normalized_char_start": 438557,
+      "normalized_char_end": 440433,
+      "characters": 1876,
+      "chapter_sha256": "de0cbbdaa1f2500b175fdf590137ef7461f269625800a5504f831882ddeece77"
+    },
+    {
+      "id": "CH-0174",
+      "ordinal": 174,
+      "label_number": 175,
+      "title": "第175章 变态破特！！！",
+      "normalized_char_start": 440433,
+      "normalized_char_end": 442505,
+      "characters": 2072,
+      "chapter_sha256": "14f34d694c8052840679979766317f81a6f562afd7c6d2ff39d190e55c9a9546"
+    },
+    {
+      "id": "CH-0175",
+      "ordinal": 175,
+      "label_number": 176,
+      "title": "第176章 柔软的手掌",
+      "normalized_char_start": 442505,
+      "normalized_char_end": 445016,
+      "characters": 2511,
+      "chapter_sha256": "61a35a623fc3332fe19f64c1284395ecf769f663761a5507174d8822033c3a8b"
+    },
+    {
+      "id": "CH-0176",
+      "ordinal": 176,
+      "label_number": 177,
+      "title": "第177章 被发现的两人",
+      "normalized_char_start": 445016,
+      "normalized_char_end": 447341,
+      "characters": 2325,
+      "chapter_sha256": "698c61b49accafeb4bb387e3d78df8756b1ac6873b29bdb66706f189bf83b6e8"
+    },
+    {
+      "id": "CH-0177",
+      "ordinal": 177,
+      "label_number": 178,
+      "title": "第178章 不要再和波特夜游了！",
+      "normalized_char_start": 447341,
+      "normalized_char_end": 449607,
+      "characters": 2266,
+      "chapter_sha256": "a3de01c999b5c3279a8ce75084127e8a96ce71537908649cf06a6005199f13b1"
+    },
+    {
+      "id": "CH-0178",
+      "ordinal": 178,
+      "label_number": 179,
+      "title": "第179章 你是我的谁吗？",
+      "normalized_char_start": 449607,
+      "normalized_char_end": 452154,
+      "characters": 2547,
+      "chapter_sha256": "e222d550870600447370b0ce48a622e34b62f68a5e2721b545a767aa20593070"
+    },
+    {
+      "id": "CH-0179",
+      "ordinal": 179,
+      "label_number": 180,
+      "title": "第180章 斗士们的珍宝",
+      "normalized_char_start": 452154,
+      "normalized_char_end": 454042,
+      "characters": 1888,
+      "chapter_sha256": "329de093bf6608f2ac9f489c1a5424130caa255085117ca4004dfa1222847d13"
+    },
+    {
+      "id": "CH-0180",
+      "ordinal": 180,
+      "label_number": 181,
+      "title": "第181章 现在我们？",
+      "normalized_char_start": 454042,
+      "normalized_char_end": 456535,
+      "characters": 2493,
+      "chapter_sha256": "ad3806e1d69417754fb9e131d629a86c4d1533f456383c79e96bc41c4307c832"
+    },
+    {
+      "id": "CH-0181",
+      "ordinal": 181,
+      "label_number": 182,
+      "title": "第182章 亲爱的女朋友与笨蛋男朋友",
+      "normalized_char_start": 456535,
+      "normalized_char_end": 459188,
+      "characters": 2653,
+      "chapter_sha256": "7fdf3db997e5057824b954498c7d1fd8d43104f9791ca1b38f5635643923f72c"
+    },
+    {
+      "id": "CH-0182",
+      "ordinal": 182,
+      "label_number": 183,
+      "title": "第183章 风雨欲来",
+      "normalized_char_start": 459188,
+      "normalized_char_end": 461329,
+      "characters": 2141,
+      "chapter_sha256": "61ae65a85815f9f44dc2a9d866c569a19bb2e0a0346c3ba99e478e70babfca45"
+    },
+    {
+      "id": "CH-0183",
+      "ordinal": 183,
+      "label_number": 184,
+      "title": "第184章 情侣的出游",
+      "normalized_char_start": 461329,
+      "normalized_char_end": 463909,
+      "characters": 2580,
+      "chapter_sha256": "ed27045ad4de9c5d1cb212998a80c79144e16f9be8f0b89d98168eb41d4f2e03"
+    },
+    {
+      "id": "CH-0184",
+      "ordinal": 184,
+      "label_number": 185,
+      "title": "第185章 会面",
+      "normalized_char_start": 463909,
+      "normalized_char_end": 465716,
+      "characters": 1807,
+      "chapter_sha256": "769822bb4ae1893a11589b87b1bc93161e62be80ede11f873f64f75c9bfebc76"
+    },
+    {
+      "id": "CH-0185",
+      "ordinal": 185,
+      "label_number": 186,
+      "title": "第186章 你倒是比你妈妈勇敢一点",
+      "normalized_char_start": 465716,
+      "normalized_char_end": 468767,
+      "characters": 3051,
+      "chapter_sha256": "42ebf24e0a8f87ce5a1d2651696c941d46b39b66599a8da28926f9c885f47664"
+    },
+    {
+      "id": "CH-0186",
+      "ordinal": 186,
+      "label_number": 187,
+      "title": "第187章 克劳奇的故事",
+      "normalized_char_start": 468767,
+      "normalized_char_end": 470604,
+      "characters": 1837,
+      "chapter_sha256": "6f7c5acad23615cde66a51190c5275cf62f1909587f12194be79e2d695613b1b"
+    },
+    {
+      "id": "CH-0187",
+      "ordinal": 187,
+      "label_number": 188,
+      "title": "第188章 逐渐清晰的谜团",
+      "normalized_char_start": 470604,
+      "normalized_char_end": 473451,
+      "characters": 2847,
+      "chapter_sha256": "09fe1f16cc771add89d223f640f60590113d4fa6efa1e32379becf5ea9f3b6d0"
+    },
+    {
+      "id": "CH-0188",
+      "ordinal": 188,
+      "label_number": 189,
+      "title": "第189章 揭开一角的神秘",
+      "normalized_char_start": 473451,
+      "normalized_char_end": 475678,
+      "characters": 2227,
+      "chapter_sha256": "0a6652ae586b2ede2c627d9f570ca3327751032ce5f9d12ec7d3a78bc381b99e"
+    },
+    {
+      "id": "CH-0189",
+      "ordinal": 189,
+      "label_number": 190,
+      "title": "第190章 你是哪个穆迪？（明日请假一天）",
+      "normalized_char_start": 475678,
+      "normalized_char_end": 478117,
+      "characters": 2439,
+      "chapter_sha256": "fcc75fdfb72f6e5d9ef4ad7f506e5547f28487471b75b38300720d010e3059df"
+    },
+    {
+      "id": "CH-0190",
+      "ordinal": 190,
+      "label_number": 191,
+      "title": "第191章 她很好啊！",
+      "normalized_char_start": 478117,
+      "normalized_char_end": 480018,
+      "characters": 1901,
+      "chapter_sha256": "85fe2d34c1c6509fa3672cd19822ab93a8402acab7361993b375f9e10564d136"
+    },
+    {
+      "id": "CH-0191",
+      "ordinal": 191,
+      "label_number": 192,
+      "title": "第192章 你会是很好的校长",
+      "normalized_char_start": 480018,
+      "normalized_char_end": 481587,
+      "characters": 1569,
+      "chapter_sha256": "70b4f8c7ae1e52c00edd342dddb341b3d3ca7de0f53cbcea36dcb1996a7e7bf7"
+    },
+    {
+      "id": "CH-0192",
+      "ordinal": 192,
+      "label_number": 193,
+      "title": "第193章 试炼的前夕",
+      "normalized_char_start": 481587,
+      "normalized_char_end": 484792,
+      "characters": 3205,
+      "chapter_sha256": "5d360126a9569c9995488b30ce1a3353a95ab740a2c72f7b19f52970549b7130"
+    },
+    {
+      "id": "CH-0193",
+      "ordinal": 193,
+      "label_number": 1,
+      "title": "第1章 邓不利多的启示",
+      "normalized_char_start": 484792,
+      "normalized_char_end": 486958,
+      "characters": 2166,
+      "chapter_sha256": "38ba6d515c4db7f9a82ec240de22f3a37afe852078c36021740f86d40816a6ed"
+    },
+    {
+      "id": "CH-0194",
+      "ordinal": 194,
+      "label_number": 195,
+      "title": "第195章 第三次试炼开幕",
+      "normalized_char_start": 486958,
+      "normalized_char_end": 489563,
+      "characters": 2605,
+      "chapter_sha256": "9b0787c096e21e487451e5796157434eb7f6c56b189b931fad61d801c53d32f2"
+    },
+    {
+      "id": "CH-0195",
+      "ordinal": 195,
+      "label_number": 196,
+      "title": "第196章 他回来了……",
+      "normalized_char_start": 489563,
+      "normalized_char_end": 491697,
+      "characters": 2134,
+      "chapter_sha256": "a2fabf5a5789a05517c68e376544e4f613c1a140f30a4e7991e7f91374abf2d2"
+    },
+    {
+      "id": "CH-0196",
+      "ordinal": 196,
+      "label_number": 197,
+      "title": "第197章 彻底被揭穿的巴蒂二世",
+      "normalized_char_start": 491697,
+      "normalized_char_end": 494172,
+      "characters": 2475,
+      "chapter_sha256": "82aac2698956e132a68b7818cdf868147f5b376e50e07febcf726b3ee4a99e15"
+    },
+    {
+      "id": "CH-0197",
+      "ordinal": 197,
+      "label_number": 198,
+      "title": "第198章 你永远都有选择",
+      "normalized_char_start": 494172,
+      "normalized_char_end": 496789,
+      "characters": 2617,
+      "chapter_sha256": "663b103aa3abeb85825303796708235655ce7c5dab9ef5d28d0395efb1da6187"
+    },
+    {
+      "id": "CH-0198",
+      "ordinal": 198,
+      "label_number": 1,
+      "title": "第1章 黑魔王",
+      "normalized_char_start": 496789,
+      "normalized_char_end": 498893,
+      "characters": 2104,
+      "chapter_sha256": "e83ba3beef715090973a0de5a6ab85d472d07356ec5f5482633de179ae68384d"
+    },
+    {
+      "id": "CH-0199",
+      "ordinal": 199,
+      "label_number": 200,
+      "title": "第200章 邓不利多相信，爱是世界上最伟大的魔法",
+      "normalized_char_start": 498893,
+      "normalized_char_end": 500500,
+      "characters": 1607,
+      "chapter_sha256": "faaa3f5598db41cd3d323438feb9a153ed8f283dae4a2906bb59ba60314bfab0"
+    },
+    {
+      "id": "CH-0200",
+      "ordinal": 200,
+      "label_number": 201,
+      "title": "第201章 放...放开本小姐！变态波特！",
+      "normalized_char_start": 500500,
+      "normalized_char_end": 502428,
+      "characters": 1928,
+      "chapter_sha256": "5cfd7eceec0d51eb421bfd9ab8a6fbe144c5291e324a7422c48ab9d75564e463"
+    },
+    {
+      "id": "CH-0201",
+      "ordinal": 201,
+      "label_number": 202,
+      "title": "第202章 谢谢你，男朋友",
+      "normalized_char_start": 502428,
+      "normalized_char_end": 503781,
+      "characters": 1353,
+      "chapter_sha256": "008fd2e35c29bf3b2a53d4df6dfdb852f6d302e0b6a494c59466180ff0eabe74"
+    },
+    {
+      "id": "CH-0202",
+      "ordinal": 202,
+      "label_number": 203,
+      "title": "第203章 布莱克分家",
+      "normalized_char_start": 503781,
+      "normalized_char_end": 506065,
+      "characters": 2284,
+      "chapter_sha256": "713376004c375e7fa01991496280818a8d2852a4eda7d5837fde219b8a38c426"
+    },
+    {
+      "id": "CH-0203",
+      "ordinal": 203,
+      "label_number": 204,
+      "title": "第204章 过去的故事",
+      "normalized_char_start": 506065,
+      "normalized_char_end": 508217,
+      "characters": 2152,
+      "chapter_sha256": "708ef8860918b4f0b0518a123c9c5da00eb91e838ec7434963bf415b22adc194"
+    },
+    {
+      "id": "CH-0204",
+      "ordinal": 204,
+      "label_number": 205,
+      "title": "第205章 小狮子雷古勒斯的记忆",
+      "normalized_char_start": 508217,
+      "normalized_char_end": 510440,
+      "characters": 2223,
+      "chapter_sha256": "c088668f16c1dc840826fd6afbc31cd4787e4f29ad67e62d5c3ffa2c72d81453"
+    },
+    {
+      "id": "CH-0205",
+      "ordinal": 205,
+      "label_number": 206,
+      "title": "第206章 讨厌的多洛雷斯登场",
+      "normalized_char_start": 510440,
+      "normalized_char_end": 512614,
+      "characters": 2174,
+      "chapter_sha256": "ffd3449345ae5d54b0c3141c8e2f0f967d47d7f6c121d954491b9733e3a19261"
+    },
+    {
+      "id": "CH-0206",
+      "ordinal": 206,
+      "label_number": 207,
+      "title": "第207章 如果生在格林德沃时代就好了……",
+      "normalized_char_start": 512614,
+      "normalized_char_end": 515272,
+      "characters": 2658,
+      "chapter_sha256": "8ca430b01ebdbca78f5ba4e0f74844696a6009cab5a4bbf4048dd308fdc93f8b"
+    },
+    {
+      "id": "CH-0207",
+      "ordinal": 207,
+      "label_number": 208,
+      "title": "第208章 同在一片天空下",
+      "normalized_char_start": 515272,
+      "normalized_char_end": 517541,
+      "characters": 2269,
+      "chapter_sha256": "58d8120bff10901044dc218ed55cfe8cd7395f9347b7525dcaf4a589280fab21"
+    },
+    {
+      "id": "CH-0208",
+      "ordinal": 208,
+      "label_number": 209,
+      "title": "第209章 你放心做你想做的",
+      "normalized_char_start": 517541,
+      "normalized_char_end": 519919,
+      "characters": 2378,
+      "chapter_sha256": "cd72e4eb642d5321ac8230d4429a42b9d6111786596936f34c330ae01f2bc38d"
+    },
+    {
+      "id": "CH-0209",
+      "ordinal": 209,
+      "label_number": 210,
+      "title": "第210章 就在隔壁",
+      "normalized_char_start": 519919,
+      "normalized_char_end": 521962,
+      "characters": 2043,
+      "chapter_sha256": "181d8d54de600d3404197a01101c4e9b83784605e8fc980de903b9459062f6ec"
+    },
+    {
+      "id": "CH-0210",
+      "ordinal": 210,
+      "label_number": 211,
+      "title": "第211章 暴怒的哈利波特",
+      "normalized_char_start": 521962,
+      "normalized_char_end": 523957,
+      "characters": 1995,
+      "chapter_sha256": "eee88182e13d22c95662386bb6a2e22cdd771ef67b772bf987d452f28a6bcfd3"
+    },
+    {
+      "id": "CH-0211",
+      "ordinal": 211,
+      "label_number": 212,
+      "title": "第212章 你个变态看了多久？",
+      "normalized_char_start": 523957,
+      "normalized_char_end": 526324,
+      "characters": 2367,
+      "chapter_sha256": "09fa1bf1c9121142eed4a4d2ac7956d6e8787be738f93802cc042ade86c00e72"
+    },
+    {
+      "id": "CH-0212",
+      "ordinal": 212,
+      "label_number": 213,
+      "title": "第213章 一同前往威森加摩",
+      "normalized_char_start": 526324,
+      "normalized_char_end": 528363,
+      "characters": 2039,
+      "chapter_sha256": "eef8a1c2976fedba56e6f1ec14eef9eb783af9561bd19cbde672488cc6aa4d36"
+    },
+    {
+      "id": "CH-0213",
+      "ordinal": 213,
+      "label_number": 214,
+      "title": "第214章 十指相扣：我会陪你",
+      "normalized_char_start": 528363,
+      "normalized_char_end": 531151,
+      "characters": 2788,
+      "chapter_sha256": "c2af2055b7aabc75f04d75d91ca7b028f628cfeeb66817b8322a6827ba0a71b3"
+    },
+    {
+      "id": "CH-0214",
+      "ordinal": 214,
+      "label_number": 216,
+      "title": "第216章 我会等你",
+      "normalized_char_start": 531151,
+      "normalized_char_end": 533187,
+      "characters": 2036,
+      "chapter_sha256": "fe4bc66a485a4c226c9db18486fe966025a5421eced677ffdf6727a15c0056ba"
+    },
+    {
+      "id": "CH-0215",
+      "ordinal": 215,
+      "label_number": 217,
+      "title": "第217章 与岳父的“首战”告捷",
+      "normalized_char_start": 533187,
+      "normalized_char_end": 535650,
+      "characters": 2463,
+      "chapter_sha256": "3a1048705bc7fe84ddcd6de9616ad76a0b4a0302cbb5ad93db47749f93f85c94"
+    },
+    {
+      "id": "CH-0216",
+      "ordinal": 216,
+      "label_number": 218,
+      "title": "第218章 福吉与卢修斯",
+      "normalized_char_start": 535650,
+      "normalized_char_end": 537470,
+      "characters": 1820,
+      "chapter_sha256": "e02a9d147c138bc7dbceeaaa3c5dd26939b0235de3ea5dc99de22eed87d4e734"
+    },
+    {
+      "id": "CH-0217",
+      "ordinal": 217,
+      "label_number": 219,
+      "title": "第219章 审判外的盘算和不可描述的梦",
+      "normalized_char_start": 537470,
+      "normalized_char_end": 539880,
+      "characters": 2410,
+      "chapter_sha256": "27515dbb1149f66d2ad3cd6c1b71e1664569151e090d4821cbccac455369642b"
+    },
+    {
+      "id": "CH-0218",
+      "ordinal": 218,
+      "label_number": 220,
+      "title": "第220章 五十年再相见",
+      "normalized_char_start": 539880,
+      "normalized_char_end": 542228,
+      "characters": 2348,
+      "chapter_sha256": "bc419327858ad07341131677cb7a5aaeee7af7981cd48d9f9e88d72488616afd"
+    },
+    {
+      "id": "CH-0219",
+      "ordinal": 219,
+      "label_number": 221,
+      "title": "第221章 逝去的记忆",
+      "normalized_char_start": 542228,
+      "normalized_char_end": 544899,
+      "characters": 2671,
+      "chapter_sha256": "4f030044918bf628c1c3ac2e5bc4b326d6ceb87e4043cb2bff5a031991e53d35"
+    },
+    {
+      "id": "CH-0220",
+      "ordinal": 220,
+      "label_number": 222,
+      "title": "第222章 RA:终究是走错了路",
+      "normalized_char_start": 544899,
+      "normalized_char_end": 547089,
+      "characters": 2190,
+      "chapter_sha256": "2c55615a87c3ec07c7fa521df968d0b2abe84bbb03e7d99787cac5f6abd5fd3d"
+    },
+    {
+      "id": "CH-0221",
+      "ordinal": 221,
+      "label_number": 223,
+      "title": "第223章 车站的嬉闹",
+      "normalized_char_start": 547089,
+      "normalized_char_end": 549421,
+      "characters": 2332,
+      "chapter_sha256": "3d1a10a58c1aadf1e8c02978f22d1c8c60c20235a5297aec5d1027912271b6ac"
+    },
+    {
+      "id": "CH-0222",
+      "ordinal": 222,
+      "label_number": 224,
+      "title": "第224章 你为什么没有被选上？",
+      "normalized_char_start": 549421,
+      "normalized_char_end": 551453,
+      "characters": 2032,
+      "chapter_sha256": "437935c2c8b89152c9286d039e89cc2269c3f3aac05e4c122e02d6b5c74cc525"
+    },
+    {
+      "id": "CH-0223",
+      "ordinal": 223,
+      "label_number": 225,
+      "title": "第225章 现在就不结巴了？",
+      "normalized_char_start": 551453,
+      "normalized_char_end": 554195,
+      "characters": 2742,
+      "chapter_sha256": "982d0a88f94e70592ba0c5c8ef5f88333bce069828f98c5cfc1131577a349e51"
+    },
+    {
+      "id": "CH-0224",
+      "ordinal": 224,
+      "label_number": 226,
+      "title": "第226章 车厢中的决心",
+      "normalized_char_start": 554195,
+      "normalized_char_end": 556416,
+      "characters": 2221,
+      "chapter_sha256": "b20bdae01b997a6098eef7e09b62a4bcb99c455f66c790ba185f49135387bf65"
+    },
+    {
+      "id": "CH-0225",
+      "ordinal": 225,
+      "label_number": 227,
+      "title": "第227章 不平常的日常",
+      "normalized_char_start": 556416,
+      "normalized_char_end": 558842,
+      "characters": 2426,
+      "chapter_sha256": "5afc4717f4bc7f122e2a770dbe1e3ab1fe8fad392118653fcf7034be62c61315"
+    },
+    {
+      "id": "CH-0226",
+      "ordinal": 226,
+      "label_number": 228,
+      "title": "第228章 搞得像偷情一样",
+      "normalized_char_start": 558842,
+      "normalized_char_end": 560921,
+      "characters": 2079,
+      "chapter_sha256": "1536a68c4a02e2c15972be18be2de1163de6cb324a0b5d8e7369df541e7a43d3"
+    },
+    {
+      "id": "CH-0227",
+      "ordinal": 227,
+      "label_number": 229,
+      "title": "第229章 有男朋友是什么感觉？",
+      "normalized_char_start": 560921,
+      "normalized_char_end": 563081,
+      "characters": 2160,
+      "chapter_sha256": "99590d8356470d9655326b27aea8c3940bce454fd15359f62f40ceb41660c2eb"
+    },
+    {
+      "id": "CH-0228",
+      "ordinal": 228,
+      "label_number": 230,
+      "title": "第230章 为何如此烦躁？",
+      "normalized_char_start": 563081,
+      "normalized_char_end": 566227,
+      "characters": 3146,
+      "chapter_sha256": "5226ff5160b501377df83e6433fe217902e038f0846b370812bf5cd5aa499403"
+    },
+    {
+      "id": "CH-0229",
+      "ordinal": 229,
+      "label_number": 231,
+      "title": "第231章 老巫婆的第一堂课",
+      "normalized_char_start": 566227,
+      "normalized_char_end": 568245,
+      "characters": 2018,
+      "chapter_sha256": "545c8e456d7342817915aa105b9246163802f20687abdcd89c8ce289374122f1"
+    },
+    {
+      "id": "CH-0230",
+      "ordinal": 230,
+      "label_number": 232,
+      "title": "第232章 老巫婆你别搞事啊？",
+      "normalized_char_start": 568245,
+      "normalized_char_end": 570163,
+      "characters": 1918,
+      "chapter_sha256": "3449b7a36165894997d9cc1e736a71713536404307cf0cb0133ecc5fbaf808fb"
+    },
+    {
+      "id": "CH-0231",
+      "ordinal": 231,
+      "label_number": 233,
+      "title": "第233章 扳回一局？",
+      "normalized_char_start": 570163,
+      "normalized_char_end": 572473,
+      "characters": 2310,
+      "chapter_sha256": "263deef3ae0e7ddbe871f5631cc92bdeb4719e352a2879477d1e7aebdae77294"
+    },
+    {
+      "id": "CH-0232",
+      "ordinal": 232,
+      "label_number": 234,
+      "title": "第234章 艰难的抉择",
+      "normalized_char_start": 572473,
+      "normalized_char_end": 574226,
+      "characters": 1753,
+      "chapter_sha256": "a050f49387558759afb96eb72f7bd5844c83cdd1c5b0a5932c122a42db038aa0"
+    },
+    {
+      "id": "CH-0233",
+      "ordinal": 233,
+      "label_number": 235,
+      "title": "第235章 稍微缓解的烦闷",
+      "normalized_char_start": 574226,
+      "normalized_char_end": 576369,
+      "characters": 2143,
+      "chapter_sha256": "2048529993fcd48aa55a2088ad76b7ee4090f22d06e961b41291f230e2ab8c66"
+    },
+    {
+      "id": "CH-0234",
+      "ordinal": 234,
+      "label_number": 236,
+      "title": "第236章 邓不利多的私人课程？",
+      "normalized_char_start": 576369,
+      "normalized_char_end": 578304,
+      "characters": 1935,
+      "chapter_sha256": "af50c36b03d3ac6fef425786df1c06785f4fc56327004f41ab8d9a264d2ab7be"
+    },
+    {
+      "id": "CH-0235",
+      "ordinal": 235,
+      "label_number": 237,
+      "title": "第237章 第二位老师：盖勒特·格林德沃",
+      "normalized_char_start": 578304,
+      "normalized_char_end": 580695,
+      "characters": 2391,
+      "chapter_sha256": "576289877d1a4a33d0ede2ddce9d658f31c8742831da29bf89e3a62d500fae8e"
+    },
+    {
+      "id": "CH-0236",
+      "ordinal": 236,
+      "label_number": 238,
+      "title": "第238章 格林德沃的教导",
+      "normalized_char_start": 580695,
+      "normalized_char_end": 582665,
+      "characters": 1970,
+      "chapter_sha256": "23aeaea2ee302d40fa2ef46e45c33b7a7e60d931b6aa7dfd4289eae379b23164"
+    },
+    {
+      "id": "CH-0237",
+      "ordinal": 237,
+      "label_number": 239,
+      "title": "第239章 格林德沃的教导2",
+      "normalized_char_start": 582665,
+      "normalized_char_end": 584717,
+      "characters": 2052,
+      "chapter_sha256": "fc0e0c6dd21660229731d1d9f1e7f38364a2b5bf482170a3feb254f310667e2d"
+    },
+    {
+      "id": "CH-0238",
+      "ordinal": 238,
+      "label_number": 240,
+      "title": "第240章 魔法的力量依靠于意志",
+      "normalized_char_start": 584717,
+      "normalized_char_end": 586820,
+      "characters": 2103,
+      "chapter_sha256": "f3228867f576c49f744770d01ec6b1c23e6e6162e8cd5f3fb0d4369a8d64d4db"
+    },
+    {
+      "id": "CH-0239",
+      "ordinal": 239,
+      "label_number": 241,
+      "title": "第241章 庞弗雷：果然是苦命鸳鸯",
+      "normalized_char_start": 586820,
+      "normalized_char_end": 589417,
+      "characters": 2597,
+      "chapter_sha256": "c818275ab82c71f560ba51ac774e30a29bec7d467f39dc0047428882bd8d3d21"
+    },
+    {
+      "id": "CH-0240",
+      "ordinal": 240,
+      "label_number": 242,
+      "title": "第242章 笨蛋德拉科（也算是糖吧！）",
+      "normalized_char_start": 589417,
+      "normalized_char_end": 591766,
+      "characters": 2349,
+      "chapter_sha256": "3ecfacaced4aacfb2bf12f526da8b9d50b3499402b2e44bca4c5cecad1f146db"
+    },
+    {
+      "id": "CH-0241",
+      "ordinal": 241,
+      "label_number": 243,
+      "title": "第243章 一切都会好起来的（暴躁期结束）",
+      "normalized_char_start": 591766,
+      "normalized_char_end": 595437,
+      "characters": 3671,
+      "chapter_sha256": "df24fe5beac53c93a0711e84003a404e11cf361328e633e8fff64021777f3b5f"
+    },
+    {
+      "id": "CH-0242",
+      "ordinal": 242,
+      "label_number": 244,
+      "title": "第244章 终将面对的未来",
+      "normalized_char_start": 595437,
+      "normalized_char_end": 596995,
+      "characters": 1558,
+      "chapter_sha256": "b45d691d246bc659ecebfa9cbac875422e693b0530f13b1459c07f4b26cc4d34"
+    },
+    {
+      "id": "CH-0243",
+      "ordinal": 243,
+      "label_number": 245,
+      "title": "第245章 又是一节私人课程",
+      "normalized_char_start": 596995,
+      "normalized_char_end": 599045,
+      "characters": 2050,
+      "chapter_sha256": "50a5ffb106076aeda978fc139c55b48490ae42f7e1a7c48582eb683fa2fcc95f"
+    },
+    {
+      "id": "CH-0244",
+      "ordinal": 244,
+      "label_number": 246,
+      "title": "第246章 无论如何，请记得…爱，是最伟大的魔法！",
+      "normalized_char_start": 599045,
+      "normalized_char_end": 601539,
+      "characters": 2494,
+      "chapter_sha256": "6784fc3316973541a32b4eba3e59e7ba58db2ed5b9ef935d4a49bcb2f9b3021c"
+    },
+    {
+      "id": "CH-0245",
+      "ordinal": 245,
+      "label_number": 247,
+      "title": "第247章 又吃醋了？",
+      "normalized_char_start": 601539,
+      "normalized_char_end": 603500,
+      "characters": 1961,
+      "chapter_sha256": "cd2a8ace1d83e5d4120d38f30194ccfacf8bcff35ff36f86d18b2876d9d1623c"
+    },
+    {
+      "id": "CH-0246",
+      "ordinal": 246,
+      "label_number": 248,
+      "title": "第248章 还算安稳的日常？",
+      "normalized_char_start": 603500,
+      "normalized_char_end": 606110,
+      "characters": 2610,
+      "chapter_sha256": "4ba103a844c35871c46d0d1a9c87a2ba1be4201b5e2d6cd4fcd1844b1522fe30"
+    },
+    {
+      "id": "CH-0247",
+      "ordinal": 247,
+      "label_number": 247,
+      "title": "第247章 话说圣诞就快到了……",
+      "normalized_char_start": 606110,
+      "normalized_char_end": 608506,
+      "characters": 2396,
+      "chapter_sha256": "11fff634ac8f47beb4aff9625b776f0a5c261aab6a7626ee27b358a11d097c70"
+    },
+    {
+      "id": "CH-0248",
+      "ordinal": 248,
+      "label_number": 248,
+      "title": "第248章 终究还是难以舍得",
+      "normalized_char_start": 608506,
+      "normalized_char_end": 611128,
+      "characters": 2622,
+      "chapter_sha256": "f7b928396cd7ad706e6e4d874ed2dedb9327cdaa1b6b7990c04932b5e80abfad"
+    },
+    {
+      "id": "CH-0249",
+      "ordinal": 249,
+      "label_number": 249,
+      "title": "第249章 哈利，你知道吗？我的守护神也是鹿了！",
+      "normalized_char_start": 611128,
+      "normalized_char_end": 613426,
+      "characters": 2298,
+      "chapter_sha256": "7858480e5e845088987bdc41bc8fb9fe1f86dcbc390e7ed87d37189981dacae0"
+    },
+    {
+      "id": "CH-0250",
+      "ordinal": 250,
+      "label_number": 250,
+      "title": "第250章 纳西莎：我希望你像他一样勇敢",
+      "normalized_char_start": 613426,
+      "normalized_char_end": 615901,
+      "characters": 2475,
+      "chapter_sha256": "286d923fbca823590f1eb4752483becdd5a67688daffbc1b5f09b7d337940e5d"
+    },
+    {
+      "id": "CH-0251",
+      "ordinal": 251,
+      "label_number": 251,
+      "title": "第251章 种子已经埋下",
+      "normalized_char_start": 615901,
+      "normalized_char_end": 617966,
+      "characters": 2065,
+      "chapter_sha256": "ea97bd74c24c4eff67ead76d71b677ea957af06f4eae47d936101461e9e2a0fb"
+    },
+    {
+      "id": "CH-0252",
+      "ordinal": 252,
+      "label_number": 252,
+      "title": "第252章 邓不利多：我希望，她能保住家人，也能守住自己的爱情",
+      "normalized_char_start": 617966,
+      "normalized_char_end": 620759,
+      "characters": 2793,
+      "chapter_sha256": "271baef3955fabafb6a57af8cc942165758baf025125481cfe18c12481cab0d4"
+    },
+    {
+      "id": "CH-0253",
+      "ordinal": 253,
+      "label_number": 253,
+      "title": "第253章 向马尔福家效忠？",
+      "normalized_char_start": 620759,
+      "normalized_char_end": 622960,
+      "characters": 2201,
+      "chapter_sha256": "913146d9665b160f6cad12127ca1039ce8d4ff3a5b8e68780fe26851b0352c03"
+    },
+    {
+      "id": "CH-0254",
+      "ordinal": 254,
+      "label_number": 254,
+      "title": "第254章 第一个盟友",
+      "normalized_char_start": 622960,
+      "normalized_char_end": 624448,
+      "characters": 1488,
+      "chapter_sha256": "3a0a27c9053552dbf83d085079a796029080105c704c20f77ce06fe726ee6d8d"
+    },
+    {
+      "id": "CH-0255",
+      "ordinal": 255,
+      "label_number": 255,
+      "title": "第255章 只是融雪……绝非泪痕",
+      "normalized_char_start": 624448,
+      "normalized_char_end": 626944,
+      "characters": 2496,
+      "chapter_sha256": "a74e871eaf8445d3e64c99e0c88b7d307e76f2fae7f6a072239fb0380bdcd39a"
+    },
+    {
+      "id": "CH-0256",
+      "ordinal": 256,
+      "label_number": 256,
+      "title": "第256章 即使是这也可滋润心灵",
+      "normalized_char_start": 626944,
+      "normalized_char_end": 629204,
+      "characters": 2260,
+      "chapter_sha256": "16efc22cf59a012a9e6fe6ca0896a5992a929af2824179ec347696bd30077d6a"
+    },
+    {
+      "id": "CH-0257",
+      "ordinal": 257,
+      "label_number": 257,
+      "title": "第257章 “它”并未放下疑心",
+      "normalized_char_start": 629204,
+      "normalized_char_end": 631589,
+      "characters": 2385,
+      "chapter_sha256": "34ae16029fd54915f41e34b3c59ff9728a6c317b94b23ebb3c4265e6d23f5b0b"
+    },
+    {
+      "id": "CH-0258",
+      "ordinal": 258,
+      "label_number": 258,
+      "title": "第258章 被发现了",
+      "normalized_char_start": 631589,
+      "normalized_char_end": 633670,
+      "characters": 2081,
+      "chapter_sha256": "2bbe78f2e16a9abf49b709a5a3fe7e84ec85b488eab4e00765d20963cdf61325"
+    },
+    {
+      "id": "CH-0259",
+      "ordinal": 259,
+      "label_number": 259,
+      "title": "第259章 邓不利多：是我，又怎样？",
+      "normalized_char_start": 633670,
+      "normalized_char_end": 636458,
+      "characters": 2788,
+      "chapter_sha256": "0c7a34a7730432991e413d4d01e785f12a9c50a2675154d344ec5d2281fd12a6"
+    },
+    {
+      "id": "CH-0260",
+      "ordinal": 260,
+      "label_number": 260,
+      "title": "第260章 邓不利多：何必这么麻烦，直接跑不行吗？",
+      "normalized_char_start": 636458,
+      "normalized_char_end": 638584,
+      "characters": 2126,
+      "chapter_sha256": "84be84ea186803a01c3336865bfde66ec539a2d9e3858bc421bcf28147b66464"
+    },
+    {
+      "id": "CH-0261",
+      "ordinal": 261,
+      "label_number": 261,
+      "title": "第261章 德拉科：你们可劲造吧！双子，资金本小姐出了！",
+      "normalized_char_start": 638584,
+      "normalized_char_end": 641462,
+      "characters": 2878,
+      "chapter_sha256": "09d80fa4ddeb5c87b1ee52dfbaa6671a73d35f1067afdb2a91dec733e9308344"
+    },
+    {
+      "id": "CH-0262",
+      "ordinal": 262,
+      "label_number": 262,
+      "title": "第262章 小精灵克利切",
+      "normalized_char_start": 641462,
+      "normalized_char_end": 643901,
+      "characters": 2439,
+      "chapter_sha256": "be02cd687ed4e02ef37724798ad722435769db9430182343b6f75106bacc5d29"
+    },
+    {
+      "id": "CH-0263",
+      "ordinal": 263,
+      "label_number": 265,
+      "title": "第265章 初等巫测",
+      "normalized_char_start": 643901,
+      "normalized_char_end": 646471,
+      "characters": 2570,
+      "chapter_sha256": "6c092a3f9cf6007c03f6bd7c81241db926cb44ad7cfeaa4afe13c97440a8921b"
+    },
+    {
+      "id": "CH-0264",
+      "ordinal": 264,
+      "label_number": 266,
+      "title": "第266章 她不是一个人",
+      "normalized_char_start": 646471,
+      "normalized_char_end": 648677,
+      "characters": 2206,
+      "chapter_sha256": "8fc951e4c5fbc42b002be75b0da3916aa5ae434c398c091d6b6f9417fa882a07"
+    },
+    {
+      "id": "CH-0265",
+      "ordinal": 265,
+      "label_number": 267,
+      "title": "第267章 德拉科：这一次我选你",
+      "normalized_char_start": 648677,
+      "normalized_char_end": 651577,
+      "characters": 2900,
+      "chapter_sha256": "300940fa37a55f4d1d99e0b5e60bc18b727b2b6321d49bd6b4f3f8c0b37dee94"
+    },
+    {
+      "id": "CH-0266",
+      "ordinal": 266,
+      "label_number": 268,
+      "title": "第268章 小天狼星死了",
+      "normalized_char_start": 651577,
+      "normalized_char_end": 654167,
+      "characters": 2590,
+      "chapter_sha256": "5ac160fd3d1e8d1ec8a6c40d17bd0801c94613e7d0daa245426bf84522f94cc8"
+    },
+    {
+      "id": "CH-0267",
+      "ordinal": 267,
+      "label_number": 269,
+      "title": "第269章 卢娜：你们真的很像",
+      "normalized_char_start": 654167,
+      "normalized_char_end": 656549,
+      "characters": 2382,
+      "chapter_sha256": "07cf733caeb7d96d5b01701aea0dce76b72b2dd41f324d162dbcd17ec0263a11"
+    },
+    {
+      "id": "CH-0268",
+      "ordinal": 268,
+      "label_number": 270,
+      "title": "第270章 我会付出代价的",
+      "normalized_char_start": 656549,
+      "normalized_char_end": 658327,
+      "characters": 1778,
+      "chapter_sha256": "d7bd8f91de384d58a6fbd7cc36f3cc68041ebe54c2620fcc58192b8c22fc43b9"
+    },
+    {
+      "id": "CH-0269",
+      "ordinal": 269,
+      "label_number": 271,
+      "title": "第271章 总有一天，“它”会覆灭",
+      "normalized_char_start": 658327,
+      "normalized_char_end": 660756,
+      "characters": 2429,
+      "chapter_sha256": "758de718517e75087a96289d0bb44e17c5b85aec11c3457145dfb3e1dbc1a5ad"
+    },
+    {
+      "id": "CH-0270",
+      "ordinal": 270,
+      "label_number": 272,
+      "title": "第272章 未你永远都有选择，即使是现在",
+      "normalized_char_start": 660756,
+      "normalized_char_end": 662814,
+      "characters": 2058,
+      "chapter_sha256": "6803a0a4158f4df81e819bb6b1bfe6903a26cf82c46c0dfdc60b9b9dc1d99062"
+    },
+    {
+      "id": "CH-0271",
+      "ordinal": 271,
+      "label_number": 273,
+      "title": "第273章 莱斯特兰奇家",
+      "normalized_char_start": 662814,
+      "normalized_char_end": 665542,
+      "characters": 2728,
+      "chapter_sha256": "c5d464a3d0618d8b4ed2acfa8b251007d7924b48a923b50af36f5738b9d4290f"
+    },
+    {
+      "id": "CH-0272",
+      "ordinal": 272,
+      "label_number": 274,
+      "title": "第274章 与罗道夫斯的练习",
+      "normalized_char_start": 665542,
+      "normalized_char_end": 667657,
+      "characters": 2115,
+      "chapter_sha256": "193a4ddca7c05d1b837b8e0939713e32b384eb1851003836ecb6f7eb0b80c2d7"
+    },
+    {
+      "id": "CH-0273",
+      "ordinal": 273,
+      "label_number": 275,
+      "title": "第275章 伏地魔的后方力量",
+      "normalized_char_start": 667657,
+      "normalized_char_end": 669842,
+      "characters": 2185,
+      "chapter_sha256": "e58b5649c51c3e2e669e9c50ffdb0d501215da02368ba36309011c1eb786ef8b"
+    },
+    {
+      "id": "CH-0274",
+      "ordinal": 274,
+      "label_number": 276,
+      "title": "第276章 伏地魔的阴谋",
+      "normalized_char_start": 669842,
+      "normalized_char_end": 672644,
+      "characters": 2802,
+      "chapter_sha256": "28cd9bf4304e73e2d0c23ced0fd7069ca2ae4726aaa3c68c1048b551e24494a8"
+    },
+    {
+      "id": "CH-0275",
+      "ordinal": 275,
+      "label_number": 277,
+      "title": "第277章 邓不利多：看来我们要先走一步了",
+      "normalized_char_start": 672644,
+      "normalized_char_end": 675449,
+      "characters": 2805,
+      "chapter_sha256": "9ddf06b7b364fe24acf6ada5218b7dcc7274379fc047fb5ee7240eb12dd40f45"
+    },
+    {
+      "id": "CH-0276",
+      "ordinal": 276,
+      "label_number": 278,
+      "title": "第278章 邓不利多：准备好吧哈利 ！你的专属课程",
+      "normalized_char_start": 675449,
+      "normalized_char_end": 677425,
+      "characters": 1976,
+      "chapter_sha256": "ced7a8e4e331c64f94811a5f92234778294b1c5c4b62163f20a9e6468b5fff78"
+    },
+    {
+      "id": "CH-0277",
+      "ordinal": 277,
+      "label_number": 279,
+      "title": "第279章 随身携带的信封",
+      "normalized_char_start": 677425,
+      "normalized_char_end": 680280,
+      "characters": 2855,
+      "chapter_sha256": "083e37a739956f39f041e59198804a3c78c4321a6494b6f08b0a4c022f5ba32c"
+    },
+    {
+      "id": "CH-0278",
+      "ordinal": 278,
+      "label_number": 280,
+      "title": "第280章 混乱的日子",
+      "normalized_char_start": 680280,
+      "normalized_char_end": 682570,
+      "characters": 2290,
+      "chapter_sha256": "fac580387d2c75782601dbe1dddd5502c972d062673ce349395c2af780a79026"
+    },
+    {
+      "id": "CH-0279",
+      "ordinal": 279,
+      "label_number": 281,
+      "title": "第281章 摩金夫人长袍店相遇的恋人",
+      "normalized_char_start": 682570,
+      "normalized_char_end": 685625,
+      "characters": 3055,
+      "chapter_sha256": "0cfa1ac8c3a900752e28238cae8e47599c3cc357e166144069490ff04225e7ac"
+    },
+    {
+      "id": "CH-0280",
+      "ordinal": 280,
+      "label_number": 282,
+      "title": "第282章 黑魔法世界商 上",
+      "normalized_char_start": 685625,
+      "normalized_char_end": 688500,
+      "characters": 2875,
+      "chapter_sha256": "77fdf85dfd7362687d13f1d5c7c215ff234357a184f2234f250f15175abe664f"
+    },
+    {
+      "id": "CH-0281",
+      "ordinal": 281,
+      "label_number": 283,
+      "title": "第283章 黑魔法世界商 下",
+      "normalized_char_start": 688500,
+      "normalized_char_end": 690323,
+      "characters": 1823,
+      "chapter_sha256": "8123f87104aac042d0f3c5d1be033e38cabfd8e284e0443bd3f922a3012c4b52"
+    },
+    {
+      "id": "CH-0282",
+      "ordinal": 282,
+      "label_number": 284,
+      "title": "第284章 博金博克",
+      "normalized_char_start": 690323,
+      "normalized_char_end": 692683,
+      "characters": 2360,
+      "chapter_sha256": "494487c3c6d2ac52f6e4a8dff7210623b79d3b75e1cf66ac1ae3cb5d3bde1f65"
+    },
+    {
+      "id": "CH-0283",
+      "ordinal": 283,
+      "label_number": 285,
+      "title": "第285章 又是一个开学季",
+      "normalized_char_start": 692683,
+      "normalized_char_end": 695120,
+      "characters": 2437,
+      "chapter_sha256": "dcd6e3694e177e7d8a265f486c5115ba06cd56c0603ce810acea46144233891f"
+    },
+    {
+      "id": "CH-0284",
+      "ordinal": 284,
+      "label_number": 286,
+      "title": "第286章 车厢上的中日（总感觉有过这个标题似的）",
+      "normalized_char_start": 695120,
+      "normalized_char_end": 697274,
+      "characters": 2154,
+      "chapter_sha256": "a566ae965667e787c8e6a89cca756ecadf1f441930c1f9b97b2a5935809c5a37"
+    },
+    {
+      "id": "CH-0285",
+      "ordinal": 285,
+      "label_number": 287,
+      "title": "第287章 少了某人生活也平静了不少？",
+      "normalized_char_start": 697274,
+      "normalized_char_end": 699801,
+      "characters": 2527,
+      "chapter_sha256": "b628859c2af4113c88de05344d61e7f12fd167a2efdd2dd7562b2f8f136526be"
+    },
+    {
+      "id": "CH-0286",
+      "ordinal": 286,
+      "label_number": 288,
+      "title": "第288章 再次怦然的心跳",
+      "normalized_char_start": 699801,
+      "normalized_char_end": 702226,
+      "characters": 2425,
+      "chapter_sha256": "91d6cd14369030d9a414fb280c57404bb45b5e187af5a8931daa3b4fa6e48c27"
+    },
+    {
+      "id": "CH-0287",
+      "ordinal": 287,
+      "label_number": 289,
+      "title": "第289章 哈利：你依旧是德拉科",
+      "normalized_char_start": 702226,
+      "normalized_char_end": 704842,
+      "characters": 2616,
+      "chapter_sha256": "c6cd8dc1be1b976663ee0e103c4db6d6c3302c9b25e101e703b9f4c0da8d3e8a"
+    },
+    {
+      "id": "CH-0288",
+      "ordinal": 288,
+      "label_number": 290,
+      "title": "第290章 你不是孤身一人",
+      "normalized_char_start": 704842,
+      "normalized_char_end": 707208,
+      "characters": 2366,
+      "chapter_sha256": "8cfe1fba6354c960a661a94b31c05dac8123b32bfe7dd3ed5716112e5a73106a"
+    },
+    {
+      "id": "CH-0289",
+      "ordinal": 289,
+      "label_number": 291,
+      "title": "第291章 哈利：我不会放弃",
+      "normalized_char_start": 707208,
+      "normalized_char_end": 709613,
+      "characters": 2405,
+      "chapter_sha256": "4cc6a1c023b687d9f8ca3801623f2d18af52aa19cefc43e25f38235cc7a60933"
+    },
+    {
+      "id": "CH-0290",
+      "ordinal": 290,
+      "label_number": 292,
+      "title": "第292章 哈利：我可以协助",
+      "normalized_char_start": 709613,
+      "normalized_char_end": 711876,
+      "characters": 2263,
+      "chapter_sha256": "700d065f372ae8351270c7f1e60df25882632c6857fcb9e1c1a7a673867f097e"
+    },
+    {
+      "id": "CH-0291",
+      "ordinal": 291,
+      "label_number": 293,
+      "title": "第293章 开始执行的任务",
+      "normalized_char_start": 711876,
+      "normalized_char_end": 714378,
+      "characters": 2502,
+      "chapter_sha256": "c10490cc7b5ca04e84836ae7e2e1b66bba9aded304f59e3afbc157237cc70e68"
+    },
+    {
+      "id": "CH-0292",
+      "ordinal": 292,
+      "label_number": 2,
+      "title": "第2章 你俩想变成女生？",
+      "normalized_char_start": 714378,
+      "normalized_char_end": 716207,
+      "characters": 1829,
+      "chapter_sha256": "40f8f0c9b4a9eef00dc13fd56f9b73f117708de9465d63297f68bcb20526c848"
+    },
+    {
+      "id": "CH-0293",
+      "ordinal": 293,
+      "label_number": 295,
+      "title": "第295章 斯拉格霍恩课上的几人",
+      "normalized_char_start": 716207,
+      "normalized_char_end": 719055,
+      "characters": 2848,
+      "chapter_sha256": "bda031b4e28c718a01781086fee28c36f988358f30e6f2bb6b690e72e1c496d1"
+    },
+    {
+      "id": "CH-0294",
+      "ordinal": 294,
+      "label_number": 296,
+      "title": "第296章 第三个任务？",
+      "normalized_char_start": 719055,
+      "normalized_char_end": 721274,
+      "characters": 2219,
+      "chapter_sha256": "04a01c49f264cd69f31d938811d4c8a4bc8eb14260bd4c88c0caf422cca5b534"
+    },
+    {
+      "id": "CH-0295",
+      "ordinal": 295,
+      "label_number": 297,
+      "title": "第297章 伏地魔放出的选择",
+      "normalized_char_start": 721274,
+      "normalized_char_end": 724031,
+      "characters": 2757,
+      "chapter_sha256": "fdaf41c9c0555530153759646105b0621e8db8417c1ec5b1a825243be02e36dc"
+    },
+    {
+      "id": "CH-0296",
+      "ordinal": 296,
+      "label_number": 298,
+      "title": "第298章 告诉汉娜，我爱她",
+      "normalized_char_start": 724031,
+      "normalized_char_end": 725358,
+      "characters": 1327,
+      "chapter_sha256": "5dd170acd522acfe4fa12bf19537cf32750a254b365c4d7250b85d60838623f0"
+    },
+    {
+      "id": "CH-0297",
+      "ordinal": 297,
+      "label_number": 2,
+      "title": "第2章 庞弗雷：果然是对苦命鸳鸯",
+      "normalized_char_start": 725358,
+      "normalized_char_end": 727927,
+      "characters": 2569,
+      "chapter_sha256": "0b50c0e1a85ffa6a93f8e8791f6c8bb8e5116c4ae268fb43497bc39bf57bb414"
+    },
+    {
+      "id": "CH-0298",
+      "ordinal": 298,
+      "label_number": 300,
+      "title": "第300章 隐藏的秘密",
+      "normalized_char_start": 727927,
+      "normalized_char_end": 730818,
+      "characters": 2891,
+      "chapter_sha256": "0e7480081799cb998dce9cf2e87f4db566a5accc16a99565db4a582236740429"
+    },
+    {
+      "id": "CH-0299",
+      "ordinal": 299,
+      "label_number": 301,
+      "title": "第301章 哈利的内心",
+      "normalized_char_start": 730818,
+      "normalized_char_end": 733340,
+      "characters": 2522,
+      "chapter_sha256": "3acfeffe54535cacfc4a4150cf5b9efd7f9aed7c60965a9034606cdc2d610211"
+    },
+    {
+      "id": "CH-0300",
+      "ordinal": 300,
+      "label_number": 302,
+      "title": "第302章 哈利：“你们”辛苦了",
+      "normalized_char_start": 733340,
+      "normalized_char_end": 735887,
+      "characters": 2547,
+      "chapter_sha256": "5616a62afa354608cf44eae4f378a91b14428be8e87715561698b6081b63287d"
+    },
+    {
+      "id": "CH-0301",
+      "ordinal": 301,
+      "label_number": 303,
+      "title": "第303章 持续中的任务",
+      "normalized_char_start": 735887,
+      "normalized_char_end": 738353,
+      "characters": 2466,
+      "chapter_sha256": "7ce5d41a0d168955d4d0feafffc08edb3b41b187e2f93b22e1049aea6d44518d"
+    },
+    {
+      "id": "CH-0302",
+      "ordinal": 302,
+      "label_number": 304,
+      "title": "第304章 始终不离的目光",
+      "normalized_char_start": 738353,
+      "normalized_char_end": 740856,
+      "characters": 2503,
+      "chapter_sha256": "71bef1841f72689fa2208c9771c48fa5ec8be1d6957010e7d0836987ec3abf52"
+    },
+    {
+      "id": "CH-0303",
+      "ordinal": 303,
+      "label_number": 305,
+      "title": "第305章 浴室中的德拉科与赫敏",
+      "normalized_char_start": 740856,
+      "normalized_char_end": 743332,
+      "characters": 2476,
+      "chapter_sha256": "82c0f8b576a886997ac9ffabc1fd6128ffa51c5356713c5d2d47708efe8fd61f"
+    },
+    {
+      "id": "CH-0304",
+      "ordinal": 304,
+      "label_number": 306,
+      "title": "第306章 赫敏：哈利我已经警告过你了",
+      "normalized_char_start": 743332,
+      "normalized_char_end": 745793,
+      "characters": 2461,
+      "chapter_sha256": "d1784cc5ce7e3c08dbabeb0e62aff83e0c9b5d2eba1b0d799fd11fa1f7fbc948"
+    },
+    {
+      "id": "CH-0305",
+      "ordinal": 305,
+      "label_number": 307,
+      "title": "第307章 许久未曾这么近的观察过她了",
+      "normalized_char_start": 745793,
+      "normalized_char_end": 748037,
+      "characters": 2244,
+      "chapter_sha256": "e1fe7fe638c91ecfad455b3f62444047a781dc1256e9e9b9fd97600148e5408f"
+    },
+    {
+      "id": "CH-0306",
+      "ordinal": 306,
+      "label_number": 308,
+      "title": "第308章 听到一切的哈利",
+      "normalized_char_start": 748037,
+      "normalized_char_end": 750595,
+      "characters": 2558,
+      "chapter_sha256": "7343638c0afb0eeb0fabe83f086258cdbab9cdf0a7887069e82e59c8ee6f09cd"
+    },
+    {
+      "id": "CH-0307",
+      "ordinal": 307,
+      "label_number": 309,
+      "title": "第309章 你，要相信",
+      "normalized_char_start": 750595,
+      "normalized_char_end": 752937,
+      "characters": 2342,
+      "chapter_sha256": "cbb8fe3cede2f689867b974293335a91f39737f7ae4403040a00a5dba6c42368"
+    },
+    {
+      "id": "CH-0308",
+      "ordinal": 308,
+      "label_number": 310,
+      "title": "第310章 小心克拉布",
+      "normalized_char_start": 752937,
+      "normalized_char_end": 755286,
+      "characters": 2349,
+      "chapter_sha256": "e6714c0f91243ce1b487a168785852371f94acad12cb3e4717ef6ac6c7d5677c"
+    },
+    {
+      "id": "CH-0309",
+      "ordinal": 309,
+      "label_number": 311,
+      "title": "第311章 久违的交面",
+      "normalized_char_start": 755286,
+      "normalized_char_end": 757554,
+      "characters": 2268,
+      "chapter_sha256": "4b4dae50bfeb888c857e378dfc4e57a8f247544d718ade59871118a83107625b"
+    },
+    {
+      "id": "CH-0310",
+      "ordinal": 310,
+      "label_number": 312,
+      "title": "第312章 换我们来陪你",
+      "normalized_char_start": 757554,
+      "normalized_char_end": 760033,
+      "characters": 2479,
+      "chapter_sha256": "ff2784c7b666173de4b9218c369d65e2ef4af37d309eae745288deb74da379ad"
+    },
+    {
+      "id": "CH-0311",
+      "ordinal": 311,
+      "label_number": 313,
+      "title": "第313章 魂器",
+      "normalized_char_start": 760033,
+      "normalized_char_end": 762303,
+      "characters": 2270,
+      "chapter_sha256": "6fae26d3484b92af51a2b06d62c408b426b5f23a4086ddf9da57df2e769cabe7"
+    },
+    {
+      "id": "CH-0312",
+      "ordinal": 312,
+      "label_number": 314,
+      "title": "第314章 去吧，波特",
+      "normalized_char_start": 762303,
+      "normalized_char_end": 764628,
+      "characters": 2325,
+      "chapter_sha256": "01853600b68df7a19cda9373e1fae44ff6055027d893d70f2b203f22c57dd0d3"
+    },
+    {
+      "id": "CH-0313",
+      "ordinal": 313,
+      "label_number": 315,
+      "title": "第315章 哈利：我不会放弃你的（有点糖）",
+      "normalized_char_start": 764628,
+      "normalized_char_end": 766809,
+      "characters": 2181,
+      "chapter_sha256": "d8386714fd7faf855be403943abc5b13f4663a9f2410b9b6b2acdcec25e2769e"
+    },
+    {
+      "id": "CH-0314",
+      "ordinal": 314,
+      "label_number": 316,
+      "title": "第316章 你听过魂器吗？",
+      "normalized_char_start": 766809,
+      "normalized_char_end": 769305,
+      "characters": 2496,
+      "chapter_sha256": "dbd0015fe0aa44cb151aa716fca68b514cd9743d41d9e8c1816e924af6150609"
+    },
+    {
+      "id": "CH-0315",
+      "ordinal": 315,
+      "label_number": 317,
+      "title": "第317章 转折点，邓不利多：胜利终将是我们的！",
+      "normalized_char_start": 769305,
+      "normalized_char_end": 771789,
+      "characters": 2484,
+      "chapter_sha256": "557bf35280f4218fd9096acc3bdb689c49e6021148bbc51e88e1fe681c4b81ea"
+    },
+    {
+      "id": "CH-0316",
+      "ordinal": 316,
+      "label_number": 318,
+      "title": "第318章 不，还不是（这2章挺重要的希望可以耐心看完，不要跳）",
+      "normalized_char_start": 771789,
+      "normalized_char_end": 774352,
+      "characters": 2563,
+      "chapter_sha256": "8ffcce99ac18057069e31237a4550d631b3f5f842e4a396c33b7ff9c927ae01a"
+    },
+    {
+      "id": "CH-0317",
+      "ordinal": 317,
+      "label_number": 319,
+      "title": "第319章 可以确保的是，她是绝对安全的",
+      "normalized_char_start": 774352,
+      "normalized_char_end": 776786,
+      "characters": 2434,
+      "chapter_sha256": "4122e9536cb2ba605204184c4ab41486a67045c3ef41fe399a466b12c698ea10"
+    },
+    {
+      "id": "CH-0318",
+      "ordinal": 318,
+      "label_number": 320,
+      "title": "第320章 词穷了，这章标题随意点",
+      "normalized_char_start": 776786,
+      "normalized_char_end": 779040,
+      "characters": 2254,
+      "chapter_sha256": "047071f228cc7bf1a1d7262f564460b79e5d36673cec67bfc3528e0ea4ea08c8"
+    },
+    {
+      "id": "CH-0319",
+      "ordinal": 319,
+      "label_number": 321,
+      "title": "第321章 斯内普的童年记忆与德拉科的决心",
+      "normalized_char_start": 779040,
+      "normalized_char_end": 780778,
+      "characters": 1738,
+      "chapter_sha256": "6a6eba2b50d8af14c9d5596c2c52a7c0d7a6d5648a22e5abc6bf253398855da9"
+    },
+    {
+      "id": "CH-0320",
+      "ordinal": 320,
+      "label_number": 322,
+      "title": "第322章 第二次巫师战争序幕",
+      "normalized_char_start": 780778,
+      "normalized_char_end": 784204,
+      "characters": 3426,
+      "chapter_sha256": "aa9f15607b3f6da57ed78623c42585cfe6f9e852258cdbc726006ac9a069ae06"
+    },
+    {
+      "id": "CH-0321",
+      "ordinal": 321,
+      "label_number": 323,
+      "title": "第323章 自以为是的伏地魔",
+      "normalized_char_start": 784204,
+      "normalized_char_end": 786622,
+      "characters": 2418,
+      "chapter_sha256": "d9011d2ce2d614722208f7f293554620f5473004725f0f8ed0f84a75f8422ccf"
+    },
+    {
+      "id": "CH-0322",
+      "ordinal": 322,
+      "label_number": 324,
+      "title": "第324章 希望一切安好",
+      "normalized_char_start": 786622,
+      "normalized_char_end": 788988,
+      "characters": 2366,
+      "chapter_sha256": "9cc2c2e8c9be92f7c9f91f90865eae5eb1947e6c22d6e6d9432e69d3142397e9"
+    },
+    {
+      "id": "CH-0323",
+      "ordinal": 323,
+      "label_number": 325,
+      "title": "第325章 德拉科：别太莽撞了。哈利。",
+      "normalized_char_start": 788988,
+      "normalized_char_end": 791430,
+      "characters": 2442,
+      "chapter_sha256": "ea675c248f265220803768c0533dfb252a64bf42f9b95fa72485bec1caecd0ab"
+    },
+    {
+      "id": "CH-0324",
+      "ordinal": 324,
+      "label_number": 326,
+      "title": "第326章 黑白两方的对峙",
+      "normalized_char_start": 791430,
+      "normalized_char_end": 793765,
+      "characters": 2335,
+      "chapter_sha256": "fba9e229cc6bc052549a1aa3a37b6519e4d015f6e537b750716a400f4b166069"
+    },
+    {
+      "id": "CH-0325",
+      "ordinal": 325,
+      "label_number": 327,
+      "title": "第327章 邓不利多：德拉科，你做的很好",
+      "normalized_char_start": 793765,
+      "normalized_char_end": 795922,
+      "characters": 2157,
+      "chapter_sha256": "9941a58fd068aa21a55b6fd88930f43be4d26905cb7af62c3e44f01504403356"
+    },
+    {
+      "id": "CH-0326",
+      "ordinal": 326,
+      "label_number": 328,
+      "title": "第328章 凤凰陨落（这又是一个转折点，后面就是感情彻底修复了）",
+      "normalized_char_start": 795922,
+      "normalized_char_end": 798742,
+      "characters": 2820,
+      "chapter_sha256": "7c4e0723fef42171db11ae8ca610242807ebaf060708bcef92ae03bbd5695630"
+    },
+    {
+      "id": "CH-0327",
+      "ordinal": 327,
+      "label_number": 329,
+      "title": "第329章 邓不利多死后的马尔福与韦斯莱家",
+      "normalized_char_start": 798742,
+      "normalized_char_end": 801096,
+      "characters": 2354,
+      "chapter_sha256": "5a0c906259b1ea45569b04f7650130334caf5a59833f23816589c602295487c0"
+    },
+    {
+      "id": "CH-0328",
+      "ordinal": 328,
+      "label_number": 330,
+      "title": "第330章 不平凡的十七岁生（这两天会上大糖）",
+      "normalized_char_start": 801096,
+      "normalized_char_end": 803496,
+      "characters": 2400,
+      "chapter_sha256": "09f10f5f27a619795b0636266f6ab4df6d435a727dbdd16fe3fbed3008e0ac9f"
+    },
+    {
+      "id": "CH-0329",
+      "ordinal": 329,
+      "label_number": 331,
+      "title": "第331章 邓不利多留给三人组的遗物",
+      "normalized_char_start": 803496,
+      "normalized_char_end": 805915,
+      "characters": 2419,
+      "chapter_sha256": "c323f7b4da229efa32e734be3bce911af75f5f84cb83f514982cbcf5b17ef202"
+    },
+    {
+      "id": "CH-0330",
+      "ordinal": 330,
+      "label_number": 332,
+      "title": "第332章 德拉科：笨蛋波特-开始回归，文末一点点糖明天会上大糖",
+      "normalized_char_start": 805915,
+      "normalized_char_end": 808382,
+      "characters": 2467,
+      "chapter_sha256": "f40466f69e93e3e87d9a2ebe2a710a9730c1ccb977e4cd09d5f676c5b2697ae0"
+    },
+    {
+      "id": "CH-0331",
+      "ordinal": 331,
+      "label_number": 333,
+      "title": "第333章 再次相聚的恋人（正式回归）",
+      "normalized_char_start": 808382,
+      "normalized_char_end": 810751,
+      "characters": 2369,
+      "chapter_sha256": "38556a698fc30af3f8ff5a99b6038d7fa910cc7ca1567438f166dd2920d7ab9f"
+    },
+    {
+      "id": "CH-0332",
+      "ordinal": 332,
+      "label_number": 334,
+      "title": "第334章 再次相聚的恋人（有糖）",
+      "normalized_char_start": 810751,
+      "normalized_char_end": 813088,
+      "characters": 2337,
+      "chapter_sha256": "b79561e17c3a5aefbece9b4b115dd052c3211d95f2d7882081df1e891db5428d"
+    },
+    {
+      "id": "CH-0333",
+      "ordinal": 333,
+      "label_number": 335,
+      "title": "第335章 二者皆可兼得（有糖）想看糖的，养书的可以回来了",
+      "normalized_char_start": 813088,
+      "normalized_char_end": 815276,
+      "characters": 2188,
+      "chapter_sha256": "91d945a84bf8402648181abb91fc919ec207a3b5089542fe00d567c8826aa52b"
+    },
+    {
+      "id": "CH-0334",
+      "ordinal": 334,
+      "label_number": 336,
+      "title": "第336章 恋人间的灵魂交融（有始以来最大糖，男孩与女孩的成长）",
+      "normalized_char_start": 815276,
+      "normalized_char_end": 817894,
+      "characters": 2618,
+      "chapter_sha256": "6b4db1250943c2eb4e8a207b6da2e2c78e85c8b6422425cb382ec6ff36c947c2"
+    },
+    {
+      "id": "CH-0335",
+      "ordinal": 335,
+      "label_number": 337,
+      "title": "第337章 想起昨夜的少女们（有糖）",
+      "normalized_char_start": 817894,
+      "normalized_char_end": 820288,
+      "characters": 2394,
+      "chapter_sha256": "b335ec2c4adedc18d3fda023f0ea495b4f1fe9dca88d8697140193755ecf3b3b"
+    },
+    {
+      "id": "CH-0336",
+      "ordinal": 336,
+      "label_number": 338,
+      "title": "第338章 那天的细节（小糖，明天继续上大糖）",
+      "normalized_char_start": 820288,
+      "normalized_char_end": 822521,
+      "characters": 2233,
+      "chapter_sha256": "65430223636fcb651ceff931f66df995d28c3c58ad407104e02dd6ac6d9ac245"
+    },
+    {
+      "id": "CH-0337",
+      "ordinal": 337,
+      "label_number": 339,
+      "title": "第339章 我们会赢的（有糖）",
+      "normalized_char_start": 822521,
+      "normalized_char_end": 824632,
+      "characters": 2111,
+      "chapter_sha256": "1d9eff186cb4cfdd569f49e24dda9069da287fd894d70f1023a5ef6bea2c67ca"
+    },
+    {
+      "id": "CH-0338",
+      "ordinal": 338,
+      "label_number": 340,
+      "title": "第340章 找出魂器",
+      "normalized_char_start": 824632,
+      "normalized_char_end": 826734,
+      "characters": 2102,
+      "chapter_sha256": "916fe94821e88161abc4a57f2d45a15bf89baa178687a1f470810ff0c2c502c5"
+    },
+    {
+      "id": "CH-0339",
+      "ordinal": 339,
+      "label_number": 341,
+      "title": "第341章 本小姐……只是监视你！（加更一篇）",
+      "normalized_char_start": 826734,
+      "normalized_char_end": 828856,
+      "characters": 2122,
+      "chapter_sha256": "c77e525ab4640d46725389dcea75139f963c2c2eca4a7aa743cdf5c675deb40b"
+    },
+    {
+      "id": "CH-0340",
+      "ordinal": 340,
+      "label_number": 342,
+      "title": "第342章 我要重兴凤凰社",
+      "normalized_char_start": 828856,
+      "normalized_char_end": 831001,
+      "characters": 2145,
+      "chapter_sha256": "297af166be655729b03a10e34590cc4adcbfa201fa242b06e5722f6dd39900b2"
+    },
+    {
+      "id": "CH-0341",
+      "ordinal": 341,
+      "label_number": 343,
+      "title": "第343章 成长起来的四人",
+      "normalized_char_start": 831001,
+      "normalized_char_end": 833437,
+      "characters": 2436,
+      "chapter_sha256": "12f3c8453b7111ffff0e91bb73f881d284a822e52110bc6cf3dc9bbd830d9c90"
+    },
+    {
+      "id": "CH-0342",
+      "ordinal": 342,
+      "label_number": 344,
+      "title": "第344章 伏地魔vs斯克林杰",
+      "normalized_char_start": 833437,
+      "normalized_char_end": 835744,
+      "characters": 2307,
+      "chapter_sha256": "85a4ce9d800765e48da0a8f2eafa303ca502c2be65f2ac5f43d1c7d80f6ce2ba"
+    },
+    {
+      "id": "CH-0343",
+      "ordinal": 343,
+      "label_number": 345,
+      "title": "第345章 伏地魔vs斯克林杰2",
+      "normalized_char_start": 835744,
+      "normalized_char_end": 838066,
+      "characters": 2322,
+      "chapter_sha256": "c56d277114d7679decf259d9a5c69ed7625bb2b97ef69d3a447bb7b3b4c6b050"
+    },
+    {
+      "id": "CH-0344",
+      "ordinal": 344,
+      "label_number": 346,
+      "title": "第346章 德拉科对伏地魔的正式反叛",
+      "normalized_char_start": 838066,
+      "normalized_char_end": 840467,
+      "characters": 2401,
+      "chapter_sha256": "8a9e81efe9286b7613c0b00d9c3493340a1e3bb608ebe243f3e51cc998b1e584"
+    },
+    {
+      "id": "CH-0345",
+      "ordinal": 345,
+      "label_number": 347,
+      "title": "第347章 我们现在都是恐怖分子了？（有点碎糖，自行寻找）",
+      "normalized_char_start": 840467,
+      "normalized_char_end": 842729,
+      "characters": 2262,
+      "chapter_sha256": "fc24a023f0b91ad8c3f4473ff74de562b9c3290b7ed367fdbb959824d5bdd47f"
+    },
+    {
+      "id": "CH-0346",
+      "ordinal": 346,
+      "label_number": 348,
+      "title": "第348章 这是一种实现自我的幸福（糖）",
+      "normalized_char_start": 842729,
+      "normalized_char_end": 845035,
+      "characters": 2306,
+      "chapter_sha256": "99a5b96613e844662e254c5bf592b11bb577943369331db7e0e625577a572141"
+    },
+    {
+      "id": "CH-0347",
+      "ordinal": 347,
+      "label_number": 349,
+      "title": "第349章 如果我也有了孩子……大糖",
+      "normalized_char_start": 845035,
+      "normalized_char_end": 847436,
+      "characters": 2401,
+      "chapter_sha256": "87f0f76383367072c7a6c8f611effed1e386b14f4bbe3c41a5f70fcac3a460ef"
+    },
+    {
+      "id": "CH-0348",
+      "ordinal": 348,
+      "label_number": 350,
+      "title": "第350章 这是属于女王的棋路",
+      "normalized_char_start": 847436,
+      "normalized_char_end": 849752,
+      "characters": 2316,
+      "chapter_sha256": "270bc0c574811100d9dfa477209634e0fc60d28ede157b174ec74a268ea3cd3c"
+    },
+    {
+      "id": "CH-0349",
+      "ordinal": 349,
+      "label_number": 351,
+      "title": "第351章 闭嘴啊啊啊ヽ(｀⌒´メ)ノ",
+      "normalized_char_start": 849752,
+      "normalized_char_end": 852199,
+      "characters": 2447,
+      "chapter_sha256": "864272ee914f1621b21c9a684688f705ed02e5c09eee68108f29153e8f0dcd21"
+    },
+    {
+      "id": "CH-0350",
+      "ordinal": 350,
+      "label_number": 352,
+      "title": "第352章 会没事的（糖）",
+      "normalized_char_start": 852199,
+      "normalized_char_end": 854531,
+      "characters": 2332,
+      "chapter_sha256": "484ee7deabf1a9fc32a8cf6c4706cea27e8dd7e1490960e558bf6ae29557b644"
+    },
+    {
+      "id": "CH-0351",
+      "ordinal": 351,
+      "label_number": 353,
+      "title": "第353章 在魔法部的反击序幕",
+      "normalized_char_start": 854531,
+      "normalized_char_end": 856871,
+      "characters": 2340,
+      "chapter_sha256": "52159914fe879f745e20e1b017856ddb59649019a3a0449ec41a8af037bd026a"
+    },
+    {
+      "id": "CH-0352",
+      "ordinal": 352,
+      "label_number": 354,
+      "title": "第354章 红配绿赛狗屁",
+      "normalized_char_start": 856871,
+      "normalized_char_end": 859280,
+      "characters": 2409,
+      "chapter_sha256": "eddfc9b43d369d5f8929bf4e8cde8d2c228e9e7aeea99ed38717fdf90ab8f675"
+    },
+    {
+      "id": "CH-0353",
+      "ordinal": 353,
+      "label_number": 355,
+      "title": "第355章 哈利：德拉科，我接住你了（有糖）",
+      "normalized_char_start": 859280,
+      "normalized_char_end": 861601,
+      "characters": 2321,
+      "chapter_sha256": "a737fd6f4f956d2aab47db3660692e8e9295c2363a6f9444c92d55d1de6da002"
+    },
+    {
+      "id": "CH-0354",
+      "ordinal": 354,
+      "label_number": 356,
+      "title": "第356章 唐克斯：你这也不行啊！贝拉阿姨",
+      "normalized_char_start": 861601,
+      "normalized_char_end": 864006,
+      "characters": 2405,
+      "chapter_sha256": "a592c8752be8332360eac25a9e27996b202241bc82dd17a95a3dbaeb0abd3548"
+    },
+    {
+      "id": "CH-0355",
+      "ordinal": 355,
+      "label_number": 357,
+      "title": "第357章 夫妇齐心",
+      "normalized_char_start": 864006,
+      "normalized_char_end": 866460,
+      "characters": 2454,
+      "chapter_sha256": "7bbbccaddd6b0dd78a2bb620bd398e6b319ccb1c844c615c59bb87e0afe70925"
+    },
+    {
+      "id": "CH-0356",
+      "ordinal": 356,
+      "label_number": 358,
+      "title": "第358章 保护卢平唐克斯",
+      "normalized_char_start": 866460,
+      "normalized_char_end": 868776,
+      "characters": 2316,
+      "chapter_sha256": "1764cc3126db3954234743c4a0053053db7dc365662646be734aba3ca32e501f"
+    },
+    {
+      "id": "CH-0357",
+      "ordinal": 357,
+      "label_number": 359,
+      "title": "第359章 终是善心",
+      "normalized_char_start": 868776,
+      "normalized_char_end": 871276,
+      "characters": 2500,
+      "chapter_sha256": "d1a28ee52244dbdbeb43dcee316d18c81e18746131157a83f5c4fd0bfe197448"
+    },
+    {
+      "id": "CH-0358",
+      "ordinal": 358,
+      "label_number": 360,
+      "title": "第360章 相互安慰的四人（糖）",
+      "normalized_char_start": 871276,
+      "normalized_char_end": 873625,
+      "characters": 2349,
+      "chapter_sha256": "4d5900317b17c00c778675e4615c609bb8d8b482606ef40427542843fa3ba0b3"
+    },
+    {
+      "id": "CH-0359",
+      "ordinal": 359,
+      "label_number": 361,
+      "title": "第361章 如果能从乌姆里奇这老巫婆脑中知道什么？",
+      "normalized_char_start": 873625,
+      "normalized_char_end": 875994,
+      "characters": 2369,
+      "chapter_sha256": "3ec3676d8daa82662f11bd24a961c59ea6739cb5a216220e618f89a14d19f520"
+    },
+    {
+      "id": "CH-0360",
+      "ordinal": 360,
+      "label_number": 362,
+      "title": "第362章 它和格林德沃不一样……",
+      "normalized_char_start": 875994,
+      "normalized_char_end": 878373,
+      "characters": 2379,
+      "chapter_sha256": "1d1c04ee559b8a977f11402a7c4a5979c7d64013a948f67e576cc0819b5fa35f"
+    },
+    {
+      "id": "CH-0361",
+      "ordinal": 361,
+      "label_number": 363,
+      "title": "第363章 我们必须尽快击溃那个人",
+      "normalized_char_start": 878373,
+      "normalized_char_end": 880636,
+      "characters": 2263,
+      "chapter_sha256": "105bb4a0614e7b90479d4a6ce712314529d7b85d9bddcac4d13ed3ce83a489aa"
+    },
+    {
+      "id": "CH-0362",
+      "ordinal": 362,
+      "label_number": 364,
+      "title": "第364章 被德拉科收拾的乌姆里奇-乌姆里奇：永远以麻瓜血统为荣",
+      "normalized_char_start": 880636,
+      "normalized_char_end": 883560,
+      "characters": 2924,
+      "chapter_sha256": "6dc2e2cbcbeaee654beef981af44fb477496c40df2963ccba197db679141233b"
+    },
+    {
+      "id": "CH-0363",
+      "ordinal": 363,
+      "label_number": 365,
+      "title": "第365章 新的的发现（小糖）",
+      "normalized_char_start": 883560,
+      "normalized_char_end": 885490,
+      "characters": 1930,
+      "chapter_sha256": "d1e4a9e2f810dc8c25d48cb2e7720bb530e17f47873a8499281ab54c8f893c72"
+    },
+    {
+      "id": "CH-0364",
+      "ordinal": 364,
+      "label_number": 366,
+      "title": "第366章 黑魔法纪事（可跳可不跳）",
+      "normalized_char_start": 885490,
+      "normalized_char_end": 889345,
+      "characters": 3855,
+      "chapter_sha256": "1fdc46badad67f33863ffdcde3399730dcf5ade052e80439ea447d7ea8e6a245"
+    },
+    {
+      "id": "CH-0365",
+      "ordinal": 365,
+      "label_number": 367,
+      "title": "第367章 德拉科对哈利的担心",
+      "normalized_char_start": 889345,
+      "normalized_char_end": 891305,
+      "characters": 1960,
+      "chapter_sha256": "af50b5dd62d5737914e3afab4902de8e391b5604d9f42a8eb9c6e9257111b702"
+    },
+    {
+      "id": "CH-0366",
+      "ordinal": 366,
+      "label_number": 368,
+      "title": "第368章 斯基特的报道",
+      "normalized_char_start": 891305,
+      "normalized_char_end": 893748,
+      "characters": 2443,
+      "chapter_sha256": "0d11d630fc4e1596a825bc2c11e69828ab34f2074998648bfc68d2ad728365b0"
+    },
+    {
+      "id": "CH-0367",
+      "ordinal": 367,
+      "label_number": 369,
+      "title": "第369章 我负责保护你（糖）",
+      "normalized_char_start": 893748,
+      "normalized_char_end": 896140,
+      "characters": 2392,
+      "chapter_sha256": "2531fd09413e08b3a7a4fa83a89c39849b054a225efd90595c8758d17b8510c0"
+    },
+    {
+      "id": "CH-0368",
+      "ordinal": 368,
+      "label_number": 370,
+      "title": "第370章 两对情侣（糖）",
+      "normalized_char_start": 896140,
+      "normalized_char_end": 898451,
+      "characters": 2311,
+      "chapter_sha256": "c39a6c67928378f229df54fd2501355579faf23f29f5170487cfb7eb0ea0457a"
+    },
+    {
+      "id": "CH-0369",
+      "ordinal": 369,
+      "label_number": 371,
+      "title": "第371章 （大糖）蛇与狮子的共舞——凤凰的守护",
+      "normalized_char_start": 898451,
+      "normalized_char_end": 900799,
+      "characters": 2348,
+      "chapter_sha256": "c6453a1379e00aebf7c9b04513843821ed6a6550cab189beb18f86842a8c6802"
+    },
+    {
+      "id": "CH-0370",
+      "ordinal": 370,
+      "label_number": 372,
+      "title": "第372章 糖——摧毁魂器的方法？",
+      "normalized_char_start": 900799,
+      "normalized_char_end": 903197,
+      "characters": 2398,
+      "chapter_sha256": "9308db0034159505fd2b7610d636325193828c64e950dd7e9c5f4937a51fd8d5"
+    },
+    {
+      "id": "CH-0371",
+      "ordinal": 371,
+      "label_number": 373,
+      "title": "第373章 以爱为核心（小糖）",
+      "normalized_char_start": 903197,
+      "normalized_char_end": 905573,
+      "characters": 2376,
+      "chapter_sha256": "8b197fefb39bf013b3e0c74e6172c081bd58c56ed02843a32a593de334e95b0d"
+    },
+    {
+      "id": "CH-0372",
+      "ordinal": 372,
+      "label_number": 374,
+      "title": "第374章 （超级大糖）你！这！个！该！死！的！变！态！",
+      "normalized_char_start": 905573,
+      "normalized_char_end": 907767,
+      "characters": 2194,
+      "chapter_sha256": "b71808bf1ec5fd1fc07bfc2ec4017a7724d9cc167c573b82c058b466462b3ec7"
+    },
+    {
+      "id": "CH-0373",
+      "ordinal": 373,
+      "label_number": 375,
+      "title": "第375章 拉文克劳的冠冕？（小糖）",
+      "normalized_char_start": 907767,
+      "normalized_char_end": 910275,
+      "characters": 2508,
+      "chapter_sha256": "52accdd0db1be6e13d1d23c39a8277bcc54da2ab932fb23281f039a4463f8231"
+    },
+    {
+      "id": "CH-0374",
+      "ordinal": 374,
+      "label_number": 376,
+      "title": "第376章 （糖）谁叫这是巫师棋呢？",
+      "normalized_char_start": 910275,
+      "normalized_char_end": 912893,
+      "characters": 2618,
+      "chapter_sha256": "cb90b0434fe83e6a01e0c05cc628445ec713450ae6f15a3dc6c585960df49452"
+    },
+    {
+      "id": "CH-0375",
+      "ordinal": 375,
+      "label_number": 377,
+      "title": "第377章 （糖）寒蝉静谧，两人的前额始终相怜相依",
+      "normalized_char_start": 912893,
+      "normalized_char_end": 915002,
+      "characters": 2109,
+      "chapter_sha256": "5ea51969aa2c0c27b7c5fdff6b0159da640c86e501829bad9373b2a5ed2a9818"
+    },
+    {
+      "id": "CH-0376",
+      "ordinal": 376,
+      "label_number": 378,
+      "title": "第378章 珍宝在何处，心就在何方",
+      "normalized_char_start": 915002,
+      "normalized_char_end": 917149,
+      "characters": 2147,
+      "chapter_sha256": "9e8891fdbb32811a530aa42cbd0c2e7a8b164dd21d23e78f01985b48276ddd87"
+    },
+    {
+      "id": "CH-0377",
+      "ordinal": 377,
+      "label_number": 379,
+      "title": "第379章 （大糖）引蛇出洞——你这个……变态",
+      "normalized_char_start": 917149,
+      "normalized_char_end": 920321,
+      "characters": 3172,
+      "chapter_sha256": "3852472048ad744e91ccfd6e538becdb835886242914042c7368c1e1d4ed2505"
+    },
+    {
+      "id": "CH-0378",
+      "ordinal": 378,
+      "label_number": 380,
+      "title": "第380章 宝剑到手（糖）",
+      "normalized_char_start": 920321,
+      "normalized_char_end": 922898,
+      "characters": 2577,
+      "chapter_sha256": "cb1b36b1eccea04e8989fc1f8ceb860cba39a1918ad5df531d19408ce92d6599"
+    },
+    {
+      "id": "CH-0379",
+      "ordinal": 379,
+      "label_number": 381,
+      "title": "第381章 危险的尝试（和明天的内容有强烈关联，希望不要直接跳）",
+      "normalized_char_start": 922898,
+      "normalized_char_end": 925360,
+      "characters": 2462,
+      "chapter_sha256": "9265f3616c17b3972643d3e3ce423627ed09099a9c647a3f8e65388057d3514b"
+    },
+    {
+      "id": "CH-0380",
+      "ordinal": 380,
+      "label_number": 382,
+      "title": "第382章 伏地魔的“胜利”？不，一切尽在棋盘中",
+      "normalized_char_start": 925360,
+      "normalized_char_end": 927511,
+      "characters": 2151,
+      "chapter_sha256": "3f996cdfe652f41b5e4d02f50e05ef09a922fcdd6d2942a7330a1d39e58a76aa"
+    },
+    {
+      "id": "CH-0381",
+      "ordinal": 381,
+      "label_number": 383,
+      "title": "第383章 （糖）活过来（最后也别跳，有伏笔）",
+      "normalized_char_start": 927511,
+      "normalized_char_end": 930229,
+      "characters": 2718,
+      "chapter_sha256": "85fd795f544e1f4ea135a6e60f89ddd424bef75da7125d475267138dc5331f1d"
+    },
+    {
+      "id": "CH-0382",
+      "ordinal": 382,
+      "label_number": 384,
+      "title": "第384章 邓不利多：你们都是伟大的棋手",
+      "normalized_char_start": 930229,
+      "normalized_char_end": 933349,
+      "characters": 3120,
+      "chapter_sha256": "cc209a27877ba68a81fea85fedac0f2a8bff65da0c22057d9b097d8dc8d65e2f"
+    },
+    {
+      "id": "CH-0383",
+      "ordinal": 383,
+      "label_number": 385,
+      "title": "第385章 我们都陪伴着你，也都在看着你",
+      "normalized_char_start": 933349,
+      "normalized_char_end": 935815,
+      "characters": 2466,
+      "chapter_sha256": "9ab9b941c2f6c581e767603b9e875fb8787723c9730d1130af467448157c011b"
+    },
+    {
+      "id": "CH-0384",
+      "ordinal": 384,
+      "label_number": 386,
+      "title": "第386章 （超级无敌大糖）你……你想……干嘛",
+      "normalized_char_start": 935815,
+      "normalized_char_end": 937968,
+      "characters": 2153,
+      "chapter_sha256": "d74cece327b3b6d0cf20aac4ebedb8f0016eae89bf8bcfde71b1062ace2acba6"
+    },
+    {
+      "id": "CH-0385",
+      "ordinal": 385,
+      "label_number": 387,
+      "title": "第387章 （超级无敌大糖）变态。变态。变态",
+      "normalized_char_start": 937968,
+      "normalized_char_end": 940708,
+      "characters": 2740,
+      "chapter_sha256": "c0dd04fb7acf72764b357f032f9009ac64439ece0e7a91f320b57389be57f67b"
+    },
+    {
+      "id": "CH-0386",
+      "ordinal": 386,
+      "label_number": 388,
+      "title": "第388章 邓布利多最后的信（有前面剧情伏笔的填坑）",
+      "normalized_char_start": 940708,
+      "normalized_char_end": 942897,
+      "characters": 2189,
+      "chapter_sha256": "c13d8574b3c1ed7549c9c5319ba4702e8df2f653c55618c7bb5de1d1694c014c"
+    },
+    {
+      "id": "CH-0387",
+      "ordinal": 387,
+      "label_number": 389,
+      "title": "第389章 久违了，德拉科、哈利",
+      "normalized_char_start": 942897,
+      "normalized_char_end": 945500,
+      "characters": 2603,
+      "chapter_sha256": "57a20e1e5cd6c556ffd57ee5c7ffa68fb755b2ca6d9076b5584bc6b935e824e1"
+    },
+    {
+      "id": "CH-0388",
+      "ordinal": 388,
+      "label_number": 390,
+      "title": "第390章 懂了吗？",
+      "normalized_char_start": 945500,
+      "normalized_char_end": 947591,
+      "characters": 2091,
+      "chapter_sha256": "3e5548790b56e9f8bb12008bbe85ca19b43b9b8d3d720a022d3c2bb651306cd9"
+    },
+    {
+      "id": "CH-0389",
+      "ordinal": 389,
+      "label_number": 391,
+      "title": "第391章 爱，是其中一环",
+      "normalized_char_start": 947591,
+      "normalized_char_end": 950193,
+      "characters": 2602,
+      "chapter_sha256": "456f7ffee9517d5e259cc0a04af20b97478c75eb116bfb0c8b20a37e92675421"
+    },
+    {
+      "id": "CH-0390",
+      "ordinal": 390,
+      "label_number": 392,
+      "title": "第392章 只为彼此无私的两人",
+      "normalized_char_start": 950193,
+      "normalized_char_end": 952659,
+      "characters": 2466,
+      "chapter_sha256": "d6a40bf28661abb2848c7d42dda9031c898d9be8ac1c3ab944fc39495028531c"
+    },
+    {
+      "id": "CH-0391",
+      "ordinal": 391,
+      "label_number": 393,
+      "title": "第393章 （糖）我们接下来去哪？",
+      "normalized_char_start": 952659,
+      "normalized_char_end": 955303,
+      "characters": 2644,
+      "chapter_sha256": "db6c1a74616b301ef270a90c6708b327de841b0a6f59c08dc3a3c3a150007afd"
+    },
+    {
+      "id": "CH-0392",
+      "ordinal": 392,
+      "label_number": 3,
+      "title": "第3章 逃亡的三人（有些细节，想跳也行但最起码看下开头结尾）",
+      "normalized_char_start": 955303,
+      "normalized_char_end": 958601,
+      "characters": 3298,
+      "chapter_sha256": "b4b6f9ba0545b5f85d08dbd7a8471385de78416b36918c232a6eb56088df936b"
+    },
+    {
+      "id": "CH-0393",
+      "ordinal": 393,
+      "label_number": 395,
+      "title": "第395章 （超级大糖）在那之前……先……",
+      "normalized_char_start": 958601,
+      "normalized_char_end": 961024,
+      "characters": 2423,
+      "chapter_sha256": "fa0cfac3bdfe00c9789f2f1e39c46f83bebca53a2c8dfeea429ac2ab81f3ba4a"
+    },
+    {
+      "id": "CH-0394",
+      "ordinal": 394,
+      "label_number": 396,
+      "title": "第396章 （大糖）我们应该在附近了",
+      "normalized_char_start": 961024,
+      "normalized_char_end": 963859,
+      "characters": 2835,
+      "chapter_sha256": "ca9964e7b779414e4c3690bee525159b0b5f04e4bfe864b771244680fa1e1597"
+    },
+    {
+      "id": "CH-0395",
+      "ordinal": 395,
+      "label_number": 397,
+      "title": "第397章 情侣再见“小天狼星”与纳西莎？",
+      "normalized_char_start": 963859,
+      "normalized_char_end": 965778,
+      "characters": 1919,
+      "chapter_sha256": "5653d42fe844ba4ac1acc703e71bd32d10c41bbcd83c20882330968f073af8a8"
+    },
+    {
+      "id": "CH-0396",
+      "ordinal": 396,
+      "label_number": 398,
+      "title": "第398章 小天狼星的双面镜",
+      "normalized_char_start": 965778,
+      "normalized_char_end": 968059,
+      "characters": 2281,
+      "chapter_sha256": "6c0e9a825ed72b9174b3c0545418ef7f34e00e269bf478a1d2c698b3d0e08f88"
+    },
+    {
+      "id": "CH-0397",
+      "ordinal": 397,
+      "label_number": 3,
+      "title": "第3章 天龙座，雷古勒斯最喜欢的星座",
+      "normalized_char_start": 968059,
+      "normalized_char_end": 970701,
+      "characters": 2642,
+      "chapter_sha256": "7ce01b9492a1d52a5a0ac21c5b210933ae322e33a8e67f807db28a4b2fdab627"
+    },
+    {
+      "id": "CH-0398",
+      "ordinal": 398,
+      "label_number": 400,
+      "title": "第400章 我们会赢的！",
+      "normalized_char_start": 970701,
+      "normalized_char_end": 973319,
+      "characters": 2618,
+      "chapter_sha256": "91a1477191c4b43538da431dd6b3a0394cc2cd62d49da7b9e1d2a28508a4edd7"
+    },
+    {
+      "id": "CH-0399",
+      "ordinal": 399,
+      "label_number": 401,
+      "title": "第401章 （糖）罗・恩・韦・斯・莱",
+      "normalized_char_start": 973319,
+      "normalized_char_end": 975444,
+      "characters": 2125,
+      "chapter_sha256": "742290bd1b6c0a455e00e02258a6181a1c1ef7265726edf81d3ce4bf7ac236b0"
+    },
+    {
+      "id": "CH-0400",
+      "ordinal": 400,
+      "label_number": 402,
+      "title": "第402章 （糖）你… 你想做什么，变态哈利！",
+      "normalized_char_start": 975444,
+      "normalized_char_end": 977861,
+      "characters": 2417,
+      "chapter_sha256": "8950d12bedfd3203213b6bf54877e4c20679724cc08fb9491335a250ffd2a535"
+    },
+    {
+      "id": "CH-0401",
+      "ordinal": 401,
+      "label_number": 403,
+      "title": "第403章 （糖）哈利：对不起冒犯您……德拉科姐姐大人",
+      "normalized_char_start": 977861,
+      "normalized_char_end": 980271,
+      "characters": 2410,
+      "chapter_sha256": "6fd3508acb0b097001c97b96969ef7ac40eb0271dc676660372563dd1ee47145"
+    },
+    {
+      "id": "CH-0402",
+      "ordinal": 402,
+      "label_number": 404,
+      "title": "第404章 被召唤的小天狼星与雷古勒斯",
+      "normalized_char_start": 980271,
+      "normalized_char_end": 982039,
+      "characters": 1768,
+      "chapter_sha256": "df7b7a99a28c408be329842e351ff3043aacbe10b4c0d80852cb38e89e34fd84"
+    },
+    {
+      "id": "CH-0403",
+      "ordinal": 403,
+      "label_number": 405,
+      "title": "第405章 我很后悔，但我更庆幸",
+      "normalized_char_start": 982039,
+      "normalized_char_end": 984940,
+      "characters": 2901,
+      "chapter_sha256": "cdd72fe6c9f0a37adfe96aefc4e5cebe981d2d26e1ec22d0ee6348dafb70c368"
+    },
+    {
+      "id": "CH-0404",
+      "ordinal": 404,
+      "label_number": 406,
+      "title": "第406章 被赫敏训斥的三人",
+      "normalized_char_start": 984940,
+      "normalized_char_end": 987418,
+      "characters": 2478,
+      "chapter_sha256": "f7d85e5c465fa5fe5f3bbf83942510bdb00560c28c282022c839259501fc8974"
+    },
+    {
+      "id": "CH-0405",
+      "ordinal": 405,
+      "label_number": 407,
+      "title": "第407章 这是“解离”吧",
+      "normalized_char_start": 987418,
+      "normalized_char_end": 989879,
+      "characters": 2461,
+      "chapter_sha256": "9c107b0ffc2b00be4a13aa5eb1a8a4c4f7e79a2a2d68221f6adfa4bc4e446650"
+    },
+    {
+      "id": "CH-0406",
+      "ordinal": 406,
+      "label_number": 408,
+      "title": "第408章 （小糖）我们几天后见（其实也就一天( ´◔‸◔`)）",
+      "normalized_char_start": 989879,
+      "normalized_char_end": 992334,
+      "characters": 2455,
+      "chapter_sha256": "2f1d65f115927365ba3f4ccfb076a6db3efadf14c165da96fca1b306dd92ce87"
+    },
+    {
+      "id": "CH-0407",
+      "ordinal": 407,
+      "label_number": 409,
+      "title": "第409章 格林德沃：这小子还挺好糊弄",
+      "normalized_char_start": 992334,
+      "normalized_char_end": 995150,
+      "characters": 2816,
+      "chapter_sha256": "786b5683b12419c3dcd2938d2e214ce2fb29cd62432c3a4276115862fe049f91"
+    },
+    {
+      "id": "CH-0408",
+      "ordinal": 408,
+      "label_number": 410,
+      "title": "第410章 贝拉的孩子？诅咒？",
+      "normalized_char_start": 995150,
+      "normalized_char_end": 998409,
+      "characters": 3259,
+      "chapter_sha256": "26d8905a04cf5c623fc566007aec011ef7aa5701d8bbe0c5fd66dcab88b2e3e5"
+    },
+    {
+      "id": "CH-0409",
+      "ordinal": 409,
+      "label_number": 411,
+      "title": "第411章 一件一件来吧！（明天就又……你们应该懂吧！）",
+      "normalized_char_start": 998409,
+      "normalized_char_end": 1000764,
+      "characters": 2355,
+      "chapter_sha256": "25a86f1f2405fa19c2d8e6892d38192b319f4061a8e54499db5716ed7092fb2c"
+    },
+    {
+      "id": "CH-0410",
+      "ordinal": 410,
+      "label_number": 412,
+      "title": "第412章 德拉科“自言自语”（三更）",
+      "normalized_char_start": 1000764,
+      "normalized_char_end": 1003104,
+      "characters": 2340,
+      "chapter_sha256": "5e9217189f390a8bdb12c41838de2100cba80c73b47b0ce2ec3e4f23aed72df6"
+    },
+    {
+      "id": "CH-0411",
+      "ordinal": 411,
+      "label_number": 413,
+      "title": "第413章 你做的到吗？",
+      "normalized_char_start": 1003104,
+      "normalized_char_end": 1006028,
+      "characters": 2924,
+      "chapter_sha256": "bc9f970de72a784878c2139bb61a19932b8b4b70c175933869f03eca8f985577"
+    },
+    {
+      "id": "CH-0412",
+      "ordinal": 412,
+      "label_number": 414,
+      "title": "第414章 （大糖）变态！坏蛋！不要脸！",
+      "normalized_char_start": 1006028,
+      "normalized_char_end": 1009211,
+      "characters": 3183,
+      "chapter_sha256": "e949ae79e1d9297cdcf9f0237d300e7b5e661be85a3294e0446ef14b41f6297e"
+    },
+    {
+      "id": "CH-0413",
+      "ordinal": 413,
+      "label_number": 415,
+      "title": "第415章 （大糖）哈利：哪个我都喜欢",
+      "normalized_char_start": 1009211,
+      "normalized_char_end": 1011430,
+      "characters": 2219,
+      "chapter_sha256": "c89b5694f3b2bede212362d79d30eeedc10f5bca403c82468da6490262c65bcd"
+    },
+    {
+      "id": "CH-0414",
+      "ordinal": 414,
+      "label_number": 416,
+      "title": "第416章 烧毁庄园（糖）",
+      "normalized_char_start": 1011430,
+      "normalized_char_end": 1014144,
+      "characters": 2714,
+      "chapter_sha256": "58fa56f5bcd7a00b9f08cd1cca32d89b02a093b36a9900106c4d44a3e4ccd129"
+    },
+    {
+      "id": "CH-0415",
+      "ordinal": 415,
+      "label_number": 417,
+      "title": "第417章 （大糖）相吻——要去达芙妮了",
+      "normalized_char_start": 1014144,
+      "normalized_char_end": 1016238,
+      "characters": 2094,
+      "chapter_sha256": "8521093860f1f4550eefef4bb74c410b660a2607596e68db72bf0f9dafdeb4f9"
+    },
+    {
+      "id": "CH-0416",
+      "ordinal": 416,
+      "label_number": 418,
+      "title": "第418章 斯莱特林的女王回来了！",
+      "normalized_char_start": 1016238,
+      "normalized_char_end": 1018915,
+      "characters": 2677,
+      "chapter_sha256": "245c92001cb59416b9afcaa1f9f8e05870fd1b0c35e9c022b6269a61fe04820c"
+    },
+    {
+      "id": "CH-0417",
+      "ordinal": 417,
+      "label_number": 419,
+      "title": "第419章 我会救出她",
+      "normalized_char_start": 1018915,
+      "normalized_char_end": 1021467,
+      "characters": 2552,
+      "chapter_sha256": "a0bfc0480f34783e0b27534b49a534c04f9fdbb8b0952aa53109b277e98ba123"
+    },
+    {
+      "id": "CH-0418",
+      "ordinal": 418,
+      "label_number": 420,
+      "title": "第420章 大战序幕",
+      "normalized_char_start": 1021467,
+      "normalized_char_end": 1024248,
+      "characters": 2781,
+      "chapter_sha256": "8595bdff65542d1a6a4b3250e23bb3e4429ef8a0db7cdced7c176b227f2af852"
+    },
+    {
+      "id": "CH-0419",
+      "ordinal": 419,
+      "label_number": 421,
+      "title": "第421章 阿不福思：值得吗？",
+      "normalized_char_start": 1024248,
+      "normalized_char_end": 1026375,
+      "characters": 2127,
+      "chapter_sha256": "d974e605a3c7cd47d36bdef7dfea914aed3d09d230de76b3d84f08aa5aec37b0"
+    },
+    {
+      "id": "CH-0420",
+      "ordinal": 420,
+      "label_number": 422,
+      "title": "第422章 霍格莫德的三人",
+      "normalized_char_start": 1026375,
+      "normalized_char_end": 1028889,
+      "characters": 2514,
+      "chapter_sha256": "06152fd42a614995f7c4ed7f7fa763b6043a77a0174789a1483444ebab19e2a0"
+    },
+    {
+      "id": "CH-0421",
+      "ordinal": 421,
+      "label_number": 423,
+      "title": "第423章 它是你派来的吧",
+      "normalized_char_start": 1028889,
+      "normalized_char_end": 1030910,
+      "characters": 2021,
+      "chapter_sha256": "5dccb5628b437e23f74a792aa09dca18790ea47c6b1fa9675acb49bdb91c69ac"
+    },
+    {
+      "id": "CH-0422",
+      "ordinal": 422,
+      "label_number": 424,
+      "title": "第424章 阿不思没有看错人",
+      "normalized_char_start": 1030910,
+      "normalized_char_end": 1033133,
+      "characters": 2223,
+      "chapter_sha256": "91b58bc18fd5bd00fa25bdc73064a7fe0b21899ce39f17f16129e9f580cdf81d"
+    },
+    {
+      "id": "CH-0423",
+      "ordinal": 423,
+      "label_number": 425,
+      "title": "第425章 （超级无敌糖——番外）五等分的德拉科（高糖婚礼现场）",
+      "normalized_char_start": 1033133,
+      "normalized_char_end": 1036945,
+      "characters": 3812,
+      "chapter_sha256": "d0438e4d3816eff1956e4d1dfffba3e3b89ab62c1eb7f39935f0d9b7cc740060"
+    },
+    {
+      "id": "CH-0424",
+      "ordinal": 424,
+      "label_number": 426,
+      "title": "第426章 真正明白的选择（接番外前那章）",
+      "normalized_char_start": 1036945,
+      "normalized_char_end": 1039285,
+      "characters": 2340,
+      "chapter_sha256": "3e045d18c39e52f8516e9d01ae2a704c8809927f18e521f6008896e4197528ca"
+    },
+    {
+      "id": "CH-0425",
+      "ordinal": 425,
+      "label_number": 427,
+      "title": "第427章 （大糖）哈利：我来了，老婆！",
+      "normalized_char_start": 1039285,
+      "normalized_char_end": 1041928,
+      "characters": 2643,
+      "chapter_sha256": "174f289003fc29311470214faba084031577ae2718b91e994e31585972fc9adc"
+    },
+    {
+      "id": "CH-0426",
+      "ordinal": 426,
+      "label_number": 428,
+      "title": "第428章 开战了 （最近的都是非常连续的，就少跳点吧）",
+      "normalized_char_start": 1041928,
+      "normalized_char_end": 1044258,
+      "characters": 2330,
+      "chapter_sha256": "da532567529fae8042cbb8e004efde87ce44c8cc03f6fa5a47f489a59ae36cad"
+    },
+    {
+      "id": "CH-0427",
+      "ordinal": 427,
+      "label_number": 429,
+      "title": "第429章 （多糖）相互安抚的众人",
+      "normalized_char_start": 1044258,
+      "normalized_char_end": 1046717,
+      "characters": 2459,
+      "chapter_sha256": "857ed3b4aa595ccfdd9771dbcabcce0f78c5bce0ee42307f7447143113168f91"
+    },
+    {
+      "id": "CH-0428",
+      "ordinal": 428,
+      "label_number": 430,
+      "title": "第430章 众家族参战！（大战将在一周内结束，希望可以持续追更）",
+      "normalized_char_start": 1046717,
+      "normalized_char_end": 1049647,
+      "characters": 2930,
+      "chapter_sha256": "16f3de10e26904e66bcb05c059f5d4bbb9da3f774182f2fde5793d380ada3b51"
+    },
+    {
+      "id": "CH-0429",
+      "ordinal": 429,
+      "label_number": 431,
+      "title": "第431章 开始吧，准备好了（马上都是糖 来追个更，点个催更呗）",
+      "normalized_char_start": 1049647,
+      "normalized_char_end": 1052704,
+      "characters": 3057,
+      "chapter_sha256": "a7abb69890b06601798512b120657376e8c8c5a7fbd5e1e1f5e8a8c0577d4848"
+    }
+  ]
+}

@@ -15,3 +15,9 @@ private/
 *.mov
 *.wav
 *.mp3
+
+# Published case-study media; credentials and private material remain excluded.
+!projects/哈利/**/*.mp4
+!projects/哈利/**/*.mov
+!projects/哈利/**/*.wav
+!projects/哈利/**/*.mp3

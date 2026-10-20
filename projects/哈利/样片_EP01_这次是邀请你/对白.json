@@ -1,0 +1,116 @@
+[
+  {
+    "id": "L01",
+    "role": "哈利",
+    "text": "马尔福，你愿不愿意……",
+    "wav": "audio/L01.wav"
+  },
+  {
+    "id": "L02",
+    "role": "马尔福",
+    "text": "可以。",
+    "wav": "audio/L02.wav"
+  },
+  {
+    "id": "L03",
+    "role": "哈利",
+    "text": "教我跳舞？",
+    "wav": "audio/L03.wav"
+  },
+  {
+    "id": "L04",
+    "role": "马尔福",
+    "text": "……你就想问这个？",
+    "wav": "audio/L04.wav"
+  },
+  {
+    "id": "L05",
+    "role": "马尔福",
+    "text": "先跟高尔练。",
+    "wav": "audio/L05.wav"
+  },
+  {
+    "id": "L06",
+    "role": "哈利",
+    "text": "跟他？",
+    "wav": "audio/L06.wav"
+  },
+  {
+    "id": "L07",
+    "role": "马尔福",
+    "text": "先学会跟随，才知道舞伴是什么感受。",
+    "wav": "audio/L07.wav"
+  },
+  {
+    "id": "L08",
+    "role": "马尔福",
+    "text": "你准备邀请谁？",
+    "wav": "audio/L08.wav"
+  },
+  {
+    "id": "L09",
+    "role": "哈利",
+    "text": "我想先练好。",
+    "wav": "audio/L09.wav"
+  },
+  {
+    "id": "L10",
+    "role": "马尔福",
+    "text": "那你慢慢练。",
+    "wav": "audio/L10.wav"
+  },
+  {
+    "id": "L11",
+    "role": "高尔",
+    "text": "一、二、三。又来？",
+    "wav": "audio/L11.wav"
+  },
+  {
+    "id": "L12",
+    "role": "哈利",
+    "text": "再来一次。",
+    "wav": "audio/L12.wav"
+  },
+  {
+    "id": "L13",
+    "role": "高尔",
+    "text": "你直接邀请她不就好了？",
+    "wav": "audio/L13.wav"
+  },
+  {
+    "id": "L14",
+    "role": "哈利",
+    "text": "我不想让她在舞会上出糗。",
+    "wav": "audio/L14.wav"
+  },
+  {
+    "id": "L15",
+    "role": "哈利",
+    "text": "我想邀请的，一直是马尔福。",
+    "wav": "audio/L15.wav"
+  },
+  {
+    "id": "L16",
+    "role": "哈利",
+    "text": "马尔福小姐，愿意做我的舞伴吗？",
+    "wav": "audio/L16.wav"
+  },
+  {
+    "id": "L17",
+    "role": "马尔福",
+    "text": "这次，是学跳舞，还是邀请我？",
+    "wav": "audio/L17.wav"
+  },
+  {
+    "id": "L18",
+    "role": "哈利",
+    "text": "邀请你。你来领舞，也可以。",
+    "wav": "audio/L18.wav"
+  },
+  {
+    "id": "L19",
+    "role": "马尔福",
+    "text": "那就跟紧我，别踩我的脚。",
+    "wav": "audio/L19.wav"
+  }
+]

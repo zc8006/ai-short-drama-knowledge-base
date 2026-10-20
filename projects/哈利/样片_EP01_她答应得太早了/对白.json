@@ -1,0 +1,44 @@
+[
+  {
+    "id": "L01",
+    "character": "哈利",
+    "voice": "Microsoft Kangkang",
+    "text": "马尔福，能帮我个忙吗？"
+  },
+  {
+    "id": "L02",
+    "character": "德拉科",
+    "voice": "Microsoft Yaoyao",
+    "text": "你终于想起问我了？"
+  },
+  {
+    "id": "L03",
+    "character": "哈利",
+    "voice": "Microsoft Kangkang",
+    "text": "你愿不愿意……"
+  },
+  {
+    "id": "L04",
+    "character": "德拉科",
+    "voice": "Microsoft Yaoyao",
+    "text": "可以。"
+  },
+  {
+    "id": "L05",
+    "character": "哈利",
+    "voice": "Microsoft Kangkang",
+    "text": "教我跳舞。"
+  },
+  {
+    "id": "L06",
+    "character": "德拉科",
+    "voice": "Microsoft Yaoyao",
+    "text": "你就想问这个？"
+  },
+  {
+    "id": "L07",
+    "character": "德拉科",
+    "voice": "Microsoft Yaoyao",
+    "text": "明晚，别迟到。"
+  }
+]

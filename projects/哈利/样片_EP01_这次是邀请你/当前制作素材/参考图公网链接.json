@@ -1,0 +1,32 @@
+[
+  {
+    "name": "01_女主正面.png",
+    "file_path": "./样片_EP01_这次是邀请你\\当前制作素材\\01_女主正面.png",
+    "sha256": "ccf881dcc9396dac74fb03b27299237d1539e5e1bb83d6979b1b9cecf4c9a9bb",
+    "bytes": 1950736,
+    "url": "https://app.wuyeai.cn/refs/e50cbe4a-63cb-4658-9054-6cd4cdd5bb28.png",
+    "uploaded_at": "2026-10-18T13:35:02.903Z",
+    "destination": "https://app.wuyeai.cn/upload",
+    "cached": false
+  },
+  {
+    "name": "02_男主正面.png",
+    "file_path": "./样片_EP01_这次是邀请你\\当前制作素材\\02_男主正面.png",
+    "sha256": "b9cd30b559529a23f987d86cc1a9a99b7dba3f4ff7df6544e416d6f3af242065",
+    "bytes": 1813285,
+    "url": "https://app.wuyeai.cn/refs/900b4a4f-4131-423c-95f3-844dc2fa6ffd.png",
+    "uploaded_at": "2026-10-18T13:35:04.575Z",
+    "destination": "https://app.wuyeai.cn/upload",
+    "cached": false
+  },
+  {
+    "name": "03_教室双人关键帧.png",
+    "file_path": "./样片_EP01_这次是邀请你\\当前制作素材\\03_教室双人关键帧.png",
+    "sha256": "933e2d4cba04e08c6d198c3990c2efd17b3c938deaf54db9c7422a43d0136115",
+    "bytes": 4235952,
+    "url": "https://app.wuyeai.cn/refs/122e9933-32a4-4b8e-817c-292a3667d8b5.png",
+    "uploaded_at": "2026-10-18T13:35:08.841Z",
+    "destination": "https://app.wuyeai.cn/upload",
+    "cached": false
+  }
+]

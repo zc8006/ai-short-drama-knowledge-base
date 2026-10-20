@@ -1,0 +1,373 @@
+{
+  "title": "这次，是邀请你",
+  "status": "制作分镜与临时声音预演；尚无新生成的人物视频",
+  "resolution": "768p",
+  "aspect": "16:9",
+  "source": "Luis没了《笨蛋哈利与马尔福大小姐的二三事》第165—166章，CH-0164、CH-0165",
+  "shots": [
+    {
+      "id": "S01",
+      "planned_start": 0,
+      "planned_duration": 6,
+      "frame": "走廊·双人中景",
+      "action": "哈利鼓起勇气开口；马尔福忍住笑，等着下一句。",
+      "dialogue": [
+        {
+          "id": "L01",
+          "role": "哈利",
+          "text": "马尔福，你愿不愿意……",
+          "wav": "audio/L01.wav"
+        },
+        {
+          "id": "L02",
+          "role": "马尔福",
+          "text": "可以。",
+          "wav": "audio/L02.wav"
+        }
+      ],
+      "actual_start": 0,
+      "actual_duration": 6
+    },
+    {
+      "id": "S02",
+      "planned_start": 6,
+      "planned_duration": 5,
+      "frame": "马尔福近景→哈利反打",
+      "action": "她先答应，随后才听见请求。期待凝住，不做夸张变脸。",
+      "dialogue": [
+        {
+          "id": "L03",
+          "role": "哈利",
+          "text": "教我跳舞？",
+          "wav": "audio/L03.wav"
+        },
+        {
+          "id": "L04",
+          "role": "马尔福",
+          "text": "……你就想问这个？",
+          "wav": "audio/L04.wav"
+        }
+      ],
+      "actual_start": 6,
+      "actual_duration": 5.472834467120181
+    },
+    {
+      "id": "S03",
+      "planned_start": 11,
+      "planned_duration": 7,
+      "frame": "魔药学教室·固定全景",
+      "action": "桌椅移到两旁。她指向站姿端正的高尔；哈利以为要与她跳，伸出的手停在半空。",
+      "dialogue": [
+        {
+          "id": "L05",
+          "role": "马尔福",
+          "text": "先跟高尔练。",
+          "wav": "audio/L05.wav"
+        },
+        {
+          "id": "L06",
+          "role": "哈利",
+          "text": "跟他？",
+          "wav": "audio/L06.wav"
+        }
+      ],
+      "actual_start": 11.472834467120181,
+      "actual_duration": 7
+    },
+    {
+      "id": "S04",
+      "planned_start": 18,
+      "planned_duration": 8,
+      "frame": "舞步与面部切换",
+      "action": "高尔示范糟糕领舞，哈利被迫追步。第二次示范平稳优雅，表现高尔有真本领。",
+      "dialogue": [
+        {
+          "id": "L07",
+          "role": "马尔福",
+          "text": "先学会跟随，才知道舞伴是什么感受。",
+          "wav": "audio/L07.wav"
+        }
+      ],
+      "actual_start": 18.47283446712018,
+      "actual_duration": 8
+    },
+    {
+      "id": "S05",
+      "planned_start": 26,
+      "planned_duration": 6,
+      "frame": "教室·两人对视",
+      "action": "她状似随口地问，实际上认真等待。他一紧张，只顾脚下。",
+      "dialogue": [
+        {
+          "id": "L08",
+          "role": "马尔福",
+          "text": "你准备邀请谁？",
+          "wav": "audio/L08.wav"
+        },
+        {
+          "id": "L09",
+          "role": "哈利",
+          "text": "我想先练好。",
+          "wav": "audio/L09.wav"
+        }
+      ],
+      "actual_start": 26.47283446712018,
+      "actual_duration": 6
+    },
+    {
+      "id": "S06",
+      "planned_start": 32,
+      "planned_duration": 5,
+      "frame": "马尔福特写·落空",
+      "action": "她垂眼收起折扇，退出练习区。哈利没有及时追问。",
+      "dialogue": [
+        {
+          "id": "L10",
+          "role": "马尔福",
+          "text": "那你慢慢练。",
+          "wav": "audio/L10.wav"
+        }
+      ],
+      "actual_start": 32.47283446712018,
+      "actual_duration": 5
+    },
+    {
+      "id": "S07",
+      "planned_start": 37,
+      "planned_duration": 6,
+      "frame": "夜·门外→门内",
+      "action": "字幕“一周后”。她经过教室，听见高尔计数；停步，尚不入镜。",
+      "dialogue": [
+        {
+          "id": "L11",
+          "role": "高尔",
+          "text": "一、二、三。又来？",
+          "wav": "audio/L11.wav"
+        },
+        {
+          "id": "L12",
+          "role": "哈利",
+          "text": "再来一次。",
+          "wav": "audio/L12.wav"
+        }
+      ],
+      "actual_start": 37.47283446712018,
+      "actual_duration": 7.124580498866213
+    },
+    {
+      "id": "S08",
+      "planned_start": 43,
+      "planned_duration": 7,
+      "frame": "高尔中近景→哈利",
+      "action": "高尔松开架势，认真地问，不演成嘲笑。",
+      "dialogue": [
+        {
+          "id": "L13",
+          "role": "高尔",
+          "text": "你直接邀请她不就好了？",
+          "wav": "audio/L13.wav"
+        },
+        {
+          "id": "L14",
+          "role": "哈利",
+          "text": "我不想让她在舞会上出糗。",
+          "wav": "audio/L14.wav"
+        }
+      ],
+      "actual_start": 44.597414965986395,
+      "actual_duration": 8.087664399092972
+    },
+    {
+      "id": "S09",
+      "planned_start": 50,
+      "planned_duration": 7,
+      "frame": "哈利近景→门外马尔福",
+      "action": "哈利回到起步位置；门外她听见自己的名字，肩膀慢慢放松。",
+      "dialogue": [
+        {
+          "id": "L15",
+          "role": "哈利",
+          "text": "我想邀请的，一直是马尔福。",
+          "wav": "audio/L15.wav"
+        }
+      ],
+      "actual_start": 52.68507936507937,
+      "actual_duration": 7
+    },
+    {
+      "id": "S10",
+      "planned_start": 57,
+      "planned_duration": 8,
+      "frame": "教室门口·双人中景",
+      "action": "稍后，高尔离开。她走进来。哈利站直，正式伸手。",
+      "dialogue": [
+        {
+          "id": "L16",
+          "role": "哈利",
+          "text": "马尔福小姐，愿意做我的舞伴吗？",
+          "wav": "audio/L16.wav"
+        }
+      ],
+      "actual_start": 59.68507936507937,
+      "actual_duration": 8
+    },
+    {
+      "id": "S11",
+      "planned_start": 65,
+      "planned_duration": 8,
+      "frame": "马尔福近景→哈利",
+      "action": "她不急着伸手，要确认这一次的意义。他终于正面回答。",
+      "dialogue": [
+        {
+          "id": "L17",
+          "role": "马尔福",
+          "text": "这次，是学跳舞，还是邀请我？",
+          "wav": "audio/L17.wav"
+        },
+        {
+          "id": "L18",
+          "role": "哈利",
+          "text": "邀请你。你来领舞，也可以。",
+          "wav": "audio/L18.wav"
+        }
+      ],
+      "actual_start": 67.68507936507936,
+      "actual_duration": 9.43297052154195
+    },
+    {
+      "id": "S12",
+      "planned_start": 73,
+      "planned_duration": 7,
+      "frame": "手部→中景收尾",
+      "action": "她把手放进他的掌心，带出第一步。他顺着节拍跟上，只完成一次简单侧步。",
+      "dialogue": [
+        {
+          "id": "L19",
+          "role": "马尔福",
+          "text": "那就跟紧我，别踩我的脚。",
+          "wav": "audio/L19.wav"
+        }
+      ],
+      "actual_start": 77.11804988662131,
+      "actual_duration": 7
+    }
+  ],
+  "planned_duration": 80,
+  "actual_duration": 84.11804988662131,
+  "captions": [
+    {
+      "start": 0.4901836734693877,
+      "end": 3.2010226757369615,
+      "role": "哈利",
+      "text": "马尔福，你愿不愿意……"
+    },
+    {
+      "start": 3.5510226757369616,
+      "end": 4.856238095238096,
+      "role": "马尔福",
+      "text": "可以。"
+    },
+    {
+      "start": 6.405,
+      "end": 8.096020408163266,
+      "role": "哈利",
+      "text": "教我跳舞？"
+    },
+    {
+      "start": 8.446020408163266,
+      "end": 10.527834467120183,
+      "role": "马尔福",
+      "text": "……你就想问这个？"
+    },
+    {
+      "start": 12.470609977324264,
+      "end": 14.471698412698414,
+      "role": "马尔福",
+      "text": "先跟高尔练。"
+    },
+    {
+      "start": 14.821698412698414,
+      "end": 16.144691609977325,
+      "role": "哈利",
+      "text": "跟他？"
+    },
+    {
+      "start": 19.575759637188206,
+      "end": 23.899342403628115,
+      "role": "马尔福",
+      "text": "先学会跟随，才知道舞伴是什么感受。"
+    },
+    {
+      "start": 26.940297052154193,
+      "end": 29.04478684807256,
+      "role": "马尔福",
+      "text": "你准备邀请谁？"
+    },
+    {
+      "start": 29.394786848072563,
+      "end": 31.38208843537415,
+      "role": "哈利",
+      "text": "我想先练好。"
+    },
+    {
+      "start": 33.39001814058957,
+      "end": 35.332739229024945,
+      "role": "马尔福",
+      "text": "那你慢慢练。"
+    },
+    {
+      "start": 37.87783446712018,
+      "end": 41.651757369614515,
+      "role": "高尔",
+      "text": "一、二、三。又来？"
+    },
+    {
+      "start": 42.001757369614516,
+      "end": 43.652414965986395,
+      "role": "哈利",
+      "text": "再来一次。"
+    },
+    {
+      "start": 45.0024149659864,
+      "end": 48.27089569160998,
+      "role": "高尔",
+      "text": "你直接邀请她不就好了？"
+    },
+    {
+      "start": 48.62089569160998,
+      "end": 51.74007936507937,
+      "role": "哈利",
+      "text": "我不想让她在舞会上出糗。"
+    },
+    {
+      "start": 53.77650793650794,
+      "end": 57.1384126984127,
+      "role": "哈利",
+      "text": "我想邀请的，一直是马尔福。"
+    },
+    {
+      "start": 61.027841269841275,
+      "end": 64.55196825396825,
+      "role": "哈利",
+      "text": "马尔福小姐，愿意做我的舞伴吗？"
+    },
+    {
+      "start": 68.09007936507936,
+      "end": 71.82055555555556,
+      "role": "马尔福",
+      "text": "这次，是学跳舞，还是邀请我？"
+    },
+    {
+      "start": 72.17055555555555,
+      "end": 76.17304988662131,
+      "role": "哈利",
+      "text": "邀请你。你来领舞，也可以。"
+    },
+    {
+      "start": 78.30391383219954,
+      "end": 81.35103401360544,
+      "role": "马尔福",
+      "text": "那就跟紧我，别踩我的脚。"
+    }
+  ]
+}

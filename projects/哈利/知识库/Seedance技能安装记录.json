@@ -1,0 +1,29 @@
+[
+  {
+    "repo": "Emily2040/seedance-2.0",
+    "commit": "4668457e560eee06e95d7fcfdf441c8c0bba802e",
+    "directory": "<LOCAL_RUNTIME_PATH>",
+    "skill_file": "<LOCAL_RUNTIME_PATH>",
+    "file_count": 343,
+    "status": "installed",
+    "code_executed": false
+  },
+  {
+    "repo": "MapleShaw/seedance2.0-prompt-skill",
+    "commit": "a2ab7fd9b73e1d531fabd7f59f390e8d39dc57a5",
+    "directory": "<LOCAL_RUNTIME_PATH>",
+    "skill_file": "<LOCAL_RUNTIME_PATH>",
+    "file_count": 77,
+    "status": "installed",
+    "code_executed": false
+  },
+  {
+    "repo": "mqrox/seedance-2.0-prompt-skill",
+    "commit": "e9b2da26f98090dd3cbbcad674ca37359b1f5f60",
+    "directory": "<LOCAL_RUNTIME_PATH>",
+    "skill_file": "<LOCAL_RUNTIME_PATH>",
+    "file_count": 8,
+    "status": "installed",
+    "code_executed": false
+  }
+]

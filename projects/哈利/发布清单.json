@@ -1,0 +1,857 @@
+{
+  "date": "2026-10-20",
+  "included": [
+    {
+      "path": "README.md",
+      "bytes": 2604,
+      "sha256": "76f7cc62faf20e32508b611d95d1486118270f222e228604ec478f7197a56e59",
+      "source_sha256": "a9723d583412348fd8790db12f451e2fc1ca8fcd3313887b5a38b2ee0a608925"
+    },
+    {
+      "path": "创作背景手册.md",
+      "bytes": 9014,
+      "sha256": "2f20e6bcd01ec255aafdcb17e9bd8753ab1285184dcdd86aa35b8881a463a5af",
+      "source_sha256": "2f20e6bcd01ec255aafdcb17e9bd8753ab1285184dcdd86aa35b8881a463a5af"
+    },
+    {
+      "path": "制作舞会样片.py",
+      "bytes": 7287,
+      "sha256": "9648bf426388fc2912a52e386bbc605dd6b1f352933d5b8aaf319a3ffcf34007",
+      "source_sha256": "9648bf426388fc2912a52e386bbc605dd6b1f352933d5b8aaf319a3ffcf34007"
+    },
+    {
+      "path": "小说章节索引.json",
+      "bytes": 148356,
+      "sha256": "7de2400725937767bc4d32aef7ed614678114e04cf683b1f8d67548320d0231d",
+      "source_sha256": "7de2400725937767bc4d32aef7ed614678114e04cf683b1f8d67548320d0231d"
+    },
+    {
+      "path": "小说章节索引.md",
+      "bytes": 25898,
+      "sha256": "867546be7e11d914bf476e9a8c491b92e86046bb91d9f327b0e2c4e2e6239912",
+      "source_sha256": "867546be7e11d914bf476e9a8c491b92e86046bb91d9f327b0e2c4e2e6239912"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/00_样片说明.md",
+      "bytes": 2300,
+      "sha256": "e2a00c5e812df004d444b15771860cd6ad3d89cbd13e50ca971d613835e36e8a",
+      "source_sha256": "e2a00c5e812df004d444b15771860cd6ad3d89cbd13e50ca971d613835e36e8a"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/01_正式镜头生成单.md",
+      "bytes": 3331,
+      "sha256": "ea874fe4d5ff04f3e9c34d58d7198bafca05167b0ed9ae86fb42b311cd07e0ff",
+      "source_sha256": "ea874fe4d5ff04f3e9c34d58d7198bafca05167b0ed9ae86fb42b311cd07e0ff"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/02_执行与验收记录.md",
+      "bytes": 1888,
+      "sha256": "d94cf7f1db55ec2b9559950811d3349baabc2e7d4322f8d1c7d54a82c82e261d",
+      "source_sha256": "d94cf7f1db55ec2b9559950811d3349baabc2e7d4322f8d1c7d54a82c82e261d"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/assets/end-card.mp4",
+      "bytes": 5012,
+      "sha256": "755dd049c9ef6c01eda22b49b1b0c0f8f5ddef74e1aebc57e382c9fc55916563",
+      "source_sha256": "755dd049c9ef6c01eda22b49b1b0c0f8f5ddef74e1aebc57e382c9fc55916563"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/assets/picture.mp4",
+      "bytes": 4637005,
+      "sha256": "537575a0895497c782dfd0136ef67537b050da033ef1858a1b01968d026e7a8f",
+      "source_sha256": "537575a0895497c782dfd0136ef67537b050da033ef1858a1b01968d026e7a8f"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/assets/S01.mp4",
+      "bytes": 1421289,
+      "sha256": "b599594ebd9125a8a53f5625850fa1b9dca561a77c64272730d028da94295645",
+      "source_sha256": "b599594ebd9125a8a53f5625850fa1b9dca561a77c64272730d028da94295645"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/assets/S02.mp4",
+      "bytes": 854923,
+      "sha256": "e52f7bb9fb92921eb7113cb6944ce3e8014fefc8bf6a6fe9301458aa23714372",
+      "source_sha256": "e52f7bb9fb92921eb7113cb6944ce3e8014fefc8bf6a6fe9301458aa23714372"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/assets/S03.mp4",
+      "bytes": 341927,
+      "sha256": "ef96346617d1f0f740c3bee09ed9e6bb5386393cdc7c7b159a53d24678c351b7",
+      "source_sha256": "ef96346617d1f0f740c3bee09ed9e6bb5386393cdc7c7b159a53d24678c351b7"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/assets/S04.mp4",
+      "bytes": 423406,
+      "sha256": "f2db5e104caa5433295b5fdb3691283aea7208523655521c03bdcc082e2483f8",
+      "source_sha256": "f2db5e104caa5433295b5fdb3691283aea7208523655521c03bdcc082e2483f8"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/assets/S05.mp4",
+      "bytes": 423291,
+      "sha256": "7d99e53eee97248cb1eb1d3888b49657e48a1af040b16401072ec26f4ec54dd0",
+      "source_sha256": "7d99e53eee97248cb1eb1d3888b49657e48a1af040b16401072ec26f4ec54dd0"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/assets/S06.mp4",
+      "bytes": 402761,
+      "sha256": "1ba709ea1cace503bc49f55e2a45da0ba57aac29a12558a33fd8e5c0be0f2294",
+      "source_sha256": "1ba709ea1cace503bc49f55e2a45da0ba57aac29a12558a33fd8e5c0be0f2294"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/assets/S07.mp4",
+      "bytes": 770671,
+      "sha256": "baa4e134d008cfcb043b93f2239df2ad5265366dccc1ac27cd86244fc7eeb022",
+      "source_sha256": "baa4e134d008cfcb043b93f2239df2ad5265366dccc1ac27cd86244fc7eeb022"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/audio/L01.wav",
+      "bytes": 121528,
+      "sha256": "ef6eec63b5f33cd49f06ed84355cf5ead2263613052d00f58f577725d498ef72",
+      "source_sha256": "ef6eec63b5f33cd49f06ed84355cf5ead2263613052d00f58f577725d498ef72"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/audio/L02.wav",
+      "bytes": 111448,
+      "sha256": "72b026e846ac46f6a0134af17b9b54729f66c557130ec955165d8867a444478e",
+      "source_sha256": "72b026e846ac46f6a0134af17b9b54729f66c557130ec955165d8867a444478e"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/audio/L03.wav",
+      "bytes": 83544,
+      "sha256": "abcd2a176c01932aa20e29e096e5208c5ccbb149ac28765c3d1abbe8e8a30813",
+      "source_sha256": "abcd2a176c01932aa20e29e096e5208c5ccbb149ac28765c3d1abbe8e8a30813"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/audio/L04.wav",
+      "bytes": 57606,
+      "sha256": "bfd9bff88bfe348ca3524a1fa8d914996d26e143ae08d388b29a4ce6bcc3e5ff",
+      "source_sha256": "bfd9bff88bfe348ca3524a1fa8d914996d26e143ae08d388b29a4ce6bcc3e5ff"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/audio/L05.wav",
+      "bytes": 74620,
+      "sha256": "e1a617ff2397794e4f12430a489516271a2a3960e841e139bdbe7f5448605168",
+      "source_sha256": "e1a617ff2397794e4f12430a489516271a2a3960e841e139bdbe7f5448605168"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/audio/L06.wav",
+      "bytes": 91854,
+      "sha256": "9a3eac7d4f380e04c424e1b1d171522cabdc72a660bda7a0d50a7992a4d1874b",
+      "source_sha256": "9a3eac7d4f380e04c424e1b1d171522cabdc72a660bda7a0d50a7992a4d1874b"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/audio/L07.wav",
+      "bytes": 96218,
+      "sha256": "58da611f4179243321c6f20a485824ec672a25db81788c4bea0378a498e30a4d",
+      "source_sha256": "58da611f4179243321c6f20a485824ec672a25db81788c4bea0378a498e30a4d"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/audio/voice-test.wav",
+      "bytes": 143354,
+      "sha256": "f75b3108c416fb1707a591684fc8728a3e0b65f28a80538f370ae9ff334ed817",
+      "source_sha256": "f75b3108c416fb1707a591684fc8728a3e0b65f28a80538f370ae9ff334ed817"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/captions.ass",
+      "bytes": 2610,
+      "sha256": "6f005d5a4ebf1ed0e7393f3aa3da132e6d6ba686a72aa723d8ce9a34b6ae5281",
+      "source_sha256": "6607982b6eb9387bb11e3d3d64ffea38bee52485e74cb06998088e6bc280b443"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/clips.txt",
+      "bytes": 189,
+      "sha256": "2cf44428ea900b5b99f3894dfb3241c99d3647f004346457008461675c72ea66",
+      "source_sha256": "2cf44428ea900b5b99f3894dfb3241c99d3647f004346457008461675c72ea66"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/preview.html",
+      "bytes": 1983,
+      "sha256": "63939a96ee9b240a2fc595f26cce2830851b6fe99239740c93caf7558da9461c",
+      "source_sha256": "63939a96ee9b240a2fc595f26cce2830851b6fe99239740c93caf7558da9461c"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/qa/preview-contact.jpg",
+      "bytes": 120775,
+      "sha256": "afcafec8327004a8b895805cae19f3495b964ec3eafb2d70382e425347ae40e2",
+      "source_sha256": "afcafec8327004a8b895805cae19f3495b964ec3eafb2d70382e425347ae40e2"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/qa/reference-contact.jpg",
+      "bytes": 84485,
+      "sha256": "aa01be117a6878aed118e9104b7f0bf5253382079ba596104599e66e8ee14b83",
+      "source_sha256": "aa01be117a6878aed118e9104b7f0bf5253382079ba596104599e66e8ee14b83"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/render-preview.py",
+      "bytes": 3724,
+      "sha256": "ba0765d1c57bafb3d7626ccfce913dffca4e4974df5cbab571ded7541970962b",
+      "source_sha256": "ba0765d1c57bafb3d7626ccfce913dffca4e4974df5cbab571ded7541970962b"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/timeline.json",
+      "bytes": 2648,
+      "sha256": "61d53155fb1554a9eb3ebab2a12d45230396bc14ff145596705b0f45c3f117df",
+      "source_sha256": "9c23acb3fe74b2ed5080fd257d924c8efc5d8023145bbe1d50a977c2c3bef7da"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/制作预演.py",
+      "bytes": 1366,
+      "sha256": "bd63d1cf55912f74edd7e33197599a67042c0807d2de6ebfc242217e87bb470e",
+      "source_sha256": "a3a8e4c41092ad5bdafa0d9f2a3be5f93cef094658dc212c3c7f12b2f1e3f460"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/参考剪辑预演_v01_768p.mp4",
+      "bytes": 4417380,
+      "sha256": "95139ba4b3ac6a55d378067978d3484ddaf65a904297aa632109684a03e2aaea",
+      "source_sha256": "95139ba4b3ac6a55d378067978d3484ddaf65a904297aa632109684a03e2aaea"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/对白.json",
+      "bytes": 917,
+      "sha256": "6cb6a08f11a53888f3d90a8122a0f01ea7a92a3fb7e430f62bae763966157279",
+      "source_sha256": "4bb7821a5c061702d82ed66dec109cc75d8d82b8a5dbb893e21043d0d2c0edae"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/00_制作状态.md",
+      "bytes": 1194,
+      "sha256": "8a9d26accaf7a6850205e1a47b0e504aacaa23b22dd8a59d59ee33b6e3c42a2f",
+      "source_sha256": "8a9d26accaf7a6850205e1a47b0e504aacaa23b22dd8a59d59ee33b6e3c42a2f"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/01_拍摄剧本.md",
+      "bytes": 4184,
+      "sha256": "c1a82cb836049f422075e8c45587e98583ff00f8c3ae543e2f1e510f03105de6",
+      "source_sha256": "c1a82cb836049f422075e8c45587e98583ff00f8c3ae543e2f1e510f03105de6"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/02_镜头生成单.md",
+      "bytes": 5001,
+      "sha256": "feec85b1d6d812a820b161ab6727cbdc013ebe41fe3b2376547ed19b1b2c5f4f",
+      "source_sha256": "feec85b1d6d812a820b161ab6727cbdc013ebe41fe3b2376547ed19b1b2c5f4f"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/03_女主反应镜头_Dola.md",
+      "bytes": 2592,
+      "sha256": "7ce036b3f8405fd7ef7cf2018ea4c162e3447d7556b62c5f9c53063120f6a070",
+      "source_sha256": "7ce036b3f8405fd7ef7cf2018ea4c162e3447d7556b62c5f9c53063120f6a070"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/04_骄傲回应与接手_15秒合并版.md",
+      "bytes": 2841,
+      "sha256": "1d22d2264738f90062245c2283e39b701560973725ae77d4a8be6c2bc1707ea4",
+      "source_sha256": "1d22d2264738f90062245c2283e39b701560973725ae77d4a8be6c2bc1707ea4"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/05_分镜设计_v02.md",
+      "bytes": 5499,
+      "sha256": "88577d35c46ea372fef2aad88b0b9560a380c507b379f686c28d79add4f4ff61",
+      "source_sha256": "88577d35c46ea372fef2aad88b0b9560a380c507b379f686c28d79add4f4ff61"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L01.wav",
+      "bytes": 119594,
+      "sha256": "e2d78a80abb89211edf40b03af3917cb0dec776d9e0dc66ddd5ac5907ddf8f4a",
+      "source_sha256": "e2d78a80abb89211edf40b03af3917cb0dec776d9e0dc66ddd5ac5907ddf8f4a"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L02.wav",
+      "bytes": 57606,
+      "sha256": "bfd9bff88bfe348ca3524a1fa8d914996d26e143ae08d388b29a4ce6bcc3e5ff",
+      "source_sha256": "bfd9bff88bfe348ca3524a1fa8d914996d26e143ae08d388b29a4ce6bcc3e5ff"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L03.wav",
+      "bytes": 74620,
+      "sha256": "e1a617ff2397794e4f12430a489516271a2a3960e841e139bdbe7f5448605168",
+      "source_sha256": "e1a617ff2397794e4f12430a489516271a2a3960e841e139bdbe7f5448605168"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L04.wav",
+      "bytes": 91854,
+      "sha256": "9a3eac7d4f380e04c424e1b1d171522cabdc72a660bda7a0d50a7992a4d1874b",
+      "source_sha256": "9a3eac7d4f380e04c424e1b1d171522cabdc72a660bda7a0d50a7992a4d1874b"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L05.wav",
+      "bytes": 88294,
+      "sha256": "7deb3355677ef6bf34bdd375c3cb7ea93d22b94f05e9d8001c3b8496221f0b56",
+      "source_sha256": "7deb3355677ef6bf34bdd375c3cb7ea93d22b94f05e9d8001c3b8496221f0b56"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L06.wav",
+      "bytes": 58390,
+      "sha256": "6c7541ec7467be6c5ba25d2b23909037eeda27c505ec4d7996a4835fd0afe43a",
+      "source_sha256": "6c7541ec7467be6c5ba25d2b23909037eeda27c505ec4d7996a4835fd0afe43a"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L07.wav",
+      "bytes": 190716,
+      "sha256": "5111d4b0fa914e31aca7f421679e5ffac1928eef7632382b74aabb15db002293",
+      "source_sha256": "5111d4b0fa914e31aca7f421679e5ffac1928eef7632382b74aabb15db002293"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L08.wav",
+      "bytes": 92854,
+      "sha256": "e0437bd1f696dd803e3e1c87486add074fa41138dc4871f1a709837e5da55d45",
+      "source_sha256": "e0437bd1f696dd803e3e1c87486add074fa41138dc4871f1a709837e5da55d45"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L09.wav",
+      "bytes": 87686,
+      "sha256": "a7e89a67f6cf486a96f357caf57f87bc50faecffa8a63ed4bbbf17c462074c99",
+      "source_sha256": "a7e89a67f6cf486a96f357caf57f87bc50faecffa8a63ed4bbbf17c462074c99"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L10.wav",
+      "bytes": 85720,
+      "sha256": "250377849e6aa65a466a3d30f02408950d9a974892930f5f8b63888df6c19551",
+      "source_sha256": "250377849e6aa65a466a3d30f02408950d9a974892930f5f8b63888df6c19551"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L11.wav",
+      "bytes": 166476,
+      "sha256": "097522ae4cd17a084f467bd4bcdd1b4f7ccdcf41457a9ddda258f44aa8b57439",
+      "source_sha256": "097522ae4cd17a084f467bd4bcdd1b4f7ccdcf41457a9ddda258f44aa8b57439"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L12.wav",
+      "bytes": 72840,
+      "sha256": "30347655522eea43d08bfe327d9a0792b7d54408bf22348de082c8c1b430407e",
+      "source_sha256": "30347655522eea43d08bfe327d9a0792b7d54408bf22348de082c8c1b430407e"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L13.wav",
+      "bytes": 144186,
+      "sha256": "b9c0d0bd6c941af5c5e370e04796be41da92aec2aa04cb04c5d6a9dea78a8d68",
+      "source_sha256": "b9c0d0bd6c941af5c5e370e04796be41da92aec2aa04cb04c5d6a9dea78a8d68"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L14.wav",
+      "bytes": 137602,
+      "sha256": "5d27c316ddedc0aed25567bc7b94cee9cc32ca6df0356439f22372e188fbf085",
+      "source_sha256": "5d27c316ddedc0aed25567bc7b94cee9cc32ca6df0356439f22372e188fbf085"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L15.wav",
+      "bytes": 148306,
+      "sha256": "936a95abe0abe39b8d000f4cb38d279c251276d903db513355ca8e980b8b138b",
+      "source_sha256": "936a95abe0abe39b8d000f4cb38d279c251276d903db513355ca8e980b8b138b"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L16.wav",
+      "bytes": 155460,
+      "sha256": "70762094080e588a1b1593c666c48001815a54a4293cdfdc2517960af852273c",
+      "source_sha256": "70762094080e588a1b1593c666c48001815a54a4293cdfdc2517960af852273c"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L17.wav",
+      "bytes": 164560,
+      "sha256": "aa97132534ac752f2c82a3830dc654febca9432a82c88d470d31efdddca12010",
+      "source_sha256": "aa97132534ac752f2c82a3830dc654febca9432a82c88d470d31efdddca12010"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L18.wav",
+      "bytes": 176556,
+      "sha256": "843cc7f433b711c4db081ad3755ada7d6d96cdae10077c36d8592992bf1d063d",
+      "source_sha256": "843cc7f433b711c4db081ad3755ada7d6d96cdae10077c36d8592992bf1d063d"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/audio/L19.wav",
+      "bytes": 134424,
+      "sha256": "99ff9f6b3e9b50390b0e51eea3da0111a88661bd30a2f280242fc15428f27020",
+      "source_sha256": "99ff9f6b3e9b50390b0e51eea3da0111a88661bd30a2f280242fc15428f27020"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/三视图/女主_三视图_v01.png",
+      "bytes": 2081838,
+      "sha256": "5ef9ed2662de662457eb373c9aca395661c0a91f3138526465d012dc0473f533",
+      "source_sha256": "5ef9ed2662de662457eb373c9aca395661c0a91f3138526465d012dc0473f533"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/三视图/男主_三视图_v01.png",
+      "bytes": 2017742,
+      "sha256": "1c2e283aabf5258e0378cda10a847d6a0ed9d3019da5c707e925f48269dd6b1f",
+      "source_sha256": "1c2e283aabf5258e0378cda10a847d6a0ed9d3019da5c707e925f48269dd6b1f"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/三视图/说明.md",
+      "bytes": 471,
+      "sha256": "66be8616f9d5bb1570bc9db97f27972d6e1ae986604fd2d0ac28a949b4e474fd",
+      "source_sha256": "66be8616f9d5bb1570bc9db97f27972d6e1ae986604fd2d0ac28a949b4e474fd"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/原创女主_参考服装_v02.png",
+      "bytes": 1950736,
+      "sha256": "ccf881dcc9396dac74fb03b27299237d1539e5e1bb83d6979b1b9cecf4c9a9bb",
+      "source_sha256": "ccf881dcc9396dac74fb03b27299237d1539e5e1bb83d6979b1b9cecf4c9a9bb"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/原创女主_四分之三侧脸_v01.png",
+      "bytes": 1995622,
+      "sha256": "ff32f17f8653b471d5de6272d804719a3c19923c63990d43dc8e23cf18866204",
+      "source_sha256": "ff32f17f8653b471d5de6272d804719a3c19923c63990d43dc8e23cf18866204"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/原创女主_定妆_v01.png",
+      "bytes": 2042420,
+      "sha256": "9646946777ca90c322a83a6d29fe067a4a486fa5c847c59543d6be5fd4a14e47",
+      "source_sha256": "9646946777ca90c322a83a6d29fe067a4a486fa5c847c59543d6be5fd4a14e47"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/原创女主_正侧脸_v01.png",
+      "bytes": 1888400,
+      "sha256": "bdd71f09367179ff05ce829873a39216fb8829050896c4bd8d5abbfa6c05f90c",
+      "source_sha256": "bdd71f09367179ff05ce829873a39216fb8829050896c4bd8d5abbfa6c05f90c"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/原创男主_四分之三侧脸_v01.png",
+      "bytes": 1936979,
+      "sha256": "f412a7c718b7a79a99896546b9887535f0d84b5d1a658c487c5bbfe52d7a37e4",
+      "source_sha256": "f412a7c718b7a79a99896546b9887535f0d84b5d1a658c487c5bbfe52d7a37e4"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/原创男主_定妆_v01.png",
+      "bytes": 2035674,
+      "sha256": "68fa107a2360f9031b8c396ff752e056b410a158defcc57a5cc255beacea6eb9",
+      "source_sha256": "68fa107a2360f9031b8c396ff752e056b410a158defcc57a5cc255beacea6eb9"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/原创男主_正侧脸_v01.png",
+      "bytes": 1838371,
+      "sha256": "f6b085bdbe4696ff125d9f14f2866bc7323e0a6cbd19ec0c30e4622c03e3c2c1",
+      "source_sha256": "f6b085bdbe4696ff125d9f14f2866bc7323e0a6cbd19ec0c30e4622c03e3c2c1"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/原创男主_红金徽章_v04.png",
+      "bytes": 1813285,
+      "sha256": "b9cd30b559529a23f987d86cc1a9a99b7dba3f4ff7df6544e416d6f3af242065",
+      "source_sha256": "b9cd30b559529a23f987d86cc1a9a99b7dba3f4ff7df6544e416d6f3af242065"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/原创男主_红金无徽章_v03.png",
+      "bytes": 1854545,
+      "sha256": "b4c200c28b0423a7ab1f8f0493d0da6fc4cc93a243e0609b97875e27e2ac670c",
+      "source_sha256": "b4c200c28b0423a7ab1f8f0493d0da6fc4cc93a243e0609b97875e27e2ac670c"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/原创男主_视频同款服装_v02.png",
+      "bytes": 1931194,
+      "sha256": "01f2fc03027704d0dee4ea86dfb85706e8a883b7c0aa4d37c63cc0cae07f3ade",
+      "source_sha256": "01f2fc03027704d0dee4ea86dfb85706e8a883b7c0aa4d37c63cc0cae07f3ade"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/参考_女主服装.png",
+      "bytes": 404206,
+      "sha256": "741ce3509eb8e08b81e92d98122b084d1d0687d010a52a97a2647e36f8110875",
+      "source_sha256": "741ce3509eb8e08b81e92d98122b084d1d0687d010a52a97a2647e36f8110875"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/参考_男主服装.png",
+      "bytes": 500445,
+      "sha256": "b8acd7732b4db27c13a8c6d7e48e3186fa063cf27a966d7b6552ba7a897030d6",
+      "source_sha256": "b8acd7732b4db27c13a8c6d7e48e3186fa063cf27a966d7b6552ba7a897030d6"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/当前采用版本.md",
+      "bytes": 1934,
+      "sha256": "773a59a7df0d8bb3218ce1d8b50b1a46dedde32a44560238ef2c2e142d161f5d",
+      "source_sha256": "773a59a7df0d8bb3218ce1d8b50b1a46dedde32a44560238ef2c2e142d161f5d"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/人物定妆/生成图片归档清单.json",
+      "bytes": 2386,
+      "sha256": "7b3638d6a9f0b21fa74152ad2d10c31d97c764e05dc11d1d05e11e411213fa7f",
+      "source_sha256": "e228fc27f9964ed1edf8d14c91d8124fa2bcd5fe975489a405238e6d073a0eee"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/分镜与对白.json",
+      "bytes": 6621,
+      "sha256": "d01bbac66ac38995c9b3d6a4d6f3839dd845ca1ced39adf21d975fe4479f7ed0",
+      "source_sha256": "d01bbac66ac38995c9b3d6a4d6f3839dd845ca1ced39adf21d975fe4479f7ed0"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/分镜声音预演.html",
+      "bytes": 9786,
+      "sha256": "542117a525628116492aa8829d0fab18022d3c36ecd72a5643eaf5f70893f249",
+      "source_sha256": "542117a525628116492aa8829d0fab18022d3c36ecd72a5643eaf5f70893f249"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/合成声音预演.py",
+      "bytes": 5338,
+      "sha256": "9b0109383b76bfc0a39f45b242554edacf57a4b2638b03399d64b4a5b5a7287b",
+      "source_sha256": "9b0109383b76bfc0a39f45b242554edacf57a4b2638b03399d64b4a5b5a7287b"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/声音时间轴.json",
+      "bytes": 10521,
+      "sha256": "8a953ae09623466095e3ae0367342ab876c9d554a859a05f88883f9088ddc891",
+      "source_sha256": "8a953ae09623466095e3ae0367342ab876c9d554a859a05f88883f9088ddc891"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/声音预演_临时配音.mp3",
+      "bytes": 368175,
+      "sha256": "af54442d4826784ac172f57dfa5aab798a4bfb1c9990f9cba2a942731292e08c",
+      "source_sha256": "af54442d4826784ac172f57dfa5aab798a4bfb1c9990f9cba2a942731292e08c"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/声音预演_临时配音.wav",
+      "bytes": 3709644,
+      "sha256": "355d4c6ca50dddc912ffc63e47f53888499b8824d7f88007e5a9d7bf0a39374c",
+      "source_sha256": "355d4c6ca50dddc912ffc63e47f53888499b8824d7f88007e5a9d7bf0a39374c"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/对白.json",
+      "bytes": 2401,
+      "sha256": "42f143057af93603e6c7fd4fd3f887620b0b3a85692b1cad08b694d3e12580f9",
+      "source_sha256": "42f143057af93603e6c7fd4fd3f887620b0b3a85692b1cad08b694d3e12580f9"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/对白.srt",
+      "bytes": 1454,
+      "sha256": "f90d11db44e7a9c15b15fd3e3a8c40111fe71161c8af11a8cf22ef0c420d26b0",
+      "source_sha256": "d0e3af206f2eb8ca615727fd8a11e8fb1d27350a18945c1e5fe2925d52724497"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/01_女主正面.png",
+      "bytes": 1950736,
+      "sha256": "ccf881dcc9396dac74fb03b27299237d1539e5e1bb83d6979b1b9cecf4c9a9bb",
+      "source_sha256": "ccf881dcc9396dac74fb03b27299237d1539e5e1bb83d6979b1b9cecf4c9a9bb"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/02_男主正面.png",
+      "bytes": 1813285,
+      "sha256": "b9cd30b559529a23f987d86cc1a9a99b7dba3f4ff7df6544e416d6f3af242065",
+      "source_sha256": "b9cd30b559529a23f987d86cc1a9a99b7dba3f4ff7df6544e416d6f3af242065"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/03_教室双人关键帧.png",
+      "bytes": 4235952,
+      "sha256": "933e2d4cba04e08c6d198c3990c2efd17b3c938deaf54db9c7422a43d0136115",
+      "source_sha256": "933e2d4cba04e08c6d198c3990c2efd17b3c938deaf54db9c7422a43d0136115"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/04_女主四分之三侧脸.png",
+      "bytes": 1995622,
+      "sha256": "ff32f17f8653b471d5de6272d804719a3c19923c63990d43dc8e23cf18866204",
+      "source_sha256": "ff32f17f8653b471d5de6272d804719a3c19923c63990d43dc8e23cf18866204"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/05_女主正侧脸.png",
+      "bytes": 1888400,
+      "sha256": "bdd71f09367179ff05ce829873a39216fb8829050896c4bd8d5abbfa6c05f90c",
+      "source_sha256": "bdd71f09367179ff05ce829873a39216fb8829050896c4bd8d5abbfa6c05f90c"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/06_男主四分之三侧脸.png",
+      "bytes": 1936979,
+      "sha256": "f412a7c718b7a79a99896546b9887535f0d84b5d1a658c487c5bbfe52d7a37e4",
+      "source_sha256": "f412a7c718b7a79a99896546b9887535f0d84b5d1a658c487c5bbfe52d7a37e4"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/07_男主正侧脸.png",
+      "bytes": 1838371,
+      "sha256": "f6b085bdbe4696ff125d9f14f2866bc7323e0a6cbd19ec0c30e4622c03e3c2c1",
+      "source_sha256": "f6b085bdbe4696ff125d9f14f2866bc7323e0a6cbd19ec0c30e4622c03e3c2c1"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/Dola合并版_待提交参数.json",
+      "bytes": 2263,
+      "sha256": "1ff450f76e8d2b83de5913f5eeb6776dc92863bc4eca386d71f30ec2d168bf1e",
+      "source_sha256": "1ff450f76e8d2b83de5913f5eeb6776dc92863bc4eca386d71f30ec2d168bf1e"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/H3合并版_提交参数.json",
+      "bytes": 2269,
+      "sha256": "3d613351b8b7ca15201ad59b98efe2cc49f9f7c346abbcdf98f0dacb650e8093",
+      "source_sha256": "3d613351b8b7ca15201ad59b98efe2cc49f9f7c346abbcdf98f0dacb650e8093"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/使用说明.md",
+      "bytes": 600,
+      "sha256": "5000d24e5584c8cee08ec057a101ad4b6c17714e4cd8f0ee3f6fc2bdd4fe8819",
+      "source_sha256": "5000d24e5584c8cee08ec057a101ad4b6c17714e4cd8f0ee3f6fc2bdd4fe8819"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/参考图公网链接.json",
+      "bytes": 1346,
+      "sha256": "c85f94399aa798e2167a05035db16a95f5367d6ded1405e71eddc8a48811b50d",
+      "source_sha256": "7aca3c2bf67e7f860509a97771c212d0b3dabf7d6250c1da4ff022036ec766ac"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/发给Design_合并版生成指令.txt",
+      "bytes": 2764,
+      "sha256": "1b1b9b2ef29ac29255f278def9d33fbeac3fccb91ba44e7a609972d2841d0814",
+      "source_sha256": "1b1b9b2ef29ac29255f278def9d33fbeac3fccb91ba44e7a609972d2841d0814"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/开场误会_v03/01_男主单人.png",
+      "bytes": 1813285,
+      "sha256": "b9cd30b559529a23f987d86cc1a9a99b7dba3f4ff7df6544e416d6f3af242065",
+      "source_sha256": "b9cd30b559529a23f987d86cc1a9a99b7dba3f4ff7df6544e416d6f3af242065"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/开场误会_v03/02_女主单人.png",
+      "bytes": 1950736,
+      "sha256": "ccf881dcc9396dac74fb03b27299237d1539e5e1bb83d6979b1b9cecf4c9a9bb",
+      "source_sha256": "ccf881dcc9396dac74fb03b27299237d1539e5e1bb83d6979b1b9cecf4c9a9bb"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/开场误会_v03/03_无人教室.png",
+      "bytes": 2433378,
+      "sha256": "4d9a71fa5b7233e3a094a0f4325f4d17859d0cf75600f9237401e771f808a824",
+      "source_sha256": "4d9a71fa5b7233e3a094a0f4325f4d17859d0cf75600f9237401e771f808a824"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/开场误会_v03/分镜与提示词_v03.md",
+      "bytes": 2852,
+      "sha256": "66bac9487d88e2846948b8b240fe36745918ee622027a424ef4c66d3669df83d",
+      "source_sha256": "66bac9487d88e2846948b8b240fe36745918ee622027a424ef4c66d3669df83d"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/当前制作素材/开场误会_v03/分镜与提示词_v04.md",
+      "bytes": 3290,
+      "sha256": "26d71739f926fe794956aa21af6fc113fb944e09f1fc2e54ca35e82c3fdac0fb",
+      "source_sha256": "26d71739f926fe794956aa21af6fc113fb944e09f1fc2e54ca35e82c3fdac0fb"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/生成临时配音.ps1",
+      "bytes": 695,
+      "sha256": "e6de3ef99edf14f900b65d9ccc08af3cd1b673d58540d0eca9a1dc3fa10e40b6",
+      "source_sha256": "430ba06af07a25f03852ad4f34f809b6468a84bb3e40a0b77bdaa9e9c38a9ecc"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/视频候选/H3合并版_v01_验收记录.md",
+      "bytes": 2323,
+      "sha256": "543700ae5e5d2218a24d784c4d9983248b3d6291a737bf5cf3442c4e47caac5a",
+      "source_sha256": "543700ae5e5d2218a24d784c4d9983248b3d6291a737bf5cf3442c4e47caac5a"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/视频候选/qa/H3合并版_v01_概览.jpg",
+      "bytes": 174769,
+      "sha256": "37049e7303b8aef8f28667958ac3dd873096d318d585b9948c138e6fe6872508",
+      "source_sha256": "37049e7303b8aef8f28667958ac3dd873096d318d585b9948c138e6fe6872508"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/视频候选/qa/智赢第二条_半秒概览.jpg",
+      "bytes": 189950,
+      "sha256": "4385f460b6477cbcdcefa4e8cf329f80e4588f4b0fef52ea15ddaf1065c6ce7f",
+      "source_sha256": "4385f460b6477cbcdcefa4e8cf329f80e4588f4b0fef52ea15ddaf1065c6ce7f"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/视频候选/qa/智赢首条_概览.jpg",
+      "bytes": 117789,
+      "sha256": "db82e29d6dc533a4c70de05c4db3d9c99d1430d447d8b2763df333a833571fac",
+      "source_sha256": "db82e29d6dc533a4c70de05c4db3d9c99d1430d447d8b2763df333a833571fac"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/视频候选/qa/邀舞_v01_3.5秒.png",
+      "bytes": 999310,
+      "sha256": "3797a71c7dae6e93f8959de503a5ac9e287960aeff757c2675cd68ed1941b02b",
+      "source_sha256": "3797a71c7dae6e93f8959de503a5ac9e287960aeff757c2675cd68ed1941b02b"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/视频候选/qa/邀舞_v01_帧检.jpg",
+      "bytes": 181896,
+      "sha256": "41e731031e063469d2a62eae58089e63ff409c71f12ec450fb5cd70732a4c569",
+      "source_sha256": "41e731031e063469d2a62eae58089e63ff409c71f12ec450fb5cd70732a4c569"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/视频候选/邀舞_v01_检查记录.md",
+      "bytes": 1277,
+      "sha256": "5888d0eb4e65e88d7af3d38d83e94b4e61ca6f837bd80bf8f4d6147032b99bde",
+      "source_sha256": "c4ec7b828e428c0ea55a97926e832a3e869ddd7fca7c103ab44928a8572883db"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/视频候选/邀舞_伸手回应_v01_768p.mp4",
+      "bytes": 649458,
+      "sha256": "2d78c5369217d29c474d2d32a4ceb56c78947679d50322db36359c798f9d0ff1",
+      "source_sha256": "2d78c5369217d29c474d2d32a4ceb56c78947679d50322db36359c798f9d0ff1"
+    },
+    {
+      "path": "样片_EP01_这次是邀请你/视频候选/骄傲回应与接手_H3_v01_实测1440x832.mp4",
+      "bytes": 3341899,
+      "sha256": "717a0026d1f7ceb6b8f62d893f0107077f1e49a2bc3f7b046489e8d4bdbb4b3e",
+      "source_sha256": "717a0026d1f7ceb6b8f62d893f0107077f1e49a2bc3f7b046489e8d4bdbb4b3e"
+    },
+    {
+      "path": "样片备选_她来抓哈利却先被抓了.md",
+      "bytes": 4146,
+      "sha256": "b5bd03d2de87919853707140a4433d2588e5b10235b9c1e36a3aec55bc00adae",
+      "source_sha256": "b5bd03d2de87919853707140a4433d2588e5b10235b9c1e36a3aec55bc00adae"
+    },
+    {
+      "path": "样片新方案_镜子里第三个人.md",
+      "bytes": 6171,
+      "sha256": "74701559665f2c25fa99122c9ef542e8ef9e533f12b510159c058b0e46b4c07a",
+      "source_sha256": "74701559665f2c25fa99122c9ef542e8ef9e533f12b510159c058b0e46b4c07a"
+    },
+    {
+      "path": "知识库/README.md",
+      "bytes": 2214,
+      "sha256": "0b7ed6922c5bf01f94aca4acab0c65b6faf7a9b6d1c4aaa22adbbbebe0ee0eb9",
+      "source_sha256": "2c14f0a0fee163d8d7cdc45ddc5ac110fe26a981ccd81e7605dc36a396ee870e"
+    },
+    {
+      "path": "知识库/Seedance技能安装记录.json",
+      "bytes": 843,
+      "sha256": "9937ea879f0071ab2010ecf74fb818c744b5f92b39341b2c16cfcd758e451fe6",
+      "source_sha256": "0784c498523de4ae81bf569f4a1c80c6f99ac1d252950604bd68bb02770f927d"
+    },
+    {
+      "path": "知识库/Seedance技能研究_参考图与角色一致性.md",
+      "bytes": 3277,
+      "sha256": "9acbc44ab648ef58dd14130aa0890184ba40d7b3c20ecbae7efd7038ad822929",
+      "source_sha256": "9acbc44ab648ef58dd14130aa0890184ba40d7b3c20ecbae7efd7038ad822929"
+    },
+    {
+      "path": "知识库/三视图教程核对/教程概览.jpg",
+      "bytes": 197889,
+      "sha256": "55b0a4eb279bd089216eaaf95c1234cd7abb7259f9b0d59203471a356be31c93",
+      "source_sha256": "55b0a4eb279bd089216eaaf95c1234cd7abb7259f9b0d59203471a356be31c93"
+    },
+    {
+      "path": "知识库/三视图教程核对/模板原帧.png",
+      "bytes": 728525,
+      "sha256": "bc99cdc765b3919c472a069fd7548a61e2999f0e4fb9077790708bdb221171ca",
+      "source_sha256": "bc99cdc765b3919c472a069fd7548a61e2999f0e4fb9077790708bdb221171ca"
+    },
+    {
+      "path": "知识库/三视图教程核对/阅读结论.md",
+      "bytes": 1818,
+      "sha256": "8ac8a073bd2f12d42be4141a72079ec85a7762823f159e4880f90c4281b94f97",
+      "source_sha256": "8ac8a073bd2f12d42be4141a72079ec85a7762823f159e4880f90c4281b94f97"
+    },
+    {
+      "path": "知识库/参考分析_7695303351046540594/性格与表演分析.md",
+      "bytes": 3702,
+      "sha256": "e008b043f65e6c6eeceb4de83174b95f497a34270fac382531b06fd0dffd3da9",
+      "source_sha256": "e008b043f65e6c6eeceb4de83174b95f497a34270fac382531b06fd0dffd3da9"
+    },
+    {
+      "path": "知识库/参考分析_7695303351046540594/概览_01.jpg",
+      "bytes": 142096,
+      "sha256": "59ab871772c3994d5463ba031cb24f13f22c4619f7649cbbde744a9a558a5172",
+      "source_sha256": "59ab871772c3994d5463ba031cb24f13f22c4619f7649cbbde744a9a558a5172"
+    },
+    {
+      "path": "知识库/参考分析_7695303351046540594/概览_02.jpg",
+      "bytes": 121213,
+      "sha256": "184fab590f6bc86ff3ee0eedf5d9a3cdc7221cc8617d7bee258a1bb25bf3ac78",
+      "source_sha256": "184fab590f6bc86ff3ee0eedf5d9a3cdc7221cc8617d7bee258a1bb25bf3ac78"
+    },
+    {
+      "path": "知识库/参考分析_7695303351046540594/舞会段_动作细看.jpg",
+      "bytes": 211415,
+      "sha256": "83f8b30eb97def01d1f6482659f726fe3d6700d41b6c1eb7d7064709002f08b4",
+      "source_sha256": "83f8b30eb97def01d1f6482659f726fe3d6700d41b6c1eb7d7064709002f08b4"
+    },
+    {
+      "path": "知识库/女主角色卡_马尔福式性格.md",
+      "bytes": 6201,
+      "sha256": "d77af7899c6daa2229c8d72489ceb7abca53be7ec5835813e67785928a0bf2f6",
+      "source_sha256": "d77af7899c6daa2229c8d72489ceb7abca53be7ec5835813e67785928a0bf2f6"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/阅读结论.md",
+      "bytes": 3262,
+      "sha256": "ad87590bd27c3d62ebc8d8e8b37c69bd122206e4b79ab32de3271c9a06912868",
+      "source_sha256": "ad87590bd27c3d62ebc8d8e8b37c69bd122206e4b79ab32de3271c9a06912868"
+    },
+    {
+      "path": "笨蛋哈利与马尔福大小姐的二三事 作者：Luis没了.txt",
+      "bytes": 3086169,
+      "sha256": "7e4f96c4dc06ad3383f8f733bd7520d1b1d7f649dff5718a563b6fa97b24aff5",
+      "source_sha256": "7e4f96c4dc06ad3383f8f733bd7520d1b1d7f649dff5718a563b6fa97b24aff5"
+    },
+    {
+      "path": "舞会篇_剧情设计.md",
+      "bytes": 6931,
+      "sha256": "70fec95ee786ac11cad63b979d5fb54bb9ddfa67d8f317afabf12756717d0e1b",
+      "source_sha256": "70fec95ee786ac11cad63b979d5fb54bb9ddfa67d8f317afabf12756717d0e1b"
+    }
+  ],
+  "excluded": [
+    {
+      "path": "【最新教程】：务必按照流程做(1).docx",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "样片_EP01_她答应得太早了/qa/audio-levels.log",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/image1.png",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/image10.png",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/image11.png",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/image12.png",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/image13.png",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/image14.png",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/image2.png",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/image3.png",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/image4.png",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/image5.png",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/image6.png",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/image7.jpeg",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/image8.png",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/image9.png",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    },
+    {
+      "path": "知识库/新教程核对_20261019/media",
+      "reason": "教程原件/截图含疑似密钥，或临时空文件与运行日志；不公开上传"
+    }
+  ],
+  "portable_copy_updates": [
+    "样片_EP01_她答应得太早了/captions.ass",
+    "样片_EP01_她答应得太早了/制作预演.py",
+    "样片_EP01_她答应得太早了/对白.json",
+    "样片_EP01_这次是邀请你/人物定妆/生成图片归档清单.json",
+    "样片_EP01_这次是邀请你/对白.srt",
+    "样片_EP01_这次是邀请你/当前制作素材/参考图公网链接.json",
+    "样片_EP01_这次是邀请你/生成临时配音.ps1",
+    "样片_EP01_这次是邀请你/视频候选/邀舞_v01_检查记录.md",
+    "知识库/README.md",
+    "知识库/Seedance技能安装记录.json",
+    "README.md",
+    "样片_EP01_她答应得太早了/timeline.json"
+  ]
+}

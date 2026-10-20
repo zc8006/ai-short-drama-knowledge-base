@@ -1,0 +1,97 @@
+{
+  "kind": "reference_edit_animatic",
+  "source_video": "<LOCAL_REFERENCE_VIDEO>",
+  "source_author": "允希 YUNXI",
+  "width": 1366,
+  "height": 768,
+  "fps": 24,
+  "clips": [
+    {
+      "id": "S01",
+      "source_start": 1.0,
+      "source_end": 4.6,
+      "start": 0,
+      "duration": 3.5833333333333335,
+      "line_id": "L01",
+      "audio_start": 0.25,
+      "subtitle": "马尔福，能帮我个忙吗？",
+      "character": "哈利",
+      "file": "assets/S01.mp4"
+    },
+    {
+      "id": "S02",
+      "source_start": 6.0,
+      "source_end": 9.1,
+      "start": 3.5833333333333335,
+      "duration": 3.0833333333333335,
+      "line_id": "L02",
+      "audio_start": 3.7633333333333336,
+      "subtitle": "你终于想起问我了？",
+      "character": "德拉科",
+      "file": "assets/S02.mp4"
+    },
+    {
+      "id": "S03",
+      "source_start": 22.75,
+      "source_end": 25.05,
+      "start": 6.666666666666667,
+      "duration": 2.2916666666666665,
+      "line_id": "L03",
+      "audio_start": 6.816666666666667,
+      "subtitle": "你愿不愿意……",
+      "character": "哈利",
+      "file": "assets/S03.mp4"
+    },
+    {
+      "id": "S04",
+      "source_start": 18.0,
+      "source_end": 19.7,
+      "start": 8.958333333333334,
+      "duration": 1.7083333333333333,
+      "line_id": "L04",
+      "audio_start": 9.078333333333333,
+      "subtitle": "可以。",
+      "character": "德拉科",
+      "file": "assets/S04.mp4"
+    },
+    {
+      "id": "S05",
+      "source_start": 11.2,
+      "source_end": 13.4,
+      "start": 10.666666666666668,
+      "duration": 2.2083333333333335,
+      "line_id": "L05",
+      "audio_start": 10.816666666666668,
+      "subtitle": "教我跳舞。",
+      "character": "哈利",
+      "file": "assets/S05.mp4"
+    },
+    {
+      "id": "S06",
+      "source_start": 9.1,
+      "source_end": 11.2,
+      "start": 12.875000000000002,
+      "duration": 2.0833333333333335,
+      "line_id": "L06",
+      "audio_start": 12.885000000000002,
+      "subtitle": "你就想问这个？",
+      "character": "德拉科",
+      "file": "assets/S06.mp4"
+    },
+    {
+      "id": "S07",
+      "source_start": 13.4,
+      "source_end": 15.8,
+      "start": 14.958333333333336,
+      "duration": 2.4166666666666665,
+      "line_id": "L07",
+      "audio_start": 15.058333333333335,
+      "subtitle": "明晚，别迟到。",
+      "character": "德拉科",
+      "file": "assets/S07.mp4"
+    }
+  ],
+  "picture_duration": 17.375000000000004,
+  "end_card_duration": 2.5,
+  "duration": 19.875000000000004
+}

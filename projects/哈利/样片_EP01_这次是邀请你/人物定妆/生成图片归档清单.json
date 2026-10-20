@@ -1,0 +1,52 @@
+[
+  {
+    "source": "<LOCAL_RUNTIME_PATH>",
+    "project_file": "./样片_EP01_这次是邀请你\\人物定妆\\原创女主_四分之三侧脸_v01.png",
+    "sha256": "ff32f17f8653b471d5de6272d804719a3c19923c63990d43dc8e23cf18866204"
+  },
+  {
+    "source": "<LOCAL_RUNTIME_PATH>",
+    "project_file": "./样片_EP01_这次是邀请你\\人物定妆\\原创女主_参考服装_v02.png",
+    "sha256": "ccf881dcc9396dac74fb03b27299237d1539e5e1bb83d6979b1b9cecf4c9a9bb"
+  },
+  {
+    "source": "<LOCAL_RUNTIME_PATH>",
+    "project_file": "./样片_EP01_这次是邀请你\\人物定妆\\原创男主_正侧脸_v01.png",
+    "sha256": "f6b085bdbe4696ff125d9f14f2866bc7323e0a6cbd19ec0c30e4622c03e3c2c1"
+  },
+  {
+    "source": "<LOCAL_RUNTIME_PATH>",
+    "project_file": "./样片_EP01_这次是邀请你\\人物定妆\\原创男主_视频同款服装_v02.png",
+    "sha256": "01f2fc03027704d0dee4ea86dfb85706e8a883b7c0aa4d37c63cc0cae07f3ade"
+  },
+  {
+    "source": "<LOCAL_RUNTIME_PATH>",
+    "project_file": "./样片_EP01_这次是邀请你\\人物定妆\\原创女主_定妆_v01.png",
+    "sha256": "9646946777ca90c322a83a6d29fe067a4a486fa5c847c59543d6be5fd4a14e47"
+  },
+  {
+    "source": "<LOCAL_RUNTIME_PATH>",
+    "project_file": "./样片_EP01_这次是邀请你\\人物定妆\\原创男主_红金徽章_v04.png",
+    "sha256": "b9cd30b559529a23f987d86cc1a9a99b7dba3f4ff7df6544e416d6f3af242065"
+  },
+  {
+    "source": "<LOCAL_RUNTIME_PATH>",
+    "project_file": "./样片_EP01_这次是邀请你\\人物定妆\\原创男主_定妆_v01.png",
+    "sha256": "68fa107a2360f9031b8c396ff752e056b410a158defcc57a5cc255beacea6eb9"
+  },
+  {
+    "source": "<LOCAL_RUNTIME_PATH>",
+    "project_file": "./样片_EP01_这次是邀请你\\人物定妆\\原创男主_四分之三侧脸_v01.png",
+    "sha256": "f412a7c718b7a79a99896546b9887535f0d84b5d1a658c487c5bbfe52d7a37e4"
+  },
+  {
+    "source": "<LOCAL_RUNTIME_PATH>",
+    "project_file": "./样片_EP01_这次是邀请你\\人物定妆\\原创女主_正侧脸_v01.png",
+    "sha256": "bdd71f09367179ff05ce829873a39216fb8829050896c4bd8d5abbfa6c05f90c"
+  },
+  {
+    "source": "<LOCAL_RUNTIME_PATH>",
+    "project_file": "./样片_EP01_这次是邀请你\\人物定妆\\原创男主_红金无徽章_v03.png",
+    "sha256": "b4c200c28b0423a7ab1f8f0493d0da6fc4cc93a243e0609b97875e27e2ac670c"
+  }
+]

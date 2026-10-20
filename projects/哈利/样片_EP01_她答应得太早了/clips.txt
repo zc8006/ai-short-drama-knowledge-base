@@ -1,0 +1,8 @@
+file 'assets/S01.mp4'
+file 'assets/S02.mp4'
+file 'assets/S03.mp4'
+file 'assets/S04.mp4'
+file 'assets/S05.mp4'
+file 'assets/S06.mp4'
+file 'assets/S07.mp4'
+file 'assets/end-card.mp4'
