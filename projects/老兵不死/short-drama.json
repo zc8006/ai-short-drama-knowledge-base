@@ -1,0 +1,20 @@
+{
+  "title": "老兵不死",
+  "format": {"prompt_language": "zh-CN", "aspect_ratio": "16:9"},
+  "creator_authority": {
+    "dialogue_policy": "verbatim_user_2026-10-28",
+    "runtime_policy": "extend_to_fit_dialogue",
+    "production_profile": {
+      "status": "draft",
+      "choices": {
+        "target_video_model": null,
+        "video_prompt_dialect": "generic-natural-language",
+        "video_prompt_language": "zh-CN",
+        "native_duration_seconds": null,
+        "audio_generation": "same_pass",
+        "reference_format": "用户提供的提示词案例.txt（源模板未随本项目发布）",
+        "delivery_mode": "multi-shot-segments-following-user-example"
+      }
+    }
+  }
+}
