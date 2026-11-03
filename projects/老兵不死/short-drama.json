@@ -1,6 +1,6 @@
 {
   "title": "老兵不死",
-  "format": {"prompt_language": "zh-CN", "aspect_ratio": "16:9"},
+  "format": {"prompt_language": "zh-CN", "aspect_ratio": "9:16"},
   "creator_authority": {
     "dialogue_policy": "verbatim_user_2026-10-28",
     "runtime_policy": "extend_to_fit_dialogue",
