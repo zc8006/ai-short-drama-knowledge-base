@@ -1,0 +1,1633 @@
+{
+  "project": "断网之后，全网跪求老架构师",
+  "generator": "ChatGPT image generation",
+  "generated_count": 114,
+  "uploaded_count": 67,
+  "pending_upload_count": 47,
+  "status": "upload_interrupted_environment_unavailable",
+  "additional_approved_reference_status": "pending_upload",
+  "items": [
+    {
+      "id": "STYLE01",
+      "title": "真人影视风格定调",
+      "prompt": "A 42-year-old Chinese man with a long rectangular face, a defined natural jaw, dark brown eyes, straight eyebrows with a small shallow notch at the outer end of his right eyebrow, short naturally side-parted black hair, a few gray hairs at both temples, fine lines at the eyes, clean-shaven, 182 cm tall, a tall lean balanced build with upright shoulders. Wearing thin rectangular dark gray metal eyeglasses. Wearing an open worn deep navy knee-length trench coat over a charcoal gray hoodie, straight indigo jeans, dark gray low-top casual shoes. Accessories: a dark-dial mechanical wristwatch on his left wrist. Standing calmly in a modern corporate monitoring hall at night, framed from the chest to just above the knees, arms relaxed. Dark metal surfaces, a large blank dark curved display, restrained cyan light strips and faint red alarm reflections in the background. Natural skin tones, a cool key light balanced with a subtle warm practical light. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/style/STYLE01.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "5f762a5a8f09625987341191e08316ea79627644",
+      "generated_source_filename": "exec-8edc44b2-563e-4c24-9cb5-b6efbbb01084.png",
+      "reference_source_filenames": [
+        "exec-17d5abb0-71c9-4718-8a0e-fb28dea7cf49.png",
+        "exec-a0a31cb7-b719-49e2-921c-7fe42f18c609.png"
+      ],
+      "production_note": "One cinematic live-action film still with a SINGLE Zhou Yan, same exact identity, worn navy trench and gray hoodie from reference. NOT a neutral catalog cutout, NOT a lineup. Photograph him with calm, quietly commanding screen presence in the referenced monitoring hall. Chest to above knees composition, natural skin texture and real human proportions."
+    },
+    {
+      "id": "P01-PORTRAIT",
+      "title": "周衍｜正面半身定脸",
+      "prompt": "A 42-year-old Chinese man with a long rectangular face, a defined natural jaw, dark brown eyes, straight eyebrows with a small shallow notch at the outer end of his right eyebrow, short naturally side-parted black hair, a few gray hairs at both temples, fine lines at the eyes, clean-shaven, 182 cm tall, a tall lean balanced build with upright shoulders. Wearing thin rectangular dark gray metal eyeglasses. Front-facing single-person chest-up casting portrait, head upright, neutral confident expression, shoulders visible. Wearing an open worn deep navy knee-length trench coat over a charcoal gray hoodie, straight indigo jeans, dark gray low-top casual shoes. Accessories: a dark-dial mechanical wristwatch on his left wrist. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P01-PORTRAIT.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "fbbed9a54d1b912ecb10158e83eb68cdf789a65b",
+      "generated_source_filename": "exec-a94cb88c-ea53-43f3-ad00-10cc35b89c45.png",
+      "reference_source_filenames": [
+        "exec-0aca17bb-b772-450d-92da-d33f2fdd4c13.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P01-MASTER",
+      "title": "周衍｜三视图主卡",
+      "prompt": "A 42-year-old Chinese man with a long rectangular face, a defined natural jaw, dark brown eyes, straight eyebrows with a small shallow notch at the outer end of his right eyebrow, short naturally side-parted black hair, a few gray hairs at both temples, fine lines at the eyes, clean-shaven, 182 cm tall, a tall lean balanced build with upright shoulders. Wearing thin rectangular dark gray metal eyeglasses. Wearing an open worn deep navy knee-length trench coat over a charcoal gray hoodie, straight indigo jeans, dark gray low-top casual shoes. Accessories: a dark-dial mechanical wristwatch on his left wrist. A photographic wardrobe continuity sheet with three evenly spaced full-body views of the same person, front view, left profile and back view in one horizontal row, identical scale and outfit in all views, relaxed standing poses, empty hands, full head and shoes visible. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "16:9",
+      "repository_path": "projects/断网之后/assets/characters/P01-MASTER.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "755f0611c6a62506b20fcc4d68586a756edcc770",
+      "generated_source_filename": "exec-0aca17bb-b772-450d-92da-d33f2fdd4c13.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "P01-LOOK-A",
+      "title": "周衍｜基础服装全身",
+      "prompt": "A 42-year-old Chinese man with a long rectangular face, a defined natural jaw, dark brown eyes, straight eyebrows with a small shallow notch at the outer end of his right eyebrow, short naturally side-parted black hair, a few gray hairs at both temples, fine lines at the eyes, clean-shaven, 182 cm tall, a tall lean balanced build with upright shoulders. Wearing thin rectangular dark gray metal eyeglasses. Wearing an open worn deep navy knee-length trench coat over a charcoal gray hoodie, straight indigo jeans, dark gray low-top casual shoes. Accessories: a dark-dial mechanical wristwatch on his left wrist. Single-person full-length wardrobe photograph, relaxed standing pose, empty hands, complete head and both shoes inside the frame, dry clean clothing. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P01-LOOK-A.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "fd183cd7ee53fa9a73bc6cb6bee30c301985b372",
+      "generated_source_filename": "exec-17d5abb0-71c9-4718-8a0e-fb28dea7cf49.png",
+      "reference_source_filenames": [
+        "exec-0aca17bb-b772-450d-92da-d33f2fdd4c13.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P01-EXPR-CALM",
+      "title": "周衍｜平静",
+      "prompt": "A 42-year-old Chinese man with a long rectangular face, a defined natural jaw, dark brown eyes, straight eyebrows with a small shallow notch at the outer end of his right eyebrow, short naturally side-parted black hair, a few gray hairs at both temples, fine lines at the eyes, clean-shaven, 182 cm tall, a tall lean balanced build with upright shoulders. Wearing thin rectangular dark gray metal eyeglasses. Wearing an open worn deep navy knee-length trench coat over a charcoal gray hoodie, straight indigo jeans, dark gray low-top casual shoes. Accessories: a dark-dial mechanical wristwatch on his left wrist. One chest-up portrait of one person. Calm, focused eyes, naturally closed lips, head upright. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P01-EXPR-CALM.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "fbbed9a54d1b912ecb10158e83eb68cdf789a65b",
+      "generated_source_filename": "exec-a94cb88c-ea53-43f3-ad00-10cc35b89c45.png",
+      "reference_source_filenames": [
+        "exec-a94cb88c-ea53-43f3-ad00-10cc35b89c45.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P01-EXPR-RESTRAINED",
+      "title": "周衍｜克制",
+      "prompt": "A 42-year-old Chinese man with a long rectangular face, a defined natural jaw, dark brown eyes, straight eyebrows with a small shallow notch at the outer end of his right eyebrow, short naturally side-parted black hair, a few gray hairs at both temples, fine lines at the eyes, clean-shaven, 182 cm tall, a tall lean balanced build with upright shoulders. Wearing thin rectangular dark gray metal eyeglasses. Wearing an open worn deep navy knee-length trench coat over a charcoal gray hoodie, straight indigo jeans, dark gray low-top casual shoes. Accessories: a dark-dial mechanical wristwatch on his left wrist. One chest-up portrait of one person. Restrained irritation, gaze slightly down to the right, lips held firmly together. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P01-EXPR-RESTRAINED.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "b2a13e55dd8107f6765c791b07446ae2d15090e9",
+      "generated_source_filename": "exec-920df2f2-54ca-478f-bdf0-9e0e8a3e1b5c.png",
+      "reference_source_filenames": [
+        "exec-a94cb88c-ea53-43f3-ad00-10cc35b89c45.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P01-EXPR-FOCUSED",
+      "title": "周衍｜专注",
+      "prompt": "A 42-year-old Chinese man with a long rectangular face, a defined natural jaw, dark brown eyes, straight eyebrows with a small shallow notch at the outer end of his right eyebrow, short naturally side-parted black hair, a few gray hairs at both temples, fine lines at the eyes, clean-shaven, 182 cm tall, a tall lean balanced build with upright shoulders. Wearing thin rectangular dark gray metal eyeglasses. Wearing an open worn deep navy knee-length trench coat over a charcoal gray hoodie, straight indigo jeans, dark gray low-top casual shoes. Accessories: a dark-dial mechanical wristwatch on his left wrist. One chest-up portrait of one person. Intensely focused, eyes slightly narrowed toward an off-camera monitor, closed mouth. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P01-EXPR-FOCUSED.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "7ea2712777ae0959abda7917252623169d6a2370",
+      "generated_source_filename": "exec-7f7e1209-5fed-40c5-8ced-a0b5b92ad13c.png",
+      "reference_source_filenames": [
+        "exec-a94cb88c-ea53-43f3-ad00-10cc35b89c45.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P01-EXPR-RELIEVED",
+      "title": "周衍｜释然",
+      "prompt": "A 42-year-old Chinese man with a long rectangular face, a defined natural jaw, dark brown eyes, straight eyebrows with a small shallow notch at the outer end of his right eyebrow, short naturally side-parted black hair, a few gray hairs at both temples, fine lines at the eyes, clean-shaven, 182 cm tall, a tall lean balanced build with upright shoulders. Wearing thin rectangular dark gray metal eyeglasses. Wearing an open worn deep navy knee-length trench coat over a charcoal gray hoodie, straight indigo jeans, dark gray low-top casual shoes. Accessories: a dark-dial mechanical wristwatch on his left wrist. One chest-up portrait of one person. Quiet relief, relaxed eyes and a faint closed-mouth smile. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P01-EXPR-RELIEVED.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "c7eeae94eac21e2e2f7308974d919fd1e4d99f61",
+      "generated_source_filename": "exec-34912eea-3050-4a79-a3d4-37efe4410834.png",
+      "reference_source_filenames": [
+        "exec-a94cb88c-ea53-43f3-ad00-10cc35b89c45.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P02-PORTRAIT",
+      "title": "贺凯｜正面半身定脸",
+      "prompt": "A 32-year-old Chinese man with a narrow long face, slim dark brown eyes, thin lips, slick black hair parted on his left and combed back, clean-shaven, 178 cm tall, a lean build with defined shoulders. Wearing thin rectangular gold-rimmed eyeglasses. Front-facing single-person chest-up casting portrait, head upright, neutral confident expression, shoulders visible. Wearing a tailored deep blue three-piece suit, light gray dress shirt, dark navy tie, polished black leather shoes. Accessories: a black rectangular smartwatch on his right wrist. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P02-PORTRAIT.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "2dc1a22d66be6250365d2420a5720343af2e44f7",
+      "generated_source_filename": "exec-1976aceb-ab80-49f8-8bc5-107ed38cefd8.png",
+      "reference_source_filenames": [
+        "exec-73f636ed-0268-4746-b3ec-2234342c1360.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P02-MASTER",
+      "title": "贺凯｜三视图主卡",
+      "prompt": "A 32-year-old Chinese man with a narrow long face, slim dark brown eyes, thin lips, slick black hair parted on his left and combed back, clean-shaven, 178 cm tall, a lean build with defined shoulders. Wearing thin rectangular gold-rimmed eyeglasses. Wearing a tailored deep blue three-piece suit, light gray dress shirt, dark navy tie, polished black leather shoes. Accessories: a black rectangular smartwatch on his right wrist. A photographic wardrobe continuity sheet with three evenly spaced full-body views of the same person, front view, left profile and back view in one horizontal row, identical scale and outfit in all views, relaxed standing poses, empty hands, full head and shoes visible. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "16:9",
+      "repository_path": "projects/断网之后/assets/characters/P02-MASTER.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "6d7a23f744b7ec037354b1e55fdb18886c616e1e",
+      "generated_source_filename": "exec-73f636ed-0268-4746-b3ec-2234342c1360.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "P02-LOOK-A",
+      "title": "贺凯｜基础服装全身",
+      "prompt": "A 32-year-old Chinese man with a narrow long face, slim dark brown eyes, thin lips, slick black hair parted on his left and combed back, clean-shaven, 178 cm tall, a lean build with defined shoulders. Wearing thin rectangular gold-rimmed eyeglasses. Wearing a tailored deep blue three-piece suit, light gray dress shirt, dark navy tie, polished black leather shoes. Accessories: a black rectangular smartwatch on his right wrist. Single-person full-length wardrobe photograph, relaxed standing pose, empty hands, complete head and both shoes inside the frame, dry clean clothing. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P02-LOOK-A.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "1e644b0d96bdfbc6428aaf40481d82a9823a43f1",
+      "generated_source_filename": "exec-ea42082d-09ad-40ea-be79-63e08342a324.png",
+      "reference_source_filenames": [
+        "exec-73f636ed-0268-4746-b3ec-2234342c1360.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P02-EXPR-CONTEMPT",
+      "title": "贺凯｜轻蔑",
+      "prompt": "A 32-year-old Chinese man with a narrow long face, slim dark brown eyes, thin lips, slick black hair parted on his left and combed back, clean-shaven, 178 cm tall, a lean build with defined shoulders. Wearing thin rectangular gold-rimmed eyeglasses. Wearing a tailored deep blue three-piece suit, light gray dress shirt, dark navy tie, polished black leather shoes. Accessories: a black rectangular smartwatch on his right wrist. One chest-up portrait of one person. Contempt, one corner of the mouth slightly raised, gaze directed downward. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P02-EXPR-CONTEMPT.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "c57512377931528386c711ba5db8b302e9473cda",
+      "generated_source_filename": "exec-c17eb90b-54db-4c68-8865-42b72dbae077.png",
+      "reference_source_filenames": [
+        "exec-1976aceb-ab80-49f8-8bc5-107ed38cefd8.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P02-EXPR-SHOCK",
+      "title": "贺凯｜错愕",
+      "prompt": "A 32-year-old Chinese man with a narrow long face, slim dark brown eyes, thin lips, slick black hair parted on his left and combed back, clean-shaven, 178 cm tall, a lean build with defined shoulders. Wearing thin rectangular gold-rimmed eyeglasses. Wearing a tailored deep blue three-piece suit, light gray dress shirt, dark navy tie, polished black leather shoes. Accessories: a black rectangular smartwatch on his right wrist. One chest-up portrait of one person. Sudden shock, eyes widened naturally, lips slightly parted. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P02-EXPR-SHOCK.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "0da9dbdd052f6ab8788361ca7eea4b2ec1eadf7f",
+      "generated_source_filename": "exec-15af9016-4dbb-4817-adf9-d62eac25d584.png",
+      "reference_source_filenames": [
+        "exec-1976aceb-ab80-49f8-8bc5-107ed38cefd8.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P02-EXPR-FEAR",
+      "title": "贺凯｜恐惧",
+      "prompt": "A 32-year-old Chinese man with a narrow long face, slim dark brown eyes, thin lips, slick black hair parted on his left and combed back, clean-shaven, 178 cm tall, a lean build with defined shoulders. Wearing thin rectangular gold-rimmed eyeglasses. Wearing a tailored deep blue three-piece suit, light gray dress shirt, dark navy tie, polished black leather shoes. Accessories: a black rectangular smartwatch on his right wrist. One chest-up portrait of one person. Fear, tightened jaw and a fixed anxious gaze, rain-wet hair, gold-rimmed glasses slightly crooked. The original clothing has rain-darkened shoulders and damp hair. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P02-EXPR-FEAR.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "b4b48792af46370c702224ac7793b45ddb949db6",
+      "generated_source_filename": "exec-731e1a6b-6cb0-4378-a367-7ee3c725c09a.png",
+      "reference_source_filenames": [
+        "exec-1976aceb-ab80-49f8-8bc5-107ed38cefd8.png",
+        "exec-2aab4321-5d50-45da-ae6e-3747e8ee03ee.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P02-EXPR-RESENTMENT",
+      "title": "贺凯｜怨恨",
+      "prompt": "A 32-year-old Chinese man with a narrow long face, slim dark brown eyes, thin lips, slick black hair parted on his left and combed back, clean-shaven, 178 cm tall, a lean build with defined shoulders. Wearing thin rectangular gold-rimmed eyeglasses. Wearing a tailored deep blue three-piece suit, light gray dress shirt, dark navy tie, polished black leather shoes. Accessories: a black rectangular smartwatch on his right wrist. One chest-up portrait of one person. Resentment, eyes shifted sideways, lips pressed shut, wet slick hair and crooked gold-rimmed glasses. The original clothing has rain-darkened shoulders and damp hair. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P02-EXPR-RESENTMENT.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "d7493cebf47e3ef40803a2dfb61b9ee17f804304",
+      "generated_source_filename": "exec-50bab140-f573-4e6b-977e-dfe70aea5ace.png",
+      "reference_source_filenames": [
+        "exec-1976aceb-ab80-49f8-8bc5-107ed38cefd8.png",
+        "exec-2aab4321-5d50-45da-ae6e-3747e8ee03ee.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P03-PORTRAIT",
+      "title": "秦岚｜正面半身定脸",
+      "prompt": "A 28-year-old Chinese woman with an oval face, natural straight eyebrows, elongated almond-shaped dark brown eyes, a natural nose bridge, moderately full lips, subtle natural makeup, realistic skin texture, medium-length black hair tied in a low ponytail with a few loose strands at the temples, 170 cm tall, a naturally proportioned slender adult build. Front-facing single-person chest-up casting portrait, head upright, neutral confident expression, shoulders visible. Wearing a sharply tailored ivory white pantsuit with straight-leg trousers, a black high-neck knit top, black low-to-mid heel shoes. Accessories: small round diamond stud earrings. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P03-PORTRAIT.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "b9c4e2fbb1660159e45b02a84c63a08809abd75c",
+      "generated_source_filename": "exec-7a7741d5-7c5b-4928-9b63-c138849688e3.png",
+      "reference_source_filenames": [
+        "exec-3a3c790c-aef1-467c-9399-b8910d9df721.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P03-MASTER",
+      "title": "秦岚｜三视图主卡",
+      "prompt": "A 28-year-old Chinese woman with an oval face, natural straight eyebrows, elongated almond-shaped dark brown eyes, a natural nose bridge, moderately full lips, subtle natural makeup, realistic skin texture, medium-length black hair tied in a low ponytail with a few loose strands at the temples, 170 cm tall, a naturally proportioned slender adult build. Wearing a sharply tailored ivory white pantsuit with straight-leg trousers, a black high-neck knit top, black low-to-mid heel shoes. Accessories: small round diamond stud earrings. A photographic wardrobe continuity sheet with three evenly spaced full-body views of the same person, front view, left profile and back view in one horizontal row, identical scale and outfit in all views, relaxed standing poses, empty hands, full head and shoes visible. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "16:9",
+      "repository_path": "projects/断网之后/assets/characters/P03-MASTER.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "98351030fc9ab46eb31f1e233137d2ec44459fad",
+      "generated_source_filename": "exec-3a3c790c-aef1-467c-9399-b8910d9df721.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "P03-LOOK-A",
+      "title": "秦岚｜基础服装全身",
+      "prompt": "A 28-year-old Chinese woman with an oval face, natural straight eyebrows, elongated almond-shaped dark brown eyes, a natural nose bridge, moderately full lips, subtle natural makeup, realistic skin texture, medium-length black hair tied in a low ponytail with a few loose strands at the temples, 170 cm tall, a naturally proportioned slender adult build. Wearing a sharply tailored ivory white pantsuit with straight-leg trousers, a black high-neck knit top, black low-to-mid heel shoes. Accessories: small round diamond stud earrings. Single-person full-length wardrobe photograph, relaxed standing pose, empty hands, complete head and both shoes inside the frame, dry clean clothing. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P03-LOOK-A.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "853b0291872075e69e50aff1588f8c3343c03fd5",
+      "generated_source_filename": "exec-2b83368f-494b-4d64-b509-84214f05a224.png",
+      "reference_source_filenames": [
+        "exec-3a3c790c-aef1-467c-9399-b8910d9df721.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P03-EXPR-ASSESSING",
+      "title": "秦岚｜审视",
+      "prompt": "A 28-year-old Chinese woman with an oval face, natural straight eyebrows, elongated almond-shaped dark brown eyes, a natural nose bridge, moderately full lips, subtle natural makeup, realistic skin texture, medium-length black hair tied in a low ponytail with a few loose strands at the temples, 170 cm tall, a naturally proportioned slender adult build. Wearing a sharply tailored ivory white pantsuit with straight-leg trousers, a black high-neck knit top, black low-to-mid heel shoes. Accessories: small round diamond stud earrings. One chest-up portrait of one person. Assessing, steady direct gaze, closed lips. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P03-EXPR-ASSESSING.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "b8c1cfec4c6ed7e6681ddd83ca37b9c56d48e4c8",
+      "generated_source_filename": "exec-40516ff2-d19c-40e2-9cab-bae77500fcaf.png",
+      "reference_source_filenames": [
+        "exec-7a7741d5-7c5b-4928-9b63-c138849688e3.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P03-EXPR-SHOCK",
+      "title": "秦岚｜震惊",
+      "prompt": "A 28-year-old Chinese woman with an oval face, natural straight eyebrows, elongated almond-shaped dark brown eyes, a natural nose bridge, moderately full lips, subtle natural makeup, realistic skin texture, medium-length black hair tied in a low ponytail with a few loose strands at the temples, 170 cm tall, a naturally proportioned slender adult build. Wearing a sharply tailored ivory white pantsuit with straight-leg trousers, a black high-neck knit top, black low-to-mid heel shoes. Accessories: small round diamond stud earrings. One chest-up portrait of one person. Shocked, slightly drawn brows, eyes widened naturally, lips parted. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P03-EXPR-SHOCK.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "c0c7277a1b661f470fe53cf84713502e75394a70",
+      "generated_source_filename": "exec-afb3ac04-75f5-4bf2-bc4d-f5f232f1e234.png",
+      "reference_source_filenames": [
+        "exec-7a7741d5-7c5b-4928-9b63-c138849688e3.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P03-EXPR-PLEADING",
+      "title": "秦岚｜恳切",
+      "prompt": "A 28-year-old Chinese woman with an oval face, natural straight eyebrows, elongated almond-shaped dark brown eyes, a natural nose bridge, moderately full lips, subtle natural makeup, realistic skin texture, medium-length black hair tied in a low ponytail with a few loose strands at the temples, 170 cm tall, a naturally proportioned slender adult build. Wearing a sharply tailored ivory white pantsuit with straight-leg trousers, a black high-neck knit top, black low-to-mid heel shoes. Accessories: small round diamond stud earrings. One chest-up portrait of one person. Sincere and pleading, gaze lifted slightly, faint redness at the eyes, damp strands against her cheeks. The original clothing has rain-darkened shoulders and damp hair. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P03-EXPR-PLEADING.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "37323885efa6934e5aa44ae884922a737f8efe4a",
+      "generated_source_filename": "exec-05ef3724-df8c-4b7c-823a-6db635d8507f.png",
+      "reference_source_filenames": [
+        "exec-7a7741d5-7c5b-4928-9b63-c138849688e3.png",
+        "exec-122aae66-a44d-4d76-a0d0-9de8ea24feca.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P03-EXPR-RESOLUTE",
+      "title": "秦岚｜坚定",
+      "prompt": "A 28-year-old Chinese woman with an oval face, natural straight eyebrows, elongated almond-shaped dark brown eyes, a natural nose bridge, moderately full lips, subtle natural makeup, realistic skin texture, medium-length black hair tied in a low ponytail with a few loose strands at the temples, 170 cm tall, a naturally proportioned slender adult build. Wearing a sharply tailored ivory white pantsuit with straight-leg trousers, a black high-neck knit top, black low-to-mid heel shoes. Accessories: small round diamond stud earrings. One chest-up portrait of one person. Resolute, steady jaw and direct gaze, closed lips, damp hair strands. The original clothing has rain-darkened shoulders and damp hair. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P03-EXPR-RESOLUTE.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "6b78a06917ea17e72c5489cb35cc934990b21d69",
+      "generated_source_filename": "exec-97ed5e45-b1c9-4114-a2f6-0cf2cfb3fc39.png",
+      "reference_source_filenames": [
+        "exec-7a7741d5-7c5b-4928-9b63-c138849688e3.png",
+        "exec-122aae66-a44d-4d76-a0d0-9de8ea24feca.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P04-PORTRAIT",
+      "title": "唐小川｜正面半身定脸",
+      "prompt": "A 25-year-old Chinese man with a rounded square face, naturally thick eyebrows, dark brown eyes, short tousled black hair, clean-shaven, 175 cm tall, an ordinary balanced adult build. Wearing black square-frame eyeglasses. Front-facing single-person chest-up casting portrait, head upright, neutral confident expression, shoulders visible. Wearing a blue-gray shirt with fine dark red checks over a black crew-neck T-shirt, dark gray work trousers, white and gray sneakers. Accessories: a blue-gray lanyard holding a blank employee badge. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P04-PORTRAIT.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "b20f30552cff4407fe650f6777cb9b9e95d44a9d",
+      "generated_source_filename": "exec-ff01db8a-a6bb-45bc-ada0-b94eac5d40ec.png",
+      "reference_source_filenames": [
+        "exec-ac74d35f-5806-4410-bacc-5c246c0b23e2.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P04-MASTER",
+      "title": "唐小川｜三视图主卡",
+      "prompt": "A 25-year-old Chinese man with a rounded square face, naturally thick eyebrows, dark brown eyes, short tousled black hair, clean-shaven, 175 cm tall, an ordinary balanced adult build. Wearing black square-frame eyeglasses. Wearing a blue-gray shirt with fine dark red checks over a black crew-neck T-shirt, dark gray work trousers, white and gray sneakers. Accessories: a blue-gray lanyard holding a blank employee badge. A photographic wardrobe continuity sheet with three evenly spaced full-body views of the same person, front view, left profile and back view in one horizontal row, identical scale and outfit in all views, relaxed standing poses, empty hands, full head and shoes visible. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "16:9",
+      "repository_path": "projects/断网之后/assets/characters/P04-MASTER.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "7542751f299e8b084790d736bcbd43b9546c8bbb",
+      "generated_source_filename": "exec-ac74d35f-5806-4410-bacc-5c246c0b23e2.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "P04-LOOK-A",
+      "title": "唐小川｜基础服装全身",
+      "prompt": "A 25-year-old Chinese man with a rounded square face, naturally thick eyebrows, dark brown eyes, short tousled black hair, clean-shaven, 175 cm tall, an ordinary balanced adult build. Wearing black square-frame eyeglasses. Wearing a blue-gray shirt with fine dark red checks over a black crew-neck T-shirt, dark gray work trousers, white and gray sneakers. Accessories: a blue-gray lanyard holding a blank employee badge. Single-person full-length wardrobe photograph, relaxed standing pose, empty hands, complete head and both shoes inside the frame, dry clean clothing. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P04-LOOK-A.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "77f600ec3b81eb1b59f7501a23a7d6840139df7b",
+      "generated_source_filename": "exec-3f4d6ce8-e55e-458c-a3db-5f0d00505efd.png",
+      "reference_source_filenames": [
+        "exec-ac74d35f-5806-4410-bacc-5c246c0b23e2.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P04-EXPR-INDIGNANT",
+      "title": "唐小川｜不平",
+      "prompt": "A 25-year-old Chinese man with a rounded square face, naturally thick eyebrows, dark brown eyes, short tousled black hair, clean-shaven, 175 cm tall, an ordinary balanced adult build. Wearing black square-frame eyeglasses. Wearing a blue-gray shirt with fine dark red checks over a black crew-neck T-shirt, dark gray work trousers, white and gray sneakers. Accessories: a blue-gray lanyard holding a blank employee badge. One chest-up portrait of one person. Indignant, brows drawn together slightly, lips pressed tight. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P04-EXPR-INDIGNANT.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "45452bb0746507f1bb1eb8ecb56ab97f40008545",
+      "generated_source_filename": "exec-ca7dd0ea-502c-4a38-94f7-7d354fc4f113.png",
+      "reference_source_filenames": [
+        "exec-ff01db8a-a6bb-45bc-ada0-b94eac5d40ec.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P04-EXPR-ANXIOUS",
+      "title": "唐小川｜焦急",
+      "prompt": "A 25-year-old Chinese man with a rounded square face, naturally thick eyebrows, dark brown eyes, short tousled black hair, clean-shaven, 175 cm tall, an ordinary balanced adult build. Wearing black square-frame eyeglasses. Wearing a blue-gray shirt with fine dark red checks over a black crew-neck T-shirt, dark gray work trousers, white and gray sneakers. Accessories: a blue-gray lanyard holding a blank employee badge. One chest-up portrait of one person. Anxious, gaze toward the left, lips slightly parted. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P04-EXPR-ANXIOUS.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "28f563e2b9fcdd627ba93c72d66d73852167cfde",
+      "generated_source_filename": "exec-091ef5b8-8d3a-4d50-a106-fcbb635188b8.png",
+      "reference_source_filenames": [
+        "exec-ff01db8a-a6bb-45bc-ada0-b94eac5d40ec.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P04-EXPR-CERTAIN",
+      "title": "唐小川｜确信",
+      "prompt": "A 25-year-old Chinese man with a rounded square face, naturally thick eyebrows, dark brown eyes, short tousled black hair, clean-shaven, 175 cm tall, an ordinary balanced adult build. Wearing black square-frame eyeglasses. Wearing a blue-gray shirt with fine dark red checks over a black crew-neck T-shirt, dark gray work trousers, white and gray sneakers. Accessories: a blue-gray lanyard holding a blank employee badge. One chest-up portrait of one person. Certain and confident, steady eyes, head upright, closed mouth. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P04-EXPR-CERTAIN.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "6461f3e94aabc4de11ec34890aa2941db857b9b1",
+      "generated_source_filename": "exec-c00ff4cb-c7b3-4738-b8c1-b2481e3ec41d.png",
+      "reference_source_filenames": [
+        "exec-ff01db8a-a6bb-45bc-ada0-b94eac5d40ec.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P04-EXPR-HAPPY",
+      "title": "唐小川｜欣喜",
+      "prompt": "A 25-year-old Chinese man with a rounded square face, naturally thick eyebrows, dark brown eyes, short tousled black hair, clean-shaven, 175 cm tall, an ordinary balanced adult build. Wearing black square-frame eyeglasses. Wearing a blue-gray shirt with fine dark red checks over a black crew-neck T-shirt, dark gray work trousers, white and gray sneakers. Accessories: a blue-gray lanyard holding a blank employee badge. One chest-up portrait of one person. Relieved happiness, relaxed eyes and a natural small smile. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P04-EXPR-HAPPY.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "f948235ce7d89944d2f99a983ea419ee2f9c5f88",
+      "generated_source_filename": "exec-740d4308-8195-4257-a474-b0bf793de969.png",
+      "reference_source_filenames": [
+        "exec-ff01db8a-a6bb-45bc-ada0-b94eac5d40ec.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P05-PORTRAIT",
+      "title": "魏哲｜正面半身定脸",
+      "prompt": "A 48-year-old Chinese man with a broad forehead, a slightly square jaw, fine under-eye lines, short black-and-gray hair combed back, distinct gray hair at both sides, dark brown eyes, clean-shaven, 176 cm tall, a medium adult build. Wearing thin silver-gray metal eyeglasses. Front-facing single-person chest-up casting portrait, head upright, neutral confident expression, shoulders visible. Wearing a dark gray cashmere suit, off-white shirt, burgundy tie, black leather shoes.  Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P05-PORTRAIT.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "cd2f3c3c19e67a133b26cd3337883ebe27e6d1ff",
+      "generated_source_filename": "exec-6c2f1c7a-fdb3-409f-8b1e-90daba38f5f5.png",
+      "reference_source_filenames": [
+        "exec-0b412552-61ca-48be-97d0-ce094a553287.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P05-MASTER",
+      "title": "魏哲｜三视图主卡",
+      "prompt": "A 48-year-old Chinese man with a broad forehead, a slightly square jaw, fine under-eye lines, short black-and-gray hair combed back, distinct gray hair at both sides, dark brown eyes, clean-shaven, 176 cm tall, a medium adult build. Wearing thin silver-gray metal eyeglasses. Wearing a dark gray cashmere suit, off-white shirt, burgundy tie, black leather shoes.  A photographic wardrobe continuity sheet with three evenly spaced full-body views of the same person, front view, left profile and back view in one horizontal row, identical scale and outfit in all views, relaxed standing poses, empty hands, full head and shoes visible. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "16:9",
+      "repository_path": "projects/断网之后/assets/characters/P05-MASTER.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "bd1a0e952b4f2adad3ab48d4ec73b2d9c77691fb",
+      "generated_source_filename": "exec-0b412552-61ca-48be-97d0-ce094a553287.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "P05-LOOK-A",
+      "title": "魏哲｜基础服装全身",
+      "prompt": "A 48-year-old Chinese man with a broad forehead, a slightly square jaw, fine under-eye lines, short black-and-gray hair combed back, distinct gray hair at both sides, dark brown eyes, clean-shaven, 176 cm tall, a medium adult build. Wearing thin silver-gray metal eyeglasses. Wearing a dark gray cashmere suit, off-white shirt, burgundy tie, black leather shoes.  Single-person full-length wardrobe photograph, relaxed standing pose, empty hands, complete head and both shoes inside the frame, dry clean clothing. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P05-LOOK-A.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "75323c7cb6e595c00009a319fbeb77b64e338b24",
+      "generated_source_filename": "exec-24f86259-4a7a-49ca-b217-ea89044df6fb.png",
+      "reference_source_filenames": [
+        "exec-0b412552-61ca-48be-97d0-ce094a553287.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P05-EXPR-ARROGANT",
+      "title": "魏哲｜倨傲",
+      "prompt": "A 48-year-old Chinese man with a broad forehead, a slightly square jaw, fine under-eye lines, short black-and-gray hair combed back, distinct gray hair at both sides, dark brown eyes, clean-shaven, 176 cm tall, a medium adult build. Wearing thin silver-gray metal eyeglasses. Wearing a dark gray cashmere suit, off-white shirt, burgundy tie, black leather shoes.  One chest-up portrait of one person. Arrogant, chin slightly raised, eyes looking down, lips closed. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P05-EXPR-ARROGANT.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "836419b9a466e2281f1c5b6d4103571ca1764f7e",
+      "generated_source_filename": "exec-b326c018-c2b1-45fb-9746-e5f36eab12a8.png",
+      "reference_source_filenames": [
+        "exec-6c2f1c7a-fdb3-409f-8b1e-90daba38f5f5.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P05-EXPR-FLUSTERED",
+      "title": "魏哲｜失措",
+      "prompt": "A 48-year-old Chinese man with a broad forehead, a slightly square jaw, fine under-eye lines, short black-and-gray hair combed back, distinct gray hair at both sides, dark brown eyes, clean-shaven, 176 cm tall, a medium adult build. Wearing thin silver-gray metal eyeglasses. Wearing a dark gray cashmere suit, off-white shirt, burgundy tie, black leather shoes.  One chest-up portrait of one person. Flustered, a natural sheen of sweat on the forehead, eyes fixed on an off-camera monitor, lips parted. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P05-EXPR-FLUSTERED.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "c585f02616545b1794ced59553f998c8dd12331f",
+      "generated_source_filename": "exec-0cb969f1-d3ba-45ea-9057-48b0d10b15a8.png",
+      "reference_source_filenames": [
+        "exec-6c2f1c7a-fdb3-409f-8b1e-90daba38f5f5.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P05-EXPR-AWESTRUCK",
+      "title": "魏哲｜震撼",
+      "prompt": "A 48-year-old Chinese man with a broad forehead, a slightly square jaw, fine under-eye lines, short black-and-gray hair combed back, distinct gray hair at both sides, dark brown eyes, clean-shaven, 176 cm tall, a medium adult build. Wearing thin silver-gray metal eyeglasses. Wearing a dark gray cashmere suit, off-white shirt, burgundy tie, black leather shoes.  One chest-up portrait of one person. Awestruck, raised eyebrows, sharply focused eyes, rain-damp hair. The original clothing has rain-darkened shoulders and damp hair. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P05-EXPR-AWESTRUCK.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "945b6cb46bc64b4397fc731e1e09ad43fe440a53",
+      "generated_source_filename": "exec-61b971cc-454f-4944-b270-083e49d391a9.png",
+      "reference_source_filenames": [
+        "exec-6c2f1c7a-fdb3-409f-8b1e-90daba38f5f5.png",
+        "exec-45e55ab0-e552-41f5-9426-92594bf2ab9e.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P05-EXPR-FRIGHTENED",
+      "title": "魏哲｜惊惧",
+      "prompt": "A 48-year-old Chinese man with a broad forehead, a slightly square jaw, fine under-eye lines, short black-and-gray hair combed back, distinct gray hair at both sides, dark brown eyes, clean-shaven, 176 cm tall, a medium adult build. Wearing thin silver-gray metal eyeglasses. Wearing a dark gray cashmere suit, off-white shirt, burgundy tie, black leather shoes.  One chest-up portrait of one person. Frightened, tense brows, slightly trembling lips, eyes lifted toward a taller man outside the frame. The original clothing has rain-darkened shoulders and damp hair. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P05-EXPR-FRIGHTENED.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "20e2d6e3e9482daf77aa303b473e65b365212208",
+      "generated_source_filename": "exec-3e1a4bb0-83b9-4b15-8f33-ca85aaca9400.png",
+      "reference_source_filenames": [
+        "exec-6c2f1c7a-fdb3-409f-8b1e-90daba38f5f5.png",
+        "exec-45e55ab0-e552-41f5-9426-92594bf2ab9e.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P06-PORTRAIT",
+      "title": "裴元｜正面半身定脸",
+      "prompt": "A 50-year-old Chinese man with a narrow angular jaw, dark brown eyes, neatly slicked-back black-and-gray hair, a small faint mole below his left eye, fine lines at the corners of the eyes, clean-shaven, 180 cm tall, an upright well-proportioned adult build. Front-facing single-person chest-up casting portrait, head upright, neutral confident expression, shoulders visible. Wearing a black double-breasted overcoat over a charcoal suit, white shirt, dark gray tie, black leather shoes. Accessories: a plain platinum cufflink visible at his left shirt cuff. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P06-PORTRAIT.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "1e39f520b7a5362f273076894f8d2e94b6f6837b",
+      "generated_source_filename": "exec-eb06dff8-ec16-4f8d-a730-7998307b9c8f.png",
+      "reference_source_filenames": [
+        "exec-779d1b98-28b6-4e31-80b7-b2333b045637.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P06-MASTER",
+      "title": "裴元｜三视图主卡",
+      "prompt": "A 50-year-old Chinese man with a narrow angular jaw, dark brown eyes, neatly slicked-back black-and-gray hair, a small faint mole below his left eye, fine lines at the corners of the eyes, clean-shaven, 180 cm tall, an upright well-proportioned adult build. Wearing a black double-breasted overcoat over a charcoal suit, white shirt, dark gray tie, black leather shoes. Accessories: a plain platinum cufflink visible at his left shirt cuff. A photographic wardrobe continuity sheet with three evenly spaced full-body views of the same person, front view, left profile and back view in one horizontal row, identical scale and outfit in all views, relaxed standing poses, empty hands, full head and shoes visible. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "16:9",
+      "repository_path": "projects/断网之后/assets/characters/P06-MASTER.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "ea03f53ab87e995fece70b19c318308d508749ff",
+      "generated_source_filename": "exec-779d1b98-28b6-4e31-80b7-b2333b045637.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "P06-LOOK-A",
+      "title": "裴元｜基础服装全身",
+      "prompt": "A 50-year-old Chinese man with a narrow angular jaw, dark brown eyes, neatly slicked-back black-and-gray hair, a small faint mole below his left eye, fine lines at the corners of the eyes, clean-shaven, 180 cm tall, an upright well-proportioned adult build. Wearing a black double-breasted overcoat over a charcoal suit, white shirt, dark gray tie, black leather shoes. Accessories: a plain platinum cufflink visible at his left shirt cuff. Single-person full-length wardrobe photograph, relaxed standing pose, empty hands, complete head and both shoes inside the frame, dry clean clothing. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P06-LOOK-A.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "c8dfbd96756a35bd202b3d0bd13a95e2b2f58c5c",
+      "generated_source_filename": "exec-8a9fad84-263f-421b-a6f2-b85225f2095e.png",
+      "reference_source_filenames": [
+        "exec-779d1b98-28b6-4e31-80b7-b2333b045637.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P06-EXPR-COLD",
+      "title": "裴元｜冷漠",
+      "prompt": "A 50-year-old Chinese man with a narrow angular jaw, dark brown eyes, neatly slicked-back black-and-gray hair, a small faint mole below his left eye, fine lines at the corners of the eyes, clean-shaven, 180 cm tall, an upright well-proportioned adult build. Wearing a black double-breasted overcoat over a charcoal suit, white shirt, dark gray tie, black leather shoes. Accessories: a plain platinum cufflink visible at his left shirt cuff. One chest-up portrait of one person. Cold, level gaze and closed lips. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P06-EXPR-COLD.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "a79e46434619d1b80ed1d27c88294246b9ee59b5",
+      "generated_source_filename": "exec-02009b62-0f44-4f5b-8045-fc9b48efe7d9.png",
+      "reference_source_filenames": [
+        "exec-eb06dff8-ec16-4f8d-a730-7998307b9c8f.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P06-EXPR-CONFIDENT",
+      "title": "裴元｜笃定",
+      "prompt": "A 50-year-old Chinese man with a narrow angular jaw, dark brown eyes, neatly slicked-back black-and-gray hair, a small faint mole below his left eye, fine lines at the corners of the eyes, clean-shaven, 180 cm tall, an upright well-proportioned adult build. Wearing a black double-breasted overcoat over a charcoal suit, white shirt, dark gray tie, black leather shoes. Accessories: a plain platinum cufflink visible at his left shirt cuff. One chest-up portrait of one person. Confident, a barely visible smile and steady calculating eyes. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P06-EXPR-CONFIDENT.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "93a8e5cd1246c471a4227d134d65f2170c8f21a3",
+      "generated_source_filename": "exec-eb0f8523-cfd9-42d0-89b1-f1531249ff19.png",
+      "reference_source_filenames": [
+        "exec-eb06dff8-ec16-4f8d-a730-7998307b9c8f.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P06-EXPR-ALERT",
+      "title": "裴元｜警觉",
+      "prompt": "A 50-year-old Chinese man with a narrow angular jaw, dark brown eyes, neatly slicked-back black-and-gray hair, a small faint mole below his left eye, fine lines at the corners of the eyes, clean-shaven, 180 cm tall, an upright well-proportioned adult build. Wearing a black double-breasted overcoat over a charcoal suit, white shirt, dark gray tie, black leather shoes. Accessories: a plain platinum cufflink visible at his left shirt cuff. One chest-up portrait of one person. Alert, eyes shifted to the right, lips tightened. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P06-EXPR-ALERT.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "016eb36e3e0083de7e0662117294356f745a9e98",
+      "generated_source_filename": "exec-f2aa63ad-99d3-45b3-aa5e-c82a217fd66e.png",
+      "reference_source_filenames": [
+        "exec-eb06dff8-ec16-4f8d-a730-7998307b9c8f.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P06-EXPR-FROZEN",
+      "title": "裴元｜僵硬",
+      "prompt": "A 50-year-old Chinese man with a narrow angular jaw, dark brown eyes, neatly slicked-back black-and-gray hair, a small faint mole below his left eye, fine lines at the corners of the eyes, clean-shaven, 180 cm tall, an upright well-proportioned adult build. Wearing a black double-breasted overcoat over a charcoal suit, white shirt, dark gray tie, black leather shoes. Accessories: a plain platinum cufflink visible at his left shirt cuff. One chest-up portrait of one person. Frozen disbelief, all trace of the earlier smile gone, subtle facial tension. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P06-EXPR-FROZEN.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "5342ba1fc8085daccc285e1761b1933c74dd8e9e",
+      "generated_source_filename": "exec-60b87453-2767-49cf-9585-9c5e92355b7a.png",
+      "reference_source_filenames": [
+        "exec-eb06dff8-ec16-4f8d-a730-7998307b9c8f.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P01-A-W",
+      "title": "周衍｜湿风衣",
+      "prompt": "A 42-year-old Chinese man with a long rectangular face, a defined natural jaw, dark brown eyes, straight eyebrows with a small shallow notch at the outer end of his right eyebrow, short naturally side-parted black hair, a few gray hairs at both temples, fine lines at the eyes, clean-shaven, 182 cm tall, a tall lean balanced build with upright shoulders. Wearing thin rectangular dark gray metal eyeglasses. The original deep navy trench coat is rain-soaked at the shoulders, cuffs and hem with darker wet patches. The charcoal hoodie is slightly damp at the shoulders, jean hems and shoes are wet, hair tips wet, glasses straight. Single full-length standing pose, empty hands, calm. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P01-A-W.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "fcd6af220745390cfade17048b5e4ff4a5b3193a",
+      "generated_source_filename": "exec-1c361f39-39f2-4ae5-9806-a66ece54751c.png",
+      "reference_source_filenames": [
+        "exec-0aca17bb-b772-450d-92da-d33f2fdd4c13.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P01-LOOK-B",
+      "title": "周衍｜脱风衣挽袖",
+      "prompt": "A 42-year-old Chinese man with a long rectangular face, a defined natural jaw, dark brown eyes, straight eyebrows with a small shallow notch at the outer end of his right eyebrow, short naturally side-parted black hair, a few gray hairs at both temples, fine lines at the eyes, clean-shaven, 182 cm tall, a tall lean balanced build with upright shoulders. Wearing thin rectangular dark gray metal eyeglasses. The trench coat is absent. Wearing only the charcoal gray hoodie, straight indigo jeans and dark gray casual shoes. Both sleeves pushed evenly to the middle of the forearms, dark-dial mechanical watch visible on the left wrist. Faint damp patches at the hoodie collar and shoulders, wet trouser hems and shoes. Glasses worn normally, empty hands, focused full-length standing pose. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P01-LOOK-B.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "c2e93531c3132b72b46649a0c32cea99378510cb",
+      "generated_source_filename": "exec-b131d93d-6638-4656-bdeb-cef21c6bfd69.png",
+      "reference_source_filenames": [
+        "exec-0aca17bb-b772-450d-92da-d33f2fdd4c13.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P01-B-N",
+      "title": "周衍｜摘镜闭眼",
+      "prompt": "A 42-year-old Chinese man with a long rectangular face, a defined natural jaw, dark brown eyes, straight eyebrows with a small shallow notch at the outer end of his right eyebrow, short naturally side-parted black hair, a few gray hairs at both temples, fine lines at the eyes, clean-shaven, 182 cm tall, a tall lean balanced build with upright shoulders. Chest-up portrait, trench coat absent, charcoal hoodie sleeves pushed to mid-forearm. Eyeglasses removed and absent from the face, eyes gently closed, a faint cool confident smile, realistic eyelids and skin pores. Slight damp color variation at the shoulders, empty frame below the chest, a steady still pose. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P01-B-N.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "7f5dd06bc247127c5e53b5fc6481e610f87f63bc",
+      "generated_source_filename": "exec-dfbd5b9e-ed08-4f60-85dd-753a9897c299.png",
+      "reference_source_filenames": [
+        "exec-b131d93d-6638-4656-bdeb-cef21c6bfd69.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P02-A-W",
+      "title": "贺凯｜下跪前湿西装",
+      "prompt": "A 32-year-old Chinese man with a narrow long face, slim dark brown eyes, thin lips, slick black hair parted on his left and combed back, clean-shaven, 178 cm tall, a lean build with defined shoulders. Wearing thin rectangular gold-rimmed eyeglasses. The original deep blue three-piece suit is rain-soaked, darker patches on the chest and shoulders, wet trouser hems, damp shirt collar, wet hair still parted on his left. Glasses straight, black smartwatch on the right wrist. Knees still clean, empty hands, tense full-length standing pose. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P02-A-W.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "f534c80ab9d17d62e9dec3e3b7e9d1c4c818714d",
+      "generated_source_filename": "exec-cf8c9963-c02a-464e-a177-597d748236e0.png",
+      "reference_source_filenames": [
+        "exec-73f636ed-0268-4746-b3ec-2234342c1360.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P02-LOOK-B",
+      "title": "贺凯｜泥膝狼狈态",
+      "prompt": "A 32-year-old Chinese man with a narrow long face, slim dark brown eyes, thin lips, slick black hair parted on his left and combed back, clean-shaven, 178 cm tall, a lean build with defined shoulders. Wearing thin rectangular gold-rimmed eyeglasses. The original deep blue three-piece suit is soaked. Fixed gray-brown mud stains on both knees, the left knee stain slightly larger, muddy wet hems and shoes. Navy tie tilted to his left, gold-rimmed glasses slightly crooked, wet hair stuck near the forehead, black smartwatch on the right wrist. Empty hands, terrified full-length standing pose. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P02-LOOK-B.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "bd782b7a5a5d8c1fd909b8c57907047c10594141",
+      "generated_source_filename": "exec-2aab4321-5d50-45da-ae6e-3747e8ee03ee.png",
+      "reference_source_filenames": [
+        "exec-cf8c9963-c02a-464e-a177-597d748236e0.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P03-A-W",
+      "title": "秦岚｜雨后白西装",
+      "prompt": "A 28-year-old Chinese woman with an oval face, natural straight eyebrows, elongated almond-shaped dark brown eyes, a natural nose bridge, moderately full lips, subtle natural makeup, realistic skin texture, medium-length black hair tied in a low ponytail with a few loose strands at the temples, 170 cm tall, a naturally proportioned slender adult build. The original ivory white pantsuit has damp shoulders, cuffs and trouser hems, slightly darkened yet fully opaque heavy fabric. Black high-neck top unchanged. Low ponytail tips wet, two loose strands damp against her cheeks, diamond studs unchanged. Black low-to-mid heel shoes wet, knees clean, empty hands, upright full-length standing pose. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P03-A-W.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "d3e714d74f0603393ccd57ea804825ea49d13747",
+      "generated_source_filename": "exec-122aae66-a44d-4d76-a0d0-9de8ea24feca.png",
+      "reference_source_filenames": [
+        "exec-3a3c790c-aef1-467c-9399-b8910d9df721.png"
+      ],
+      "production_note": "Preserve the original CLEAN ivory-white suit. Only clear rainwater: subtle cool-gray damp darkening and tiny transparent droplets at shoulders, cuffs and hems. Absolutely no brown, beige or muddy stains anywhere, no dirt, no discoloration, no translucent cloth. Wet fabric stays ivory and opaque. Keep face and hair identical to reference."
+    },
+    {
+      "id": "P04-A-L",
+      "title": "唐小川｜值守疲惫",
+      "prompt": "A 25-year-old Chinese man with a rounded square face, naturally thick eyebrows, dark brown eyes, short tousled black hair, clean-shaven, 175 cm tall, an ordinary balanced adult build. Wearing black square-frame eyeglasses. The original blue-gray dark-red-check shirt has both sleeves rolled to mid-forearm, slightly creased hem. Black square glasses and blue-gray employee lanyard unchanged, mild under-eye fatigue. Clothing dry and clean, empty hands, alert full-length standing pose. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P04-A-L.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "e2d7b2acd4379c0cb4e785f5d6d314323d8ac07a",
+      "generated_source_filename": "exec-8f12c1dd-2d18-49f9-983c-5106cfd6eb7d.png",
+      "reference_source_filenames": [
+        "exec-ac74d35f-5806-4410-bacc-5c246c0b23e2.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P05-A-S",
+      "title": "魏哲｜专家失利",
+      "prompt": "A 48-year-old Chinese man with a broad forehead, a slightly square jaw, fine under-eye lines, short black-and-gray hair combed back, distinct gray hair at both sides, dark brown eyes, clean-shaven, 176 cm tall, a medium adult build. Wearing thin silver-gray metal eyeglasses. The original dark gray cashmere suit is dry but slightly creased at the front. One top shirt button open, burgundy tie knot slightly lowered, natural sweat sheen on the forehead, silver-gray glasses unchanged. Empty hands, flustered full-length standing pose. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P05-A-S.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "22147918494c64df67df6d94981c2bec5ec78f05",
+      "generated_source_filename": "exec-93d2ab81-5db3-4419-868a-13d86e511f17.png",
+      "reference_source_filenames": [
+        "exec-0b412552-61ca-48be-97d0-ce094a553287.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P05-A-W",
+      "title": "魏哲｜雨后狼狈",
+      "prompt": "A 48-year-old Chinese man with a broad forehead, a slightly square jaw, fine under-eye lines, short black-and-gray hair combed back, distinct gray hair at both sides, dark brown eyes, clean-shaven, 176 cm tall, a medium adult build. Wearing thin silver-gray metal eyeglasses. The original dark gray cashmere suit has wet shoulders and trouser hems. Top shirt button open, burgundy tie knot slightly lowered, hair tips damp, gray temples and silver-gray glasses unchanged. Knees clean, empty hands, exhausted full-length standing pose. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P05-A-W.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "8186aece2505f7c442275387284d4e807146a937",
+      "generated_source_filename": "exec-45e55ab0-e552-41f5-9426-92594bf2ab9e.png",
+      "reference_source_filenames": [
+        "exec-0b412552-61ca-48be-97d0-ce094a553287.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "P02-KNEEL",
+      "title": "贺凯｜跪递防弹电脑",
+      "prompt": "A 32-year-old Chinese man with a narrow long face, slim dark brown eyes, thin lips, slick black hair parted on his left and combed back, clean-shaven, 178 cm tall, a lean build with defined shoulders. Wearing thin rectangular gold-rimmed eyeglasses. Wearing the original rain-soaked deep blue three-piece suit, muddy knees, crooked gold-rimmed glasses and right-wrist black smartwatch. Both knees on the ground, back leaning slightly forward, both hands supporting the underside of one open rugged black-gray 14-inch laptop and raising it toward a person outside the frame in front of him. The laptop screen faces that off-camera person, back of the display toward the kneeling man, blank dark display. Humiliated and frightened, one person and one laptop, stable final kneeling pose. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P02-KNEEL.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "640df9d6d4a0ddd89c4f149e8e83b30d2c51903b",
+      "generated_source_filename": "exec-e93a8800-d8bf-4f27-ab20-8ded35d71a42.png",
+      "reference_source_filenames": [
+        "exec-2aab4321-5d50-45da-ae6e-3747e8ee03ee.png",
+        "exec-8ac4a103-88df-4a06-8699-b0d7233e2063.png",
+        "exec-1976aceb-ab80-49f8-8bc5-107ed38cefd8.png"
+      ],
+      "production_note": "The attached first and third images represent the SAME He Kai. Preserve wet suit and muddy knees and crooked glasses. The second image is the exact rugged laptop. ONE man kneels, TWO hands support ONE open laptop from BELOW. Keep each hand anatomically separate and grip physically plausible; screen faces outward toward the off-camera recipient, laptop back faces the kneeling man."
+    },
+    {
+      "id": "P05-KNEEL",
+      "title": "魏哲｜认出Zero后跪拜",
+      "prompt": "A 48-year-old Chinese man with a broad forehead, a slightly square jaw, fine under-eye lines, short black-and-gray hair combed back, distinct gray hair at both sides, dark brown eyes, clean-shaven, 176 cm tall, a medium adult build. Wearing thin silver-gray metal eyeglasses. Wearing the original wet dark gray cashmere suit, off-white shirt and loosened burgundy tie. Both knees on the floor, back stiff, head slightly lifted toward someone above and outside the frame, hands empty beside his thighs, shocked recognition. One person, a stable kneeling pose, realistic knees and body proportions. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/P05-KNEEL.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "64decc92c6aa619b46ea6909ef085d11a2a6c867",
+      "generated_source_filename": "exec-20c8cfba-0079-4c58-868f-00d5ca90f88b.png",
+      "reference_source_filenames": [
+        "exec-6c2f1c7a-fdb3-409f-8b1e-90daba38f5f5.png",
+        "exec-45e55ab0-e552-41f5-9426-92594bf2ab9e.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "G01",
+      "title": "值守员工",
+      "prompt": "One Chinese adult engineer aged 25 to 45, ordinary build, dark gray or navy everyday business clothes, blank employee badge, full-length neutral standing pose. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/G01.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "a14fcd7631b91dfc3845da3a5463d077cd18600c",
+      "generated_source_filename": "exec-88c86071-f18a-45fc-b58e-3da61a5750b4.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "G02",
+      "title": "随行人员",
+      "prompt": "One Chinese adult corporate driver or administrative assistant, dark rainproof jacket and trousers, ordinary build, full-length neutral standing pose. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/G02.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "5d98d585aee4304780f486158d52a45f1590a01e",
+      "generated_source_filename": "exec-42691dc5-46b6-4b49-896f-b5dddfef051e.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "G03",
+      "title": "法务／便衣警方群演",
+      "prompt": "One Chinese adult plainclothes investigator or legal staff member, ordinary dark jacket and trousers, professional neutral bearing, empty hands, full-length standing pose. Seamless light gray studio background, soft even studio lighting, natural skin tones, clear facial details. Photorealistic live-action photography, contemporary Chinese urban drama, natural skin texture, realistic age and anatomy, authentic fabric and materials, restrained cinematic color grading.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/characters/G03.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "e3b06d7cf4ffa3867068dc8ec8ab9befd5963336",
+      "generated_source_filename": "exec-0c71225c-2751-467b-a70f-9bd876b4db70.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "D01-A",
+      "title": "0001工牌｜完整",
+      "prompt": "One horizontal employee ID badge, 86 by 54 mm, frosted gray-blue plastic case, a small blank portrait area on the left and blank number area on the right, blue-gray fabric lanyard attached at the top. Intact exterior with the internal titanium token concealed. Centered single object, 45-degree overhead view. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "1:1",
+      "repository_path": "projects/断网之后/assets/props/D01-A.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "21b06df180a573ccd69337a98edb214101914e30",
+      "generated_source_filename": "exec-a4894f90-a510-4c87-b842-3f2c9a7a5c58.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "D01-B",
+      "title": "0001工牌｜裂壳",
+      "prompt": "One horizontal gray-blue employee ID badge matching the original case, a main diagonal crack from upper right to lower left across the plastic front, a few small fragments still attached at the lower corner, titanium core intact and unbent, blue-gray lanyard attached. Resting flat, 45-degree overhead view, one damaged badge, empty surrounding surface. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "1:1",
+      "repository_path": "projects/断网之后/assets/props/D01-B.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "a109da28014d2d6a479cff61204d5335b1c67f50",
+      "generated_source_filename": "exec-0939d1fe-7f3e-4e98-b3a6-496b36277718.png",
+      "reference_source_filenames": [
+        "exec-a4894f90-a510-4c87-b842-3f2c9a7a5c58.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "D01-C",
+      "title": "0001内芯｜Root硬件密钥",
+      "prompt": "One small rectangular titanium hardware root token, 32 by 18 by 3 mm, rounded corners, fine old scratches, one narrow row of contact pads at a short edge, two tiny screws on the back, a small blank number area on the front. A solid non-glowing practical prop, 45-degree overhead view, one token. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "1:1",
+      "repository_path": "projects/断网之后/assets/props/D01-C.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "9f54d50504bcbb4af77d7361be592737c2f89af7",
+      "generated_source_filename": "exec-b3cf2876-93e4-4a2e-a0bf-65aa0534c5ef.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "D01-G",
+      "title": "0001金质新工牌",
+      "prompt": "One new matte pale-gold employee ID badge, 86 by 54 mm, rounded corners, blank number area, blue-gray lanyard. A solid ceremonial badge with a closed plain body, visually separate from the small titanium root token. Centered single object, 45-degree overhead view. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "1:1",
+      "repository_path": "projects/断网之后/assets/props/D01-G.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "e1cc5e770e103bedde93aeda248bc35db8acf7e2",
+      "generated_source_filename": "exec-bee0fdc0-72af-4514-bc4c-c7693f8cf23a.png",
+      "reference_source_filenames": [
+        "exec-a4894f90-a510-4c87-b842-3f2c9a7a5c58.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "D02",
+      "title": "旧机械键盘",
+      "prompt": "One compact 87-key mechanical keyboard, charcoal gray plastic housing, gray-white keycaps with blank tops, orderly key layout, subtle polished wear from years of use, a distinct worn patch at the center of the spacebar, a small pale scratch at the upper right corner. One black cable exits from the rear right and continues out of frame, unlit keys, 45-degree overhead view. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "1:1",
+      "repository_path": "projects/断网之后/assets/props/D02.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "c2e012b72affa108fa090cccd1093b7ca0b2abd5",
+      "generated_source_filename": "exec-f7dd3613-9339-4304-b475-bff03f0457fb.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "D03-A",
+      "title": "保温杯｜闭盖",
+      "prompt": "One 500 ml matte graphite gray stainless steel vacuum flask, 23 cm tall and about 7 cm wide, simple cylindrical body, short screw-on lid closed, narrow rubber ring at the base, one faint vertical use scratch. Plain handle-free body, single centered object, 45-degree overhead view. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "1:1",
+      "repository_path": "projects/断网之后/assets/props/D03-A.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "7ba641cf5adddbeab30c543b7b550f005c605d5b",
+      "generated_source_filename": "exec-49f96762-71ed-4460-92fd-23e0a98df3b7.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "D03-B",
+      "title": "保温杯｜开盖枸杞",
+      "prompt": "One matte graphite gray cylindrical 500 ml vacuum flask matching the closed version, screw lid removed and placed to the right, a little soft steam at the opening, dark tea with two or three faint red goji berries visible inside. The same single body scratch, 45-degree overhead view. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "1:1",
+      "repository_path": "projects/断网之后/assets/props/D03-B.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "26faaf079ca61132a46589c95f8efbfd308abe53",
+      "generated_source_filename": "exec-516eadcc-cc25-4dc0-8376-cbcf5450ac70.png",
+      "reference_source_filenames": [
+        "exec-49f96762-71ed-4460-92fd-23e0a98df3b7.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "D04-A",
+      "title": "防弹终端｜闭合",
+      "prompt": "One closed rugged black-gray 14-inch laptop used as a movie prop, thick rounded protective corner bumpers, one latch on the front edge, continuous hinge at the back, a covered waterproof connector on the left side, fine anti-slip shell texture, approximately 34 by 26 by 4 cm. Centered single object, 45-degree overhead view. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "16:9",
+      "repository_path": "projects/断网之后/assets/props/D04-A.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "46abcbb6b65c8b696b61e5ed64853a4d0219b200",
+      "generated_source_filename": "exec-7d2c5741-ed58-440a-8e31-b6f0bd00fe56.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "D04-B",
+      "title": "防弹终端｜开启",
+      "prompt": "One rugged black-gray 14-inch laptop matching the closed prop, lid open about 110 degrees, hinge at the rear, keyboard facing the viewer, thick protective corners, one covered left-side connector. The upper display and lower keyboard are clearly separate planes, dark blank screen and blank keycaps, front three-quarter view. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "16:9",
+      "repository_path": "projects/断网之后/assets/props/D04-B.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "258b0d78d636756edd360bf58602cd8c9a30a6d1",
+      "generated_source_filename": "exec-8ac4a103-88df-4a06-8699-b0d7233e2063.png",
+      "reference_source_filenames": [
+        "exec-7d2c5741-ed58-440a-8e31-b6f0bd00fe56.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "D05-A",
+      "title": "鱼竿｜伸展",
+      "prompt": "One fully extended 2.1-meter black-gray sea-fishing rod, complete side profile, grip at the right end with a silver-gray spinning reel attached underneath, rod tip pointing left, fine fishing line threaded neatly through the guide rings. One complete rod, isolated object. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "16:9",
+      "repository_path": "projects/断网之后/assets/props/D05-A.png",
+      "generation_status": "generated",
+      "github_status": "uploaded",
+      "git_blob_sha": "293509f69244da275112a0a6756240d9822d4dab",
+      "generated_source_filename": "exec-e870b739-de24-4bd5-809d-ca4e9cd4c186.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "D05-B",
+      "title": "鱼竿｜收纳",
+      "prompt": "One black-gray fishing rod broken down into a neat approximately 70 cm bundle, the same silver-gray spinning reel attached to the original grip section, dark gray fabric straps holding the sections together. One compact bundle, side profile. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "16:9",
+      "repository_path": "projects/断网之后/assets/props/D05-B.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-f312d7cc-140b-4918-a808-48e0189ed09c.png",
+      "reference_source_filenames": [
+        "exec-e870b739-de24-4bd5-809d-ca4e9cd4c186.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "D06-A",
+      "title": "钓鱼水桶｜空桶",
+      "prompt": "One dark gray 20-liter plastic fishing bucket, about 35 cm tall and 30 cm across, a single folding semicircular handle, slight saltwater marks on the outside, a little clear water inside the otherwise empty bucket. 45-degree overhead view. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "1:1",
+      "repository_path": "projects/断网之后/assets/props/D06-A.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-a3640766-08d0-4a2c-93f1-facfbf0223d1.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "D06-B",
+      "title": "钓鱼水桶｜一条海鲈鱼",
+      "prompt": "One dark gray 20-liter fishing bucket with a single folding handle and slight saltwater wear, shallow water inside containing exactly one intact silver-gray sea bass about 30 cm long, natural uninjured fish. 45-degree overhead view. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "1:1",
+      "repository_path": "projects/断网之后/assets/props/D06-B.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-dd7b577d-3d92-48e2-a2e0-c20fd2230bfa.png",
+      "reference_source_filenames": [
+        "exec-a3640766-08d0-4a2c-93f1-facfbf0223d1.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "D07",
+      "title": "露营灯",
+      "prompt": "One portable camping lantern about 24 cm tall, black circular base, translucent milky cylindrical shade, black round top with an arched carrying handle, evenly glowing low-intensity warm amber light, clear lamp silhouette with controlled bloom. Single centered object. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "1:1",
+      "repository_path": "projects/断网之后/assets/props/D07.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-21657467-2b08-4506-a810-8e2d43d94f15.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "D08-A",
+      "title": "协议文件夹｜未签",
+      "prompt": "One open black hard-cover A4 document folder lying flat, a central metal clip holding two ivory sheets of blank paper, generous empty signature area near the bottom of the top sheet, one dark gray metal pen beside the folder with its cap on the back. 45-degree overhead view. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "1:1",
+      "repository_path": "projects/断网之后/assets/props/D08-A.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-c109d8e8-df3e-43d2-87e7-c465514fd91e.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "D08-B",
+      "title": "协议文件夹｜签署后底板",
+      "prompt": "One open black hard-cover A4 folder matching the earlier prop, two ivory sheets held by the same metal clip, blank surface reserved for a signature composited later, one dark gray pen resting horizontally along the bottom edge. 45-degree overhead view, unchanged folder geometry. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "1:1",
+      "repository_path": "projects/断网之后/assets/props/D08-B.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-6591660e-147f-41e7-a3e3-8405b3b8800e.png",
+      "reference_source_filenames": [
+        "exec-c109d8e8-df3e-43d2-87e7-c465514fd91e.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "D09-A",
+      "title": "雨伞｜撑开",
+      "prompt": "One fully opened black long-handled umbrella, eight ribs, straight silver-gray shaft, curved black handle, canopy about 105 cm wide, shaft vertical, three-quarter side view, a few realistic water droplets. Complete single object. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/props/D09-A.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-6440c9be-ecf0-4fea-b8bd-564f41d0ab1d.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "D09-B",
+      "title": "雨伞｜收拢",
+      "prompt": "One closed black long-handled umbrella, silver-gray straight shaft, curved black handle, black fastening strap secured around the folded canopy, intact neatly folded ribs, a few water droplets, full object visible. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/props/D09-B.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-372bea6a-7425-4a0d-a772-06b6dde865f6.png",
+      "reference_source_filenames": [
+        "exec-6440c9be-ecf0-4fea-b8bd-564f41d0ab1d.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "D10-A",
+      "title": "黑色轿车｜干燥",
+      "prompt": "One unbranded black four-door executive sedan about 5 meters long, left-hand drive, black five-spoke wheels, narrow horizontal headlamps, blank dark gray license plate, dry bodywork, front-left three-quarter view, all doors closed, empty interior. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "16:9",
+      "repository_path": "projects/断网之后/assets/props/D10-A.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-06e6e5d6-b33a-48bb-9730-cae1b88a33fe.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "D10-B",
+      "title": "黑色轿车｜雨夜",
+      "prompt": "One unbranded black four-door executive sedan matching the master design, left-hand drive, black five-spoke wheels and narrow headlamps unchanged. Rain beads on the body, a little wet mud at the tires and lower sills, headlights on with controlled exposure, all doors closed, empty interior, blank plate, front-left three-quarter view. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "16:9",
+      "repository_path": "projects/断网之后/assets/props/D10-B.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-02dc03cb-8f7f-4e08-b890-e656b860cbc8.png",
+      "reference_source_filenames": [
+        "exec-06e6e5d6-b33a-48bb-9730-cae1b88a33fe.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "D11-A",
+      "title": "主控物理终端｜待机",
+      "prompt": "One fixed black metal server maintenance workstation, 140 cm wide, 70 cm deep and 90 cm high. A 24-inch screen set into the desktop tilted slightly back, a small covered hardware recovery slot at the lower right of the front face, a separate wired keyboard input port on the right side of the desktop, enclosed cable tray beneath. Empty keyboard space, blank dark screen, front three-quarter view. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "16:9",
+      "repository_path": "projects/断网之后/assets/props/D11-A.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-4b34df5f-4c0f-402d-9776-cd22d1eff740.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "D11-B",
+      "title": "主控物理终端｜接入",
+      "prompt": "One black metal server maintenance workstation matching the master design, 140 by 70 by 90 cm. Recovery cover open at the lower right front, one small titanium root token inserted with a short end exposed. One charcoal 87-key keyboard with gray-white blank keycaps on the desktop, a single cable from its rear right connected to the right-side keyboard port. Blank dark gray screen, front three-quarter view. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "16:9",
+      "repository_path": "projects/断网之后/assets/props/D11-B.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-55a8f222-6625-435c-bb37-9e902054dc5b.png",
+      "reference_source_filenames": [
+        "exec-4b34df5f-4c0f-402d-9776-cd22d1eff740.png",
+        "exec-f7dd3613-9339-4304-b475-bff03f0457fb.png",
+        "exec-b3cf2876-93e4-4a2e-a0bf-65aa0534c5ef.png"
+      ],
+      "production_note": "Use reference 1 for the fixed workstation shell and panel positions, reference 2 for the exact worn keyboard, reference 3 for the small titanium token. Open the existing lower-right front recovery cover and reveal a narrow token connector inside. Insert the small token into it, keep token at correct 32 mm scale. Place the same keyboard on top and connect its ONE rear-right cable to the desktop's right keyboard port. No extra keyboard or token."
+    },
+    {
+      "id": "D11-C",
+      "title": "主控物理终端｜恢复",
+      "prompt": "One black metal server maintenance workstation with the same lower-right inserted titanium root token and the same charcoal 87-key keyboard, single cable connected at the desktop right side. All geometry unchanged, only the screen glows low-intensity emerald green with a blank surface. Front three-quarter view. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "16:9",
+      "repository_path": "projects/断网之后/assets/props/D11-C.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-18ce5a73-9913-4e6c-894f-d6ec023baa88.png",
+      "reference_source_filenames": [
+        "exec-55a8f222-6625-435c-bb37-9e902054dc5b.png"
+      ],
+      "production_note": "Only change the attached workstation screen to blank low-intensity emerald green. Preserve every cable, keyboard, open door, inserted token, metal scratch and camera angle exactly. Empty set, no people."
+    },
+    {
+      "id": "D12",
+      "title": "贺凯智能表",
+      "prompt": "One black rectangular smartwatch with a matte metal frame, black silicone strap with a single row of adjustment holes, deep black blank display, faint wear. Single object macro product photograph, empty surrounding surface. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "1:1",
+      "repository_path": "projects/断网之后/assets/props/D12.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-e8e0816c-88a4-442c-9561-1d6907417934.png",
+      "reference_source_filenames": [
+        "exec-ea42082d-09ad-40ea-be79-63e08342a324.png"
+      ],
+      "production_note": "Reference controls ONLY the small black rectangular smartwatch worn on the man's RIGHT wrist. Render the watch alone as a product photo, no person or wrist. Retain its black band, black rectangular metal face and blank unlit screen."
+    },
+    {
+      "id": "D13-BACK",
+      "title": "裴元手机｜背面",
+      "prompt": "One dark gray unbranded smartphone approximately 15 by 7 cm, rounded metal edges, three small rear camera lenses in a vertical line at the upper left, back three-quarter view, plain back, single object. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "1:1",
+      "repository_path": "projects/断网之后/assets/props/D13-BACK.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-eec32808-ff6c-4b27-8624-27643958d0fa.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "D13-FRONT",
+      "title": "裴元手机｜正面",
+      "prompt": "One dark gray unbranded smartphone approximately 15 by 7 cm, rounded metal edges, single device seen from the front, blank black display, consistent edge thickness with the back-view prop. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
+      "ar": "1:1",
+      "repository_path": "projects/断网之后/assets/props/D13-FRONT.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-de10d321-7862-4520-8c27-ce316e98a401.png",
+      "reference_source_filenames": [
+        "exec-eec32808-ff6c-4b27-8624-27643958d0fa.png"
+      ],
+      "production_note": ""
+    },
+    {
+      "id": "S01-EMPTY-N",
+      "title": "总部监控大厅｜正常空景",
+      "prompt": "A corporate monitoring hall 40 meters long, 25 meters wide and 12 meters high. Camera on the ground floor at the south looking north, one 22-meter-wide curved display fixed to the north wall, blank dark screen. Low operator desks along the east, an entrance on the west, the south-side second-floor executive gallery behind and above the camera, outside this view. Matte dark gray stone floor, metal beams, glass and tidy cable details, cool white ceiling lights and restrained cyan strips. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S01-EMPTY-N.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-a0a31cb7-b719-49e2-921c-7fe42f18c609.png",
+      "reference_source_filenames": [
+        "exec-b6e03732-3829-4ef8-be76-9197ffdfdd2e.png"
+      ],
+      "production_note": "Lighting correction ONLY to the attached hall: the story is at MIDNIGHT. All exterior windows and entrance glazing show deep dark night, black-blue reflections and a few distant city lights, absolutely no daylight, sunlight, green foliage lit by sun or daytime sky. Preserve the hall geometry, curved blank dark screen, east desks, west entrance, floor and camera exactly. Interior cool white lighting remains active."
+    },
+    {
+      "id": "S01-R",
+      "title": "总部监控大厅｜崩盘红屏",
+      "prompt": "The same 40 by 25 by 12 meter corporate hall, south-to-north view, 22-meter curved screen on the north wall, operator desks east and entrance west. The giant display is solid alarm crimson, blank for compositing, red reflections across the floor and metal surfaces, some cool white fill light kept on, architecture intact. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S01-R.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-5aa52501-569a-452c-832d-233fbaddfb8e.png",
+      "reference_source_filenames": [
+        "exec-a0a31cb7-b719-49e2-921c-7fe42f18c609.png"
+      ],
+      "production_note": "Use the reference as the same architecture. Night outside all glazing. No people. Preserve the hall's structural materials and scale; change camera viewpoint as specified rather than simply mirroring. "
+    },
+    {
+      "id": "S01-G",
+      "title": "总部监控大厅｜恢复翠绿",
+      "prompt": "The same corporate hall, south-to-north view, north-wall 22-meter curved display, east operator desks, west entrance. The curved display is bright blank emerald green, cool white working lights restored, restrained cyan edge lighting, unchanged floor reflections and architecture. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S01-G.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-91fc9a8f-8f4c-4ce2-b11e-82d5bc321f0e.png",
+      "reference_source_filenames": [
+        "exec-a0a31cb7-b719-49e2-921c-7fe42f18c609.png"
+      ],
+      "production_note": "Use the reference as the same architecture. Night outside all glazing. No people. Preserve the hall's structural materials and scale; change camera viewpoint as specified rather than simply mirroring. "
+    },
+    {
+      "id": "S01-CAM01",
+      "title": "大厅｜踩工牌对峙底板",
+      "prompt": "The same corporate hall. Camera in the southwest facing northeast, 35mm lens, slightly low medium-wide framing. Clear foreground floor for a confrontation and one badge landing spot, part of the north curved screen high in the background, operator desks to the rear right. Cool white key light and cyan edge reflections. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S01-CAM01.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-0b4be7cd-e591-4c86-a7de-b0f375d86103.png",
+      "reference_source_filenames": [
+        "exec-a0a31cb7-b719-49e2-921c-7fe42f18c609.png"
+      ],
+      "production_note": "Use the reference as the same architecture. Night outside all glazing. No people. Preserve the hall's structural materials and scale; change camera viewpoint as specified rather than simply mirroring. "
+    },
+    {
+      "id": "S01-CAM02",
+      "title": "大厅｜大屏铁证底板",
+      "prompt": "The same corporate hall. Camera from the south looking north, 50mm lens, the north-wall 22-meter curved display filling the upper frame, empty lower third for later chest-up character placement. Operator desks stay east, blank low-intensity emerald screen, realistic screen reflections. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S01-CAM02.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-befd9b91-639f-4f53-88b8-aa14c4a5e477.png",
+      "reference_source_filenames": [
+        "exec-a0a31cb7-b719-49e2-921c-7fe42f18c609.png"
+      ],
+      "production_note": "Use the reference as the same architecture. Night outside all glazing. No people. Preserve the hall's structural materials and scale; change camera viewpoint as specified rather than simply mirroring. "
+    },
+    {
+      "id": "S01-CAM03",
+      "title": "大厅｜南二层总裁看台",
+      "prompt": "The same corporate hall seen in reverse from the north ground floor facing south. 50mm lens, a glass-and-metal second-floor executive gallery in the upper middle, a staircase at the southwest connecting it to the ground floor, blurred operator desks in the foreground. The north screen stays behind the camera outside the frame, normal cyan and cool white working light. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S01-CAM03.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-fbe17794-3d5d-4b51-8853-7be9e98a6e2a.png",
+      "reference_source_filenames": [
+        "exec-a0a31cb7-b719-49e2-921c-7fe42f18c609.png"
+      ],
+      "production_note": "Use the reference as the same architecture. Night outside all glazing. No people. Preserve the hall's structural materials and scale; change camera viewpoint as specified rather than simply mirroring. REVERSE ANGLE: look south; the giant north display is BEHIND the camera and must NOT appear. Show the second-floor south executive gallery, southwest stair on screen right from this north-facing-south viewpoint."
+    },
+    {
+      "id": "S02-EMPTY-N",
+      "title": "地下核心机房｜正常空景",
+      "prompt": "An underground core server room 60 meters long, 15 meters wide and 6 meters high. Camera at the south entrance facing north, two symmetrical rows of black high-density liquid-cooled racks receding into depth. A physical control workstation centered in the aisle with its blank display facing south, recovery and wired keyboard ports on its right. Cool white inspection lights, dark gray antistatic floor tiles, a fixed storage drawer and coat hook on the west near the entrance. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S02-EMPTY-N.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-fa456df2-d7db-445f-bb4a-298685b9c327.png",
+      "reference_source_filenames": [
+        "exec-4b34df5f-4c0f-402d-9776-cd22d1eff740.png"
+      ],
+      "production_note": "The attached image is ONLY the physical workstation design reference. Incorporate that exact workstation at realistic 140 cm width in the central aisle, screen facing camera south, storage drawer and coat hook west near entrance. Do not reproduce its studio backdrop. Underground night-time room, no windows or daylight, no people."
+    },
+    {
+      "id": "S02-R",
+      "title": "机房｜故障空景",
+      "prompt": "The same core server room, symmetrical black liquid-cooled racks, centered physical workstation and south entrance unchanged. Local red alarm lights, cool white overhead inspection lights still illuminate the workstation, small red rack indicators, blank dark gray screen. Intact industrial location plate, effects added separately. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S02-R.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-5044c26a-05d2-445f-a910-81b0e097e6de.png",
+      "reference_source_filenames": [
+        "exec-fa456df2-d7db-445f-bb4a-298685b9c327.png",
+        "exec-4b34df5f-4c0f-402d-9776-cd22d1eff740.png"
+      ],
+      "production_note": "Same room, same workstation industrial design. Preserve main geometry; follow specified NEW camera position. No people, no keyboards or hands; clear tabletop for later props. If closeup, show fixed recovery slot on right. Never add sparks to the scene base."
+    },
+    {
+      "id": "S02-G",
+      "title": "机房｜恢复空景",
+      "prompt": "The same core server room, fixed racks, central workstation, south entrance and west storage drawer unchanged. Cool white lights restored, red indicators changed to cyan green, blank emerald workstation screen, consistent cables and industrial surfaces. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S02-G.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-ba4bdab2-54e8-43aa-a3b6-fc247fb46e26.png",
+      "reference_source_filenames": [
+        "exec-fa456df2-d7db-445f-bb4a-298685b9c327.png",
+        "exec-4b34df5f-4c0f-402d-9776-cd22d1eff740.png"
+      ],
+      "production_note": "Same room, same workstation industrial design. Preserve main geometry; follow specified NEW camera position. No people, no keyboards or hands; clear tabletop for later props. If closeup, show fixed recovery slot on right. Never add sparks to the scene base."
+    },
+    {
+      "id": "S02-CAM01",
+      "title": "机房｜旧键盘操作底板",
+      "prompt": "The same core server room and central workstation. Camera southeast of the desk looking northwest, 50mm lens, medium framing with the tabletop in the lower half, empty central space for the lead operator, right-side keyboard input and recovery slot visible, space at the rear left for a keyboard handoff. Cool white overhead light mixed with red alarm reflection, racks retain their depth. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S02-CAM01.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-227be614-5a88-4634-a8d7-3fe18b501ec6.png",
+      "reference_source_filenames": [
+        "exec-fa456df2-d7db-445f-bb4a-298685b9c327.png",
+        "exec-4b34df5f-4c0f-402d-9776-cd22d1eff740.png"
+      ],
+      "production_note": "Same room, same workstation industrial design. Preserve main geometry; follow specified NEW camera position. No people, no keyboards or hands; clear tabletop for later props. If closeup, show fixed recovery slot on right. Never add sparks to the scene base."
+    },
+    {
+      "id": "S02-CAM02",
+      "title": "机房｜键盘与密钥特写底板",
+      "prompt": "The same black metal physical control workstation. Camera behind the future operator slightly to the east, 85mm close-up looking down. Tabletop fills the lower two thirds, clear space for an 87-key keyboard and two hands, fixed recovery slot on the right, empty area at the upper right for removed eyeglasses, blank black screen edge at the top. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S02-CAM02.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-6f51ca6e-7642-4d09-8a6e-28b1c83d20b2.png",
+      "reference_source_filenames": [
+        "exec-fa456df2-d7db-445f-bb4a-298685b9c327.png",
+        "exec-4b34df5f-4c0f-402d-9776-cd22d1eff740.png"
+      ],
+      "production_note": "Same room, same workstation industrial design. Preserve main geometry; follow specified NEW camera position. No people, no keyboards or hands; clear tabletop for later props. If closeup, show fixed recovery slot on right. Never add sparks to the scene base."
+    },
+    {
+      "id": "S03-EMPTY-D",
+      "title": "海边防波堤｜夜钓空景",
+      "prompt": "An old concrete breakwater in Jinhai, 100 meters long and 8 meters wide, extending north-south. Camera from the south facing north, deep navy sea and waves on the right to the east, access road on the left to the west. Damp cracked concrete, a low fishing stool and small portable folding table near the east edge, one amber camping lantern lighting the spot. Blue-black night, only the stool, table and lantern arranged at the fishing spot. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S03-EMPTY-D.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-a742e363-33d9-4661-8725-831e70277f7e.png",
+      "reference_source_filenames": [
+        "exec-21657467-2b08-4506-a810-8e2d43d94f15.png"
+      ],
+      "production_note": "The attached lantern controls ONLY the exact camping light design at the fishing spot; do not reproduce the studio background. Outdoor deep-blue MIDNIGHT, warm amber lantern, exposed concrete pier, no daytime sky, no shelter."
+    },
+    {
+      "id": "S03-W",
+      "title": "防波堤｜暴雨空景",
+      "prompt": "The same north-south concrete breakwater, eastern sea on the right, western road on the left, same low stool and portable table near the east. Heavy rain, a thin layer of puddles on the ground, pronounced waves, warm amber camping lantern and cold white headlights spilling from off-camera west, blue-black sea night, an exposed outdoor set. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S03-W.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-841643dd-1dcd-42f1-93e8-9a3c3ec1d46a.png",
+      "reference_source_filenames": [
+        "exec-a742e363-33d9-4661-8725-831e70277f7e.png"
+      ],
+      "production_note": "Same pier/location materials. Night time. No people. Match sea to east and road to west according to specified camera direction. Space reserved for seated/standing/kneeling people is EMPTY. "
+    },
+    {
+      "id": "S03-CAM01",
+      "title": "防波堤｜求救对峙底板",
+      "prompt": "The same breakwater, camera south of the fishing spot looking north, 50mm medium framing. Clear seated-character space at screen right on the eastern sea side, clear standing-character space at screen left on the western road side, room behind for two others. Sea to rear right, warm low lantern light at the fishing spot and cold headlight backlight from the west, heavy rain. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S03-CAM01.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-b000897e-d4a8-4549-a22c-03faa7c14639.png",
+      "reference_source_filenames": [
+        "exec-a742e363-33d9-4661-8725-831e70277f7e.png"
+      ],
+      "production_note": "Same pier/location materials. Night time. No people. Match sea to east and road to west according to specified camera direction. Space reserved for seated/standing/kneeling people is EMPTY. "
+    },
+    {
+      "id": "S03-CAM02",
+      "title": "防波堤｜跪递电脑底板",
+      "prompt": "The same breakwater fishing spot, camera from the south looking north, 50mm slightly low framing. Clear foreground-left space for a kneeling figure holding a laptop, background-right space for a seated man, extra standing space at rear left. Small folding table nearby for signing, thin muddy water on the ground, sea at right and road at left, warm lantern versus cold rain-night backlight. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S03-CAM02.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-950cd838-e9bc-40bf-a619-9e667c6c2124.png",
+      "reference_source_filenames": [
+        "exec-a742e363-33d9-4661-8725-831e70277f7e.png"
+      ],
+      "production_note": "Same pier/location materials. Night time. No people. Match sea to east and road to west according to specified camera direction. Space reserved for seated/standing/kneeling people is EMPTY. "
+    },
+    {
+      "id": "S03-CAM03",
+      "title": "防波堤｜沿湾远眺大厦",
+      "prompt": "A viewpoint from the end of the same concrete breakwater looking across the bay westward toward the city. 85mm distant framing, wet low concrete edge in the foreground, blue-black water and a distant skyline, one corporate tower far across the bay with faint red alarm reflections, a believable 15-kilometer distant scale. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S03-CAM03.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-d7a0324a-d94e-440a-b261-8853c4e87f28.png",
+      "reference_source_filenames": [
+        "exec-a742e363-33d9-4661-8725-831e70277f7e.png"
+      ],
+      "production_note": "Same pier/location materials. Night time. No people. Match sea to east and road to west according to specified camera direction. Space reserved for seated/standing/kneeling people is EMPTY. NEW WESTWARD VIEW ACROSS BAY, NOT the original northward view. Distant skyline and faraway faint red corporate tower."
+    },
+    {
+      "id": "S04-EMPTY-N",
+      "title": "大厦前场｜夜间空景",
+      "prompt": "A modern corporate tower forecourt, glass-and-metal main entrance to the west, city road to the east, flat stone pedestrian area between, low planters to the south, vehicle entrance to the north. Camera southeast looking northwest, clear main doors, damp stone reflecting cool white entrance lights, cyan interior reflections in the glass, empty road. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S04-EMPTY-N.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-596b90c2-5386-456e-a5cd-f497bf6d9306.png",
+      "reference_source_filenames": [],
+      "production_note": "MIDNIGHT exterior, black-blue sky, no sun or daytime lighting. Only practical entrance lights, city road lights, wet ground reflections. No people or vehicles."
+    },
+    {
+      "id": "S04-R",
+      "title": "大厦前场｜警报反射",
+      "prompt": "The same tower forecourt, western entrance, eastern road, southern planters and northern vehicle access unchanged. Crimson interior alarm reflections on the glass doors and wet stone, city road visible in the background, same southeast-to-northwest camera. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S04-R.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-301ad6bc-bd34-4f1a-b2ba-8df129b16527.png",
+      "reference_source_filenames": [
+        "exec-596b90c2-5386-456e-a5cd-f497bf6d9306.png"
+      ],
+      "production_note": "Same tower and entrance architectural continuity. No people or vehicles. At NIGHT, retain dark exterior sky."
+    },
+    {
+      "id": "S04-M",
+      "title": "大厦前场｜晨光尾声",
+      "prompt": "The same corporate tower entrance and pedestrian route after the rain. Early morning light from the east grazing the wet stone, the interior red alarm gone, space in the foreground for a man to walk away carrying fishing gear, quiet city waking in the background. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S04-M.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-f8fef788-d12c-4a60-98d7-3c7e37e79ce2.png",
+      "reference_source_filenames": [
+        "exec-596b90c2-5386-456e-a5cd-f497bf6d9306.png"
+      ],
+      "production_note": "Same tower and entrance architectural continuity. No people or vehicles. Early morning AFTER rain; realistic dawn sunlight."
+    },
+    {
+      "id": "S04-CAM01",
+      "title": "大厦前场｜离场归来",
+      "prompt": "The same forecourt, camera on the south side facing north and slightly west, 50mm medium framing. Main glass entrance in the rear left, clear walking route through the center, road and a reserved area for vehicle lights at rear right, damp stone and realistic glass reflections. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S04-CAM01.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-75758423-aedd-41ff-9680-b4c09b8f081b.png",
+      "reference_source_filenames": [
+        "exec-596b90c2-5386-456e-a5cd-f497bf6d9306.png"
+      ],
+      "production_note": "Same tower and entrance architectural continuity. No people or vehicles. At NIGHT, retain dark exterior sky."
+    },
+    {
+      "id": "S05-EMPTY-W",
+      "title": "防波堤停车带｜暴雨空景",
+      "prompt": "A parking strip on the road west of the old breakwater. Pedestrian access on the east leads onto the concrete pier, low harbor wall and road to the west. Camera southwest looking northeast, heavy rain at night, wet asphalt puddles, a distant low amber lantern toward the eastern pier, cool white road lights, a small distant glimpse of sea beyond the pier. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S05-EMPTY-W.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-c5620717-5aea-4490-94dc-2658ac0d62df.png",
+      "reference_source_filenames": [
+        "exec-a742e363-33d9-4661-8725-831e70277f7e.png"
+      ],
+      "production_note": "Reference is adjacent pier location only. Show the western parking strip from the NEW specified camera viewpoint. Empty parking area with NO vehicles, NO people. Heavy rain at NIGHT."
+    },
+    {
+      "id": "S05-CAM01",
+      "title": "停车带｜豪车长龙底板",
+      "prompt": "The same harbor parking strip and eastern pedestrian entrance, camera southeast facing northwest, low 35mm framing. Clear foreground positions for two black sedans parked at angles, road receding into the background with ample space for multiple layers of headlights, eastern pedestrian entrance remains clear. Heavy rain and strong reflections on wet asphalt, empty vehicle positions. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S05-CAM01.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-c78a3507-7810-460e-a40b-2f9c093dda3a.png",
+      "reference_source_filenames": [
+        "exec-c5620717-5aea-4490-94dc-2658ac0d62df.png"
+      ],
+      "production_note": "Same parking strip. NEW specified reverse viewpoint. No people, no cars: two foreground parking spaces and distant road are empty for compositing convoy."
+    },
+    {
+      "id": "S06-EMPTY-N",
+      "title": "总部会客室｜空景",
+      "prompt": "A modern corporate meeting room, soundproof door on the west leading to the monitoring hall, dark glass window on the north, black wood meeting table at the center, one charcoal leather chair north of the table, two matching chairs south, fixed metal decorative lines on the east wall. Camera southwest looking northeast, warm white business lighting, faint red alarm reflections at the north window, clear tabletop. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S06-EMPTY-N.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-19c4a4f7-5d8a-4cd0-8176-a30140d28e71.png",
+      "reference_source_filenames": [],
+      "production_note": "Interior at MIDNIGHT, north windows dark black-blue with faint red reflected alarm light, no daylight. Warm white business lighting inside."
+    },
+    {
+      "id": "S06-CAM01",
+      "title": "会客室｜裴元视频背景",
+      "prompt": "The same meeting room, camera south of the table looking north, 70mm chest-up composition plate with a clear central seated-character area, the same north window, east-wall metal lines and faint red reflection in the background. West door outside the left edge, warm white key light and subtle cool fill, clear tabletop. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S06-CAM01.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-105ef87c-3ce3-450c-9394-0dca89db2ace.png",
+      "reference_source_filenames": [
+        "exec-19c4a4f7-5d8a-4cd0-8176-a30140d28e71.png"
+      ],
+      "production_note": "Same meeting room furniture and architectural materials. No people. Outside windows it is NIGHT. Follow new camera direction exactly; do not invent a different room. "
+    },
+    {
+      "id": "S06-CAM02",
+      "title": "会客室｜裴元欲逃",
+      "prompt": "The same meeting room seen from the east looking west, 50mm medium framing, the west door half open in the center, a little emerald display reflection visible from the monitoring hall beyond. Clear foreground route for a man holding a phone, unchanged table, chairs and warm white room lighting. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/scenes/S06-CAM02.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-9370768e-a7ce-4173-8810-dc910765fa0e.png",
+      "reference_source_filenames": [
+        "exec-19c4a4f7-5d8a-4cd0-8176-a30140d28e71.png"
+      ],
+      "production_note": "Same meeting room furniture and architectural materials. No people. Outside windows it is NIGHT. Follow new camera direction exactly; do not invent a different room. Look WEST at the half-open door. Room's north window is now at image RIGHT."
+    },
+    {
+      "id": "FX01",
+      "title": "雨丝层",
+      "prompt": "Cold white fine rain streaks isolated on a pure black background, falling slightly diagonally from upper left to lower right, a few thicker near-camera streaks and finer distant streaks, moderate density, only the rain layer visible. Photorealistic cinematic compositing element.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/effects/FX01.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-25745011-641f-41b1-b3a1-765bccacda42.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "FX02",
+      "title": "车灯光晕",
+      "prompt": "Two soft cold-white headlight glows isolated against pure black in the lower half of the frame, moderate separation, natural edge falloff, faint horizontal flare, only the light layer visible. Photorealistic cinematic compositing element.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/effects/FX02.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-6d1b9501-0864-4c70-95f7-f2de371d0b0f.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "FX03",
+      "title": "警报红光",
+      "prompt": "Low-intensity dark crimson soft light isolated against pure black at the left and right edges, central region almost completely black, layered light falloff, only the light haze visible. Photorealistic cinematic compositing element.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/effects/FX03.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-69d97626-b182-46b5-abf7-d7416567442a.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "FX04",
+      "title": "海边薄雾",
+      "prompt": "A very thin horizontal band of cool gray sea mist isolated on pure black in the bottom third of the frame, natural fading edges, large clean black area above, only the mist visible. Photorealistic cinematic compositing element.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/effects/FX04.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-f8e7bbcb-5555-4bc2-ad37-0e86fb9819d9.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "FX05",
+      "title": "服务器火花",
+      "prompt": "A localized burst of orange-white electrical sparks isolated against pure black at the lower right, fine short sparks spreading outward with a trace of smoke, realistic photographic exposure, most of the frame black, only the sparks layer visible. Photorealistic cinematic compositing element.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/effects/FX05.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-043ef3de-5901-4efb-89c9-84decd68f7d1.png",
+      "reference_source_filenames": [],
+      "production_note": ""
+    },
+    {
+      "id": "FX06",
+      "title": "盲敲残影备选素材",
+      "prompt": "One pair of adult male hands above one charcoal 87-key mechanical keyboard with gray-white blank keycaps, charcoal hoodie sleeves pushed to mid-forearm, dark mechanical watch on the left wrist, subtle sideways photographic motion trails around the moving fingers, two clearly readable physical hands, the keyboard outline stable, center spacebar worn patch visible. Isolated against pure black, close-up practical effect photography. Photorealistic cinematic compositing element.",
+      "ar": "9:16",
+      "repository_path": "projects/断网之后/assets/effects/FX06.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-8db47d5c-c548-46d0-91b5-d29a4ec38602.png",
+      "reference_source_filenames": [
+        "exec-dfbd5b9e-ed08-4f60-85dd-753a9897c299.png",
+        "exec-f7dd3613-9339-4304-b475-bff03f0457fb.png"
+      ],
+      "production_note": "Only hands and keyboard on pure black. EXACTLY TWO physical hands. Restrained translucent finger motion trails, no extra solid hands. Preserve the old keyboard shape and charcoal sleeves, left wrist mechanical watch."
+    }
+  ]
+}
