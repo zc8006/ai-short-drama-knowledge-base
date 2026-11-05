@@ -2,8 +2,8 @@
   "project": "断网之后，全网跪求老架构师",
   "generator": "ChatGPT image generation",
   "generated_count": 114,
-  "uploaded_count": 70,
-  "pending_upload_count": 44,
+  "uploaded_count": 71,
+  "pending_upload_count": 43,
   "status": "partially_uploaded",
   "additional_approved_reference_status": "pending_upload",
   "items": [
@@ -1045,10 +1045,11 @@
       "ar": "1:1",
       "repository_path": "projects/断网之后/assets/props/D07.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
-      "generated_source_filename": "exec-21657467-2b08-4506-a810-8e2d43d94f15.png",
+      "github_status": "uploaded",
+      "generated_source_filename": "exec-08cbc971-78a2-4147-b464-65b2936b1721.png",
       "reference_source_filenames": [],
-      "production_note": ""
+      "production_note": "2026-11-05：原图未找回，按原设定重新生成；已检查黑色圆底、乳白圆柱灯罩、提手与暖光，待创作者验收。",
+      "git_blob_sha": "349ee10c09771e20e61e9de7d505bcb630f5d32a"
     },
     {
       "id": "D08-A",
