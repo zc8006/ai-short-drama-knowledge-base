@@ -2,9 +2,9 @@
   "project": "断网之后，全网跪求老架构师",
   "generator": "ChatGPT image generation",
   "generated_count": 114,
-  "uploaded_count": 72,
-  "pending_upload_count": 42,
-  "status": "partially_uploaded",
+  "uploaded_count": 114,
+  "pending_upload_count": 0,
+  "status": "uploaded",
   "additional_approved_reference_status": "pending_upload",
   "items": [
     {
@@ -1071,12 +1071,13 @@
       "ar": "1:1",
       "repository_path": "projects/断网之后/assets/props/D08-B.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-6591660e-147f-41e7-a3e3-8405b3b8800e.png",
       "reference_source_filenames": [
         "exec-c109d8e8-df3e-43d2-87e7-c465514fd91e.png"
       ],
-      "production_note": ""
+      "production_note": "",
+      "git_blob_sha": "406841f221a42b3a06139d3354cead80cfb8d0fd"
     },
     {
       "id": "D09-A",
@@ -1085,10 +1086,11 @@
       "ar": "9:16",
       "repository_path": "projects/断网之后/assets/props/D09-A.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-6440c9be-ecf0-4fea-b8bd-564f41d0ab1d.png",
       "reference_source_filenames": [],
-      "production_note": ""
+      "production_note": "",
+      "git_blob_sha": "022258645ecf5a43be3c98c015aedfb0174a19bb"
     },
     {
       "id": "D09-B",
@@ -1097,12 +1099,13 @@
       "ar": "9:16",
       "repository_path": "projects/断网之后/assets/props/D09-B.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-372bea6a-7425-4a0d-a772-06b6dde865f6.png",
       "reference_source_filenames": [
         "exec-6440c9be-ecf0-4fea-b8bd-564f41d0ab1d.png"
       ],
-      "production_note": ""
+      "production_note": "",
+      "git_blob_sha": "36fa4bb3c6a129c92d37964b958a7f6799ca7cab"
     },
     {
       "id": "D10-A",
@@ -1111,10 +1114,11 @@
       "ar": "16:9",
       "repository_path": "projects/断网之后/assets/props/D10-A.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-06e6e5d6-b33a-48bb-9730-cae1b88a33fe.png",
       "reference_source_filenames": [],
-      "production_note": ""
+      "production_note": "",
+      "git_blob_sha": "a9dd6e8899a313871bb00914cd9578a787ed63b5"
     },
     {
       "id": "D10-B",
@@ -1123,12 +1127,13 @@
       "ar": "16:9",
       "repository_path": "projects/断网之后/assets/props/D10-B.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-02dc03cb-8f7f-4e08-b890-e656b860cbc8.png",
       "reference_source_filenames": [
         "exec-06e6e5d6-b33a-48bb-9730-cae1b88a33fe.png"
       ],
-      "production_note": ""
+      "production_note": "",
+      "git_blob_sha": "59fec6b147eb858176a513dc4bcf0db528a8b434"
     },
     {
       "id": "D11-A",
@@ -1137,10 +1142,11 @@
       "ar": "16:9",
       "repository_path": "projects/断网之后/assets/props/D11-A.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-4b34df5f-4c0f-402d-9776-cd22d1eff740.png",
       "reference_source_filenames": [],
-      "production_note": ""
+      "production_note": "",
+      "git_blob_sha": "cb4904d03a6e2b1cab725a4e849ec8f1ef6b7937"
     },
     {
       "id": "D11-B",
@@ -1149,14 +1155,15 @@
       "ar": "16:9",
       "repository_path": "projects/断网之后/assets/props/D11-B.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-55a8f222-6625-435c-bb37-9e902054dc5b.png",
       "reference_source_filenames": [
         "exec-4b34df5f-4c0f-402d-9776-cd22d1eff740.png",
         "exec-f7dd3613-9339-4304-b475-bff03f0457fb.png",
         "exec-b3cf2876-93e4-4a2e-a0bf-65aa0534c5ef.png"
       ],
-      "production_note": "Use reference 1 for the fixed workstation shell and panel positions, reference 2 for the exact worn keyboard, reference 3 for the small titanium token. Open the existing lower-right front recovery cover and reveal a narrow token connector inside. Insert the small token into it, keep token at correct 32 mm scale. Place the same keyboard on top and connect its ONE rear-right cable to the desktop's right keyboard port. No extra keyboard or token."
+      "production_note": "Use reference 1 for the fixed workstation shell and panel positions, reference 2 for the exact worn keyboard, reference 3 for the small titanium token. Open the existing lower-right front recovery cover and reveal a narrow token connector inside. Insert the small token into it, keep token at correct 32 mm scale. Place the same keyboard on top and connect its ONE rear-right cable to the desktop's right keyboard port. No extra keyboard or token.",
+      "git_blob_sha": "ba04348f45158efb9d3d37317e480856a9b0e7e1"
     },
     {
       "id": "D11-C",
@@ -1165,12 +1172,13 @@
       "ar": "16:9",
       "repository_path": "projects/断网之后/assets/props/D11-C.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-18ce5a73-9913-4e6c-894f-d6ec023baa88.png",
       "reference_source_filenames": [
         "exec-55a8f222-6625-435c-bb37-9e902054dc5b.png"
       ],
-      "production_note": "Only change the attached workstation screen to blank low-intensity emerald green. Preserve every cable, keyboard, open door, inserted token, metal scratch and camera angle exactly. Empty set, no people."
+      "production_note": "Only change the attached workstation screen to blank low-intensity emerald green. Preserve every cable, keyboard, open door, inserted token, metal scratch and camera angle exactly. Empty set, no people.",
+      "git_blob_sha": "a63e56b601216027742fbab159a442e737ddd4ae"
     },
     {
       "id": "D12",
@@ -1179,12 +1187,13 @@
       "ar": "1:1",
       "repository_path": "projects/断网之后/assets/props/D12.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-e8e0816c-88a4-442c-9561-1d6907417934.png",
       "reference_source_filenames": [
         "exec-ea42082d-09ad-40ea-be79-63e08342a324.png"
       ],
-      "production_note": "Reference controls ONLY the small black rectangular smartwatch worn on the man's RIGHT wrist. Render the watch alone as a product photo, no person or wrist. Retain its black band, black rectangular metal face and blank unlit screen."
+      "production_note": "Reference controls ONLY the small black rectangular smartwatch worn on the man's RIGHT wrist. Render the watch alone as a product photo, no person or wrist. Retain its black band, black rectangular metal face and blank unlit screen.",
+      "git_blob_sha": "3298ef009b6d19fc6b75fc6c017ba73d6f219de1"
     },
     {
       "id": "D13-BACK",
@@ -1193,455 +1202,510 @@
       "ar": "1:1",
       "repository_path": "projects/断网之后/assets/props/D13-BACK.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-eec32808-ff6c-4b27-8624-27643958d0fa.png",
       "reference_source_filenames": [],
-      "production_note": ""
+      "production_note": "",
+      "git_blob_sha": "97c41145558e6d67cfea497e9f5c29abca8d4e71"
     },
     {
       "id": "D13-FRONT",
       "title": "裴元手机｜正面",
       "prompt": "One dark gray unbranded smartphone approximately 15 by 7 cm, rounded metal edges, single device seen from the front, blank black display, consistent edge thickness with the back-view prop. Photorealistic practical movie prop photography, soft studio lighting, seamless dark gray background, realistic material texture and subtle wear.",
       "ar": "1:1",
-      "repository_path": "projects/断网之后/assets/props/D13-FRONT.png",
+      "repository_path": "projects/断网之后/assets/props/D13-FRON.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-de10d321-7862-4520-8c27-ce316e98a401.png",
       "reference_source_filenames": [
         "exec-eec32808-ff6c-4b27-8624-27643958d0fa.png"
       ],
-      "production_note": ""
+      "production_note": "",
+      "git_blob_sha": "c3c38921050da95573826d00e7a05f4e283bf7c4"
     },
     {
       "id": "S01-EMPTY-N",
       "title": "总部监控大厅｜正常空景",
       "prompt": "A corporate monitoring hall 40 meters long, 25 meters wide and 12 meters high. Camera on the ground floor at the south looking north, one 22-meter-wide curved display fixed to the north wall, blank dark screen. Low operator desks along the east, an entrance on the west, the south-side second-floor executive gallery behind and above the camera, outside this view. Matte dark gray stone floor, metal beams, glass and tidy cable details, cool white ceiling lights and restrained cyan strips. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S01-EMPTY-N.png",
+      "repository_path": "projects/断网之后/assets/props/S01-EMPTY-N.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-a0a31cb7-b719-49e2-921c-7fe42f18c609.png",
       "reference_source_filenames": [
         "exec-b6e03732-3829-4ef8-be76-9197ffdfdd2e.png"
       ],
-      "production_note": "Lighting correction ONLY to the attached hall: the story is at MIDNIGHT. All exterior windows and entrance glazing show deep dark night, black-blue reflections and a few distant city lights, absolutely no daylight, sunlight, green foliage lit by sun or daytime sky. Preserve the hall geometry, curved blank dark screen, east desks, west entrance, floor and camera exactly. Interior cool white lighting remains active."
+      "production_note": "Lighting correction ONLY to the attached hall: the story is at MIDNIGHT. All exterior windows and entrance glazing show deep dark night, black-blue reflections and a few distant city lights, absolutely no daylight, sunlight, green foliage lit by sun or daytime sky. Preserve the hall geometry, curved blank dark screen, east desks, west entrance, floor and camera exactly. Interior cool white lighting remains active.",
+      "git_blob_sha": "0f35840e937b46dc347e330f2b4c9a3293bdbded"
     },
     {
       "id": "S01-R",
       "title": "总部监控大厅｜崩盘红屏",
       "prompt": "The same 40 by 25 by 12 meter corporate hall, south-to-north view, 22-meter curved screen on the north wall, operator desks east and entrance west. The giant display is solid alarm crimson, blank for compositing, red reflections across the floor and metal surfaces, some cool white fill light kept on, architecture intact. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S01-R.png",
+      "repository_path": "projects/断网之后/assets/props/S01-R.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-5aa52501-569a-452c-832d-233fbaddfb8e.png",
       "reference_source_filenames": [
         "exec-a0a31cb7-b719-49e2-921c-7fe42f18c609.png"
       ],
-      "production_note": "Use the reference as the same architecture. Night outside all glazing. No people. Preserve the hall's structural materials and scale; change camera viewpoint as specified rather than simply mirroring. "
+      "production_note": "Use the reference as the same architecture. Night outside all glazing. No people. Preserve the hall's structural materials and scale; change camera viewpoint as specified rather than simply mirroring. ",
+      "git_blob_sha": "893c4b8fb3b35068d7a4b5c5d6aaaefdd3fcdf90"
     },
     {
       "id": "S01-G",
       "title": "总部监控大厅｜恢复翠绿",
       "prompt": "The same corporate hall, south-to-north view, north-wall 22-meter curved display, east operator desks, west entrance. The curved display is bright blank emerald green, cool white working lights restored, restrained cyan edge lighting, unchanged floor reflections and architecture. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S01-G.png",
+      "repository_path": "projects/断网之后/assets/props/S01-G.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-91fc9a8f-8f4c-4ce2-b11e-82d5bc321f0e.png",
       "reference_source_filenames": [
         "exec-a0a31cb7-b719-49e2-921c-7fe42f18c609.png"
       ],
-      "production_note": "Use the reference as the same architecture. Night outside all glazing. No people. Preserve the hall's structural materials and scale; change camera viewpoint as specified rather than simply mirroring. "
+      "production_note": "Use the reference as the same architecture. Night outside all glazing. No people. Preserve the hall's structural materials and scale; change camera viewpoint as specified rather than simply mirroring. ",
+      "git_blob_sha": "eba0c328f5d8b66ba4520cbd63e9ee4cd88b251c"
     },
     {
       "id": "S01-CAM01",
       "title": "大厅｜踩工牌对峙底板",
       "prompt": "The same corporate hall. Camera in the southwest facing northeast, 35mm lens, slightly low medium-wide framing. Clear foreground floor for a confrontation and one badge landing spot, part of the north curved screen high in the background, operator desks to the rear right. Cool white key light and cyan edge reflections. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S01-CAM01.png",
+      "repository_path": "projects/断网之后/assets/props/S01-CAM01.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-0b4be7cd-e591-4c86-a7de-b0f375d86103.png",
       "reference_source_filenames": [
         "exec-a0a31cb7-b719-49e2-921c-7fe42f18c609.png"
       ],
-      "production_note": "Use the reference as the same architecture. Night outside all glazing. No people. Preserve the hall's structural materials and scale; change camera viewpoint as specified rather than simply mirroring. "
+      "production_note": "Use the reference as the same architecture. Night outside all glazing. No people. Preserve the hall's structural materials and scale; change camera viewpoint as specified rather than simply mirroring. ",
+      "git_blob_sha": "55a0a1fa723d92c5e3f684a43319e7efcb7a4542"
     },
     {
       "id": "S01-CAM02",
       "title": "大厅｜大屏铁证底板",
       "prompt": "The same corporate hall. Camera from the south looking north, 50mm lens, the north-wall 22-meter curved display filling the upper frame, empty lower third for later chest-up character placement. Operator desks stay east, blank low-intensity emerald screen, realistic screen reflections. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S01-CAM02.png",
+      "repository_path": "projects/断网之后/assets/props/S01-CAM02.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-befd9b91-639f-4f53-88b8-aa14c4a5e477.png",
       "reference_source_filenames": [
         "exec-a0a31cb7-b719-49e2-921c-7fe42f18c609.png"
       ],
-      "production_note": "Use the reference as the same architecture. Night outside all glazing. No people. Preserve the hall's structural materials and scale; change camera viewpoint as specified rather than simply mirroring. "
+      "production_note": "Use the reference as the same architecture. Night outside all glazing. No people. Preserve the hall's structural materials and scale; change camera viewpoint as specified rather than simply mirroring. ",
+      "git_blob_sha": "02c4a867a7c6719ef167eca3e412c721e24d74ce"
     },
     {
       "id": "S01-CAM03",
       "title": "大厅｜南二层总裁看台",
       "prompt": "The same corporate hall seen in reverse from the north ground floor facing south. 50mm lens, a glass-and-metal second-floor executive gallery in the upper middle, a staircase at the southwest connecting it to the ground floor, blurred operator desks in the foreground. The north screen stays behind the camera outside the frame, normal cyan and cool white working light. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S01-CAM03.png",
+      "repository_path": "projects/断网之后/assets/props/S01-CAM03.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-fbe17794-3d5d-4b51-8853-7be9e98a6e2a.png",
       "reference_source_filenames": [
         "exec-a0a31cb7-b719-49e2-921c-7fe42f18c609.png"
       ],
-      "production_note": "Use the reference as the same architecture. Night outside all glazing. No people. Preserve the hall's structural materials and scale; change camera viewpoint as specified rather than simply mirroring. REVERSE ANGLE: look south; the giant north display is BEHIND the camera and must NOT appear. Show the second-floor south executive gallery, southwest stair on screen right from this north-facing-south viewpoint."
+      "production_note": "Use the reference as the same architecture. Night outside all glazing. No people. Preserve the hall's structural materials and scale; change camera viewpoint as specified rather than simply mirroring. REVERSE ANGLE: look south; the giant north display is BEHIND the camera and must NOT appear. Show the second-floor south executive gallery, southwest stair on screen right from this north-facing-south viewpoint.",
+      "git_blob_sha": "ef5fa9b1d268496a8e9e61fee4f13ba2ea031750"
     },
     {
       "id": "S02-EMPTY-N",
       "title": "地下核心机房｜正常空景",
       "prompt": "An underground core server room 60 meters long, 15 meters wide and 6 meters high. Camera at the south entrance facing north, two symmetrical rows of black high-density liquid-cooled racks receding into depth. A physical control workstation centered in the aisle with its blank display facing south, recovery and wired keyboard ports on its right. Cool white inspection lights, dark gray antistatic floor tiles, a fixed storage drawer and coat hook on the west near the entrance. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S02-EMPTY-N.png",
+      "repository_path": "projects/断网之后/assets/props/S02-EMPTY-N.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-fa456df2-d7db-445f-bb4a-298685b9c327.png",
       "reference_source_filenames": [
         "exec-4b34df5f-4c0f-402d-9776-cd22d1eff740.png"
       ],
-      "production_note": "The attached image is ONLY the physical workstation design reference. Incorporate that exact workstation at realistic 140 cm width in the central aisle, screen facing camera south, storage drawer and coat hook west near entrance. Do not reproduce its studio backdrop. Underground night-time room, no windows or daylight, no people."
+      "production_note": "The attached image is ONLY the physical workstation design reference. Incorporate that exact workstation at realistic 140 cm width in the central aisle, screen facing camera south, storage drawer and coat hook west near entrance. Do not reproduce its studio backdrop. Underground night-time room, no windows or daylight, no people.",
+      "git_blob_sha": "0bc5a823f9ab31ccf3f9078f183c9687cdc59d61"
     },
     {
       "id": "S02-R",
       "title": "机房｜故障空景",
       "prompt": "The same core server room, symmetrical black liquid-cooled racks, centered physical workstation and south entrance unchanged. Local red alarm lights, cool white overhead inspection lights still illuminate the workstation, small red rack indicators, blank dark gray screen. Intact industrial location plate, effects added separately. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S02-R.png",
+      "repository_path": "projects/断网之后/assets/props/S02-R.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-5044c26a-05d2-445f-a910-81b0e097e6de.png",
       "reference_source_filenames": [
         "exec-fa456df2-d7db-445f-bb4a-298685b9c327.png",
         "exec-4b34df5f-4c0f-402d-9776-cd22d1eff740.png"
       ],
-      "production_note": "Same room, same workstation industrial design. Preserve main geometry; follow specified NEW camera position. No people, no keyboards or hands; clear tabletop for later props. If closeup, show fixed recovery slot on right. Never add sparks to the scene base."
+      "production_note": "Same room, same workstation industrial design. Preserve main geometry; follow specified NEW camera position. No people, no keyboards or hands; clear tabletop for later props. If closeup, show fixed recovery slot on right. Never add sparks to the scene base.",
+      "git_blob_sha": "95e4a70e431d12e690a1e283ad9e7f480102b3cc"
     },
     {
       "id": "S02-G",
       "title": "机房｜恢复空景",
       "prompt": "The same core server room, fixed racks, central workstation, south entrance and west storage drawer unchanged. Cool white lights restored, red indicators changed to cyan green, blank emerald workstation screen, consistent cables and industrial surfaces. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S02-G.png",
+      "repository_path": "projects/断网之后/assets/props/S02-G.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-ba4bdab2-54e8-43aa-a3b6-fc247fb46e26.png",
       "reference_source_filenames": [
         "exec-fa456df2-d7db-445f-bb4a-298685b9c327.png",
         "exec-4b34df5f-4c0f-402d-9776-cd22d1eff740.png"
       ],
-      "production_note": "Same room, same workstation industrial design. Preserve main geometry; follow specified NEW camera position. No people, no keyboards or hands; clear tabletop for later props. If closeup, show fixed recovery slot on right. Never add sparks to the scene base."
+      "production_note": "Same room, same workstation industrial design. Preserve main geometry; follow specified NEW camera position. No people, no keyboards or hands; clear tabletop for later props. If closeup, show fixed recovery slot on right. Never add sparks to the scene base.",
+      "git_blob_sha": "d4eabb25207fe3cc51534c5b1d566805ae5eca06"
     },
     {
       "id": "S02-CAM01",
       "title": "机房｜旧键盘操作底板",
       "prompt": "The same core server room and central workstation. Camera southeast of the desk looking northwest, 50mm lens, medium framing with the tabletop in the lower half, empty central space for the lead operator, right-side keyboard input and recovery slot visible, space at the rear left for a keyboard handoff. Cool white overhead light mixed with red alarm reflection, racks retain their depth. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S02-CAM01.png",
+      "repository_path": "projects/断网之后/assets/props/S02-CAM01.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-227be614-5a88-4634-a8d7-3fe18b501ec6.png",
       "reference_source_filenames": [
         "exec-fa456df2-d7db-445f-bb4a-298685b9c327.png",
         "exec-4b34df5f-4c0f-402d-9776-cd22d1eff740.png"
       ],
-      "production_note": "Same room, same workstation industrial design. Preserve main geometry; follow specified NEW camera position. No people, no keyboards or hands; clear tabletop for later props. If closeup, show fixed recovery slot on right. Never add sparks to the scene base."
+      "production_note": "Same room, same workstation industrial design. Preserve main geometry; follow specified NEW camera position. No people, no keyboards or hands; clear tabletop for later props. If closeup, show fixed recovery slot on right. Never add sparks to the scene base.",
+      "git_blob_sha": "cfdf2e4f27547a391a3bf35a2d9d0822f6d46f0d"
     },
     {
       "id": "S02-CAM02",
       "title": "机房｜键盘与密钥特写底板",
       "prompt": "The same black metal physical control workstation. Camera behind the future operator slightly to the east, 85mm close-up looking down. Tabletop fills the lower two thirds, clear space for an 87-key keyboard and two hands, fixed recovery slot on the right, empty area at the upper right for removed eyeglasses, blank black screen edge at the top. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S02-CAM02.png",
+      "repository_path": "projects/断网之后/assets/props/S02-CAM02.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-6f51ca6e-7642-4d09-8a6e-28b1c83d20b2.png",
       "reference_source_filenames": [
         "exec-fa456df2-d7db-445f-bb4a-298685b9c327.png",
         "exec-4b34df5f-4c0f-402d-9776-cd22d1eff740.png"
       ],
-      "production_note": "Same room, same workstation industrial design. Preserve main geometry; follow specified NEW camera position. No people, no keyboards or hands; clear tabletop for later props. If closeup, show fixed recovery slot on right. Never add sparks to the scene base."
+      "production_note": "Same room, same workstation industrial design. Preserve main geometry; follow specified NEW camera position. No people, no keyboards or hands; clear tabletop for later props. If closeup, show fixed recovery slot on right. Never add sparks to the scene base.",
+      "git_blob_sha": "6a1b0259a7cd56a6a588779c2f323a2251357caa"
     },
     {
       "id": "S03-EMPTY-D",
       "title": "海边防波堤｜夜钓空景",
       "prompt": "An old concrete breakwater in Jinhai, 100 meters long and 8 meters wide, extending north-south. Camera from the south facing north, deep navy sea and waves on the right to the east, access road on the left to the west. Damp cracked concrete, a low fishing stool and small portable folding table near the east edge, one amber camping lantern lighting the spot. Blue-black night, only the stool, table and lantern arranged at the fishing spot. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S03-EMPTY-D.png",
+      "repository_path": "projects/断网之后/assets/props/S03-EMPTY-D.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-a742e363-33d9-4661-8725-831e70277f7e.png",
       "reference_source_filenames": [
         "exec-21657467-2b08-4506-a810-8e2d43d94f15.png"
       ],
-      "production_note": "The attached lantern controls ONLY the exact camping light design at the fishing spot; do not reproduce the studio background. Outdoor deep-blue MIDNIGHT, warm amber lantern, exposed concrete pier, no daytime sky, no shelter."
+      "production_note": "The attached lantern controls ONLY the exact camping light design at the fishing spot; do not reproduce the studio background. Outdoor deep-blue MIDNIGHT, warm amber lantern, exposed concrete pier, no daytime sky, no shelter.",
+      "git_blob_sha": "ff3cb672223847f2aaebd0c7a7ee767b8adf6530"
     },
     {
       "id": "S03-W",
       "title": "防波堤｜暴雨空景",
       "prompt": "The same north-south concrete breakwater, eastern sea on the right, western road on the left, same low stool and portable table near the east. Heavy rain, a thin layer of puddles on the ground, pronounced waves, warm amber camping lantern and cold white headlights spilling from off-camera west, blue-black sea night, an exposed outdoor set. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S03-W.png",
+      "repository_path": "projects/断网之后/assets/props/S03-W.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-841643dd-1dcd-42f1-93e8-9a3c3ec1d46a.png",
       "reference_source_filenames": [
         "exec-a742e363-33d9-4661-8725-831e70277f7e.png"
       ],
-      "production_note": "Same pier/location materials. Night time. No people. Match sea to east and road to west according to specified camera direction. Space reserved for seated/standing/kneeling people is EMPTY. "
+      "production_note": "Same pier/location materials. Night time. No people. Match sea to east and road to west according to specified camera direction. Space reserved for seated/standing/kneeling people is EMPTY. ",
+      "git_blob_sha": "f4661d85b5ea45ec28fbcfe6e61c01f0f0a01292"
     },
     {
       "id": "S03-CAM01",
       "title": "防波堤｜求救对峙底板",
       "prompt": "The same breakwater, camera south of the fishing spot looking north, 50mm medium framing. Clear seated-character space at screen right on the eastern sea side, clear standing-character space at screen left on the western road side, room behind for two others. Sea to rear right, warm low lantern light at the fishing spot and cold headlight backlight from the west, heavy rain. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S03-CAM01.png",
+      "repository_path": "projects/断网之后/assets/props/S03-CAM01.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-b000897e-d4a8-4549-a22c-03faa7c14639.png",
       "reference_source_filenames": [
         "exec-a742e363-33d9-4661-8725-831e70277f7e.png"
       ],
-      "production_note": "Same pier/location materials. Night time. No people. Match sea to east and road to west according to specified camera direction. Space reserved for seated/standing/kneeling people is EMPTY. "
+      "production_note": "Same pier/location materials. Night time. No people. Match sea to east and road to west according to specified camera direction. Space reserved for seated/standing/kneeling people is EMPTY. ",
+      "git_blob_sha": "ae6d4ba1ffff049486a1f350c7021bde3f2444ca"
     },
     {
       "id": "S03-CAM02",
       "title": "防波堤｜跪递电脑底板",
       "prompt": "The same breakwater fishing spot, camera from the south looking north, 50mm slightly low framing. Clear foreground-left space for a kneeling figure holding a laptop, background-right space for a seated man, extra standing space at rear left. Small folding table nearby for signing, thin muddy water on the ground, sea at right and road at left, warm lantern versus cold rain-night backlight. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S03-CAM02.png",
+      "repository_path": "projects/断网之后/assets/props/S03-CAM02.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-950cd838-e9bc-40bf-a619-9e667c6c2124.png",
       "reference_source_filenames": [
         "exec-a742e363-33d9-4661-8725-831e70277f7e.png"
       ],
-      "production_note": "Same pier/location materials. Night time. No people. Match sea to east and road to west according to specified camera direction. Space reserved for seated/standing/kneeling people is EMPTY. "
+      "production_note": "Same pier/location materials. Night time. No people. Match sea to east and road to west according to specified camera direction. Space reserved for seated/standing/kneeling people is EMPTY. ",
+      "git_blob_sha": "9114b2b9e2414f246b284d0909ffa9583b14e6e1"
     },
     {
       "id": "S03-CAM03",
       "title": "防波堤｜沿湾远眺大厦",
       "prompt": "A viewpoint from the end of the same concrete breakwater looking across the bay westward toward the city. 85mm distant framing, wet low concrete edge in the foreground, blue-black water and a distant skyline, one corporate tower far across the bay with faint red alarm reflections, a believable 15-kilometer distant scale. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S03-CAM03.png",
+      "repository_path": "projects/断网之后/assets/props/S03-CAM03.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-d7a0324a-d94e-440a-b261-8853c4e87f28.png",
       "reference_source_filenames": [
         "exec-a742e363-33d9-4661-8725-831e70277f7e.png"
       ],
-      "production_note": "Same pier/location materials. Night time. No people. Match sea to east and road to west according to specified camera direction. Space reserved for seated/standing/kneeling people is EMPTY. NEW WESTWARD VIEW ACROSS BAY, NOT the original northward view. Distant skyline and faraway faint red corporate tower."
+      "production_note": "Same pier/location materials. Night time. No people. Match sea to east and road to west according to specified camera direction. Space reserved for seated/standing/kneeling people is EMPTY. NEW WESTWARD VIEW ACROSS BAY, NOT the original northward view. Distant skyline and faraway faint red corporate tower.",
+      "git_blob_sha": "f00ce326546f9d229992e894e24a9850befcf996"
     },
     {
       "id": "S04-EMPTY-N",
       "title": "大厦前场｜夜间空景",
       "prompt": "A modern corporate tower forecourt, glass-and-metal main entrance to the west, city road to the east, flat stone pedestrian area between, low planters to the south, vehicle entrance to the north. Camera southeast looking northwest, clear main doors, damp stone reflecting cool white entrance lights, cyan interior reflections in the glass, empty road. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S04-EMPTY-N.png",
+      "repository_path": "projects/断网之后/assets/props/S04-EMPTY-N.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-596b90c2-5386-456e-a5cd-f497bf6d9306.png",
       "reference_source_filenames": [],
-      "production_note": "MIDNIGHT exterior, black-blue sky, no sun or daytime lighting. Only practical entrance lights, city road lights, wet ground reflections. No people or vehicles."
+      "production_note": "MIDNIGHT exterior, black-blue sky, no sun or daytime lighting. Only practical entrance lights, city road lights, wet ground reflections. No people or vehicles.",
+      "git_blob_sha": "7fe8060950cb5ce89e42958c1d21952bf5626449"
     },
     {
       "id": "S04-R",
       "title": "大厦前场｜警报反射",
       "prompt": "The same tower forecourt, western entrance, eastern road, southern planters and northern vehicle access unchanged. Crimson interior alarm reflections on the glass doors and wet stone, city road visible in the background, same southeast-to-northwest camera. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S04-R.png",
+      "repository_path": "projects/断网之后/assets/props/S04-R.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-301ad6bc-bd34-4f1a-b2ba-8df129b16527.png",
       "reference_source_filenames": [
         "exec-596b90c2-5386-456e-a5cd-f497bf6d9306.png"
       ],
-      "production_note": "Same tower and entrance architectural continuity. No people or vehicles. At NIGHT, retain dark exterior sky."
+      "production_note": "Same tower and entrance architectural continuity. No people or vehicles. At NIGHT, retain dark exterior sky.",
+      "git_blob_sha": "5578bc408ff85da1e6863eb691c3967c37984cda"
     },
     {
       "id": "S04-M",
       "title": "大厦前场｜晨光尾声",
       "prompt": "The same corporate tower entrance and pedestrian route after the rain. Early morning light from the east grazing the wet stone, the interior red alarm gone, space in the foreground for a man to walk away carrying fishing gear, quiet city waking in the background. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S04-M.png",
+      "repository_path": "projects/断网之后/assets/props/S04-M.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-f8fef788-d12c-4a60-98d7-3c7e37e79ce2.png",
       "reference_source_filenames": [
         "exec-596b90c2-5386-456e-a5cd-f497bf6d9306.png"
       ],
-      "production_note": "Same tower and entrance architectural continuity. No people or vehicles. Early morning AFTER rain; realistic dawn sunlight."
+      "production_note": "Same tower and entrance architectural continuity. No people or vehicles. Early morning AFTER rain; realistic dawn sunlight.",
+      "git_blob_sha": "b7a6caa83e0bb7eddaa169d06fa195e9566099a7"
     },
     {
       "id": "S04-CAM01",
       "title": "大厦前场｜离场归来",
       "prompt": "The same forecourt, camera on the south side facing north and slightly west, 50mm medium framing. Main glass entrance in the rear left, clear walking route through the center, road and a reserved area for vehicle lights at rear right, damp stone and realistic glass reflections. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S04-CAM01.png",
+      "repository_path": "projects/断网之后/assets/props/S04-CAM01.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-75758423-aedd-41ff-9680-b4c09b8f081b.png",
       "reference_source_filenames": [
         "exec-596b90c2-5386-456e-a5cd-f497bf6d9306.png"
       ],
-      "production_note": "Same tower and entrance architectural continuity. No people or vehicles. At NIGHT, retain dark exterior sky."
+      "production_note": "Same tower and entrance architectural continuity. No people or vehicles. At NIGHT, retain dark exterior sky.",
+      "git_blob_sha": "b476378ededb998e59a8302d1f798bb95cc7244a"
     },
     {
       "id": "S05-EMPTY-W",
       "title": "防波堤停车带｜暴雨空景",
       "prompt": "A parking strip on the road west of the old breakwater. Pedestrian access on the east leads onto the concrete pier, low harbor wall and road to the west. Camera southwest looking northeast, heavy rain at night, wet asphalt puddles, a distant low amber lantern toward the eastern pier, cool white road lights, a small distant glimpse of sea beyond the pier. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S05-EMPTY-W.png",
+      "repository_path": "projects/断网之后/assets/props/S05-EMPTY-W.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-c5620717-5aea-4490-94dc-2658ac0d62df.png",
       "reference_source_filenames": [
         "exec-a742e363-33d9-4661-8725-831e70277f7e.png"
       ],
-      "production_note": "Reference is adjacent pier location only. Show the western parking strip from the NEW specified camera viewpoint. Empty parking area with NO vehicles, NO people. Heavy rain at NIGHT."
+      "production_note": "Reference is adjacent pier location only. Show the western parking strip from the NEW specified camera viewpoint. Empty parking area with NO vehicles, NO people. Heavy rain at NIGHT.",
+      "git_blob_sha": "3ad50f1f0f18a9f53b67af61e1cf02d86d35e2b4"
     },
     {
       "id": "S05-CAM01",
       "title": "停车带｜豪车长龙底板",
       "prompt": "The same harbor parking strip and eastern pedestrian entrance, camera southeast facing northwest, low 35mm framing. Clear foreground positions for two black sedans parked at angles, road receding into the background with ample space for multiple layers of headlights, eastern pedestrian entrance remains clear. Heavy rain and strong reflections on wet asphalt, empty vehicle positions. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S05-CAM01.png",
+      "repository_path": "projects/断网之后/assets/props/S05-CAM01.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-c78a3507-7810-460e-a40b-2f9c093dda3a.png",
       "reference_source_filenames": [
         "exec-c5620717-5aea-4490-94dc-2658ac0d62df.png"
       ],
-      "production_note": "Same parking strip. NEW specified reverse viewpoint. No people, no cars: two foreground parking spaces and distant road are empty for compositing convoy."
+      "production_note": "Same parking strip. NEW specified reverse viewpoint. No people, no cars: two foreground parking spaces and distant road are empty for compositing convoy.",
+      "git_blob_sha": "487128b94dfea1c045fdfc9563509ba178eb720c"
     },
     {
       "id": "S06-EMPTY-N",
       "title": "总部会客室｜空景",
       "prompt": "A modern corporate meeting room, soundproof door on the west leading to the monitoring hall, dark glass window on the north, black wood meeting table at the center, one charcoal leather chair north of the table, two matching chairs south, fixed metal decorative lines on the east wall. Camera southwest looking northeast, warm white business lighting, faint red alarm reflections at the north window, clear tabletop. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S06-EMPTY-N.png",
+      "repository_path": "projects/断网之后/assets/props/S06-EMPTY-N.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-19c4a4f7-5d8a-4cd0-8176-a30140d28e71.png",
       "reference_source_filenames": [],
-      "production_note": "Interior at MIDNIGHT, north windows dark black-blue with faint red reflected alarm light, no daylight. Warm white business lighting inside."
+      "production_note": "Interior at MIDNIGHT, north windows dark black-blue with faint red reflected alarm light, no daylight. Warm white business lighting inside.",
+      "git_blob_sha": "a76386f03b8ad5042e6bcaac1873a24ed812fba6"
     },
     {
       "id": "S06-CAM01",
       "title": "会客室｜裴元视频背景",
       "prompt": "The same meeting room, camera south of the table looking north, 70mm chest-up composition plate with a clear central seated-character area, the same north window, east-wall metal lines and faint red reflection in the background. West door outside the left edge, warm white key light and subtle cool fill, clear tabletop. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S06-CAM01.png",
+      "repository_path": "projects/断网之后/assets/props/S06-CAM01.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-105ef87c-3ce3-450c-9394-0dca89db2ace.png",
       "reference_source_filenames": [
         "exec-19c4a4f7-5d8a-4cd0-8176-a30140d28e71.png"
       ],
-      "production_note": "Same meeting room furniture and architectural materials. No people. Outside windows it is NIGHT. Follow new camera direction exactly; do not invent a different room. "
+      "production_note": "Same meeting room furniture and architectural materials. No people. Outside windows it is NIGHT. Follow new camera direction exactly; do not invent a different room. ",
+      "git_blob_sha": "1fd0a34ce8f264dd8b1fa6dbc450b30c5c8f8f55"
     },
     {
       "id": "S06-CAM02",
       "title": "会客室｜裴元欲逃",
       "prompt": "The same meeting room seen from the east looking west, 50mm medium framing, the west door half open in the center, a little emerald display reflection visible from the monitoring hall beyond. Clear foreground route for a man holding a phone, unchanged table, chairs and warm white room lighting. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/scenes/S06-CAM02.png",
+      "repository_path": "projects/断网之后/assets/props/S06-CAM02.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-9370768e-a7ce-4173-8810-dc910765fa0e.png",
       "reference_source_filenames": [
         "exec-19c4a4f7-5d8a-4cd0-8176-a30140d28e71.png"
       ],
-      "production_note": "Same meeting room furniture and architectural materials. No people. Outside windows it is NIGHT. Follow new camera direction exactly; do not invent a different room. Look WEST at the half-open door. Room's north window is now at image RIGHT."
+      "production_note": "Same meeting room furniture and architectural materials. No people. Outside windows it is NIGHT. Follow new camera direction exactly; do not invent a different room. Look WEST at the half-open door. Room's north window is now at image RIGHT.",
+      "git_blob_sha": "46b9a7dd81d1052430d449e45d3d88fc1c7d2c2f"
     },
     {
       "id": "FX01",
       "title": "雨丝层",
       "prompt": "Cold white fine rain streaks isolated on a pure black background, falling slightly diagonally from upper left to lower right, a few thicker near-camera streaks and finer distant streaks, moderate density, only the rain layer visible. Photorealistic cinematic compositing element.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/effects/FX01.png",
+      "repository_path": "projects/断网之后/assets/props/FX01.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-25745011-641f-41b1-b3a1-765bccacda42.png",
       "reference_source_filenames": [],
-      "production_note": ""
+      "production_note": "",
+      "git_blob_sha": "904d1754795f9dff2f7a47d3b83185077f8782f0"
     },
     {
       "id": "FX02",
       "title": "车灯光晕",
       "prompt": "Two soft cold-white headlight glows isolated against pure black in the lower half of the frame, moderate separation, natural edge falloff, faint horizontal flare, only the light layer visible. Photorealistic cinematic compositing element.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/effects/FX02.png",
+      "repository_path": "projects/断网之后/assets/props/FX02.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-6d1b9501-0864-4c70-95f7-f2de371d0b0f.png",
       "reference_source_filenames": [],
-      "production_note": ""
+      "production_note": "",
+      "git_blob_sha": "de6d6c7fdaf5f9792dd6608866eec5ebbd4a8e26"
     },
     {
       "id": "FX03",
       "title": "警报红光",
       "prompt": "Low-intensity dark crimson soft light isolated against pure black at the left and right edges, central region almost completely black, layered light falloff, only the light haze visible. Photorealistic cinematic compositing element.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/effects/FX03.png",
+      "repository_path": "projects/断网之后/assets/props/FX03.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-69d97626-b182-46b5-abf7-d7416567442a.png",
       "reference_source_filenames": [],
-      "production_note": ""
+      "production_note": "",
+      "git_blob_sha": "a8d377aad5c9f4565f0a69a0e3fc582bafb866b7"
     },
     {
       "id": "FX04",
       "title": "海边薄雾",
       "prompt": "A very thin horizontal band of cool gray sea mist isolated on pure black in the bottom third of the frame, natural fading edges, large clean black area above, only the mist visible. Photorealistic cinematic compositing element.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/effects/FX04.png",
+      "repository_path": "projects/断网之后/assets/props/FX04.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-f8e7bbcb-5555-4bc2-ad37-0e86fb9819d9.png",
       "reference_source_filenames": [],
-      "production_note": ""
+      "production_note": "",
+      "git_blob_sha": "724b99190569499b512b7b7611ec653bea356607"
     },
     {
       "id": "FX05",
       "title": "服务器火花",
       "prompt": "A localized burst of orange-white electrical sparks isolated against pure black at the lower right, fine short sparks spreading outward with a trace of smoke, realistic photographic exposure, most of the frame black, only the sparks layer visible. Photorealistic cinematic compositing element.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/effects/FX05.png",
+      "repository_path": "projects/断网之后/assets/props/FX05.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-043ef3de-5901-4efb-89c9-84decd68f7d1.png",
       "reference_source_filenames": [],
-      "production_note": ""
+      "production_note": "",
+      "git_blob_sha": "3891c3a7bc0c90d4b8ec2a43dbd655d4a3c861e2"
     },
     {
       "id": "FX06",
       "title": "盲敲残影备选素材",
       "prompt": "One pair of adult male hands above one charcoal 87-key mechanical keyboard with gray-white blank keycaps, charcoal hoodie sleeves pushed to mid-forearm, dark mechanical watch on the left wrist, subtle sideways photographic motion trails around the moving fingers, two clearly readable physical hands, the keyboard outline stable, center spacebar worn patch visible. Isolated against pure black, close-up practical effect photography. Photorealistic cinematic compositing element.",
       "ar": "9:16",
-      "repository_path": "projects/断网之后/assets/effects/FX06.png",
+      "repository_path": "projects/断网之后/assets/props/FX06.png",
       "generation_status": "generated",
-      "github_status": "pending_upload",
+      "github_status": "uploaded",
       "generated_source_filename": "exec-8db47d5c-c548-46d0-91b5-d29a4ec38602.png",
       "reference_source_filenames": [
         "exec-dfbd5b9e-ed08-4f60-85dd-753a9897c299.png",
         "exec-f7dd3613-9339-4304-b475-bff03f0457fb.png"
       ],
-      "production_note": "Only hands and keyboard on pure black. EXACTLY TWO physical hands. Restrained translucent finger motion trails, no extra solid hands. Preserve the old keyboard shape and charcoal sleeves, left wrist mechanical watch."
+      "production_note": "Only hands and keyboard on pure black. EXACTLY TWO physical hands. Restrained translucent finger motion trails, no extra solid hands. Preserve the old keyboard shape and charcoal sleeves, left wrist mechanical watch.",
+      "git_blob_sha": "dbf418fd75c861369b7c67a8579c959102b96b5c"
     }
   ],
   "resume": {
-    "last_completed": "D08-A",
-    "next_item": "D08-B",
-    "next_title": "协议文件夹｜签署后底板",
-    "batch_check": "每完成5项核对GitHub文件、状态与数量；每项上传后立即更新索引。"
-  }
+    "last_completed": "FX06",
+    "next_item": null,
+    "next_title": null
+  },
+  "additional_assets": [
+    {
+      "id": "S03-CAM01-ALT-DRY",
+      "title": "防波堤｜无雨对峙底板",
+      "repository_path": "projects/断网之后/assets/props/S03-CAM01-ALT-DRY.png",
+      "github_status": "uploaded",
+      "git_blob_sha": "09d57fa520375f8f2d3b1d34e57d0ad8d22e9c30"
+    },
+    {
+      "id": "S04-CAM01-ALT-M",
+      "title": "大厦前场｜晨光离场机位",
+      "repository_path": "projects/断网之后/assets/props/S04-CAM01-ALT-M.png",
+      "github_status": "uploaded",
+      "git_blob_sha": "db47ab2518f07b3d9a92f97241f47bbcaa56bf9b"
+    },
+    {
+      "id": "S06-CAM01-ALT-N",
+      "title": "会客室｜无警报视频背景",
+      "repository_path": "projects/断网之后/assets/props/S06-CAM01-ALT-N.png",
+      "github_status": "uploaded",
+      "git_blob_sha": "32b5530951fad603b32a1a5e1679ee8858db985a"
+    }
+  ]
 }
