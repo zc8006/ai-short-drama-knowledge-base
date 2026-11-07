@@ -31,10 +31,10 @@
 
 ### 本次补充状态图
 
-- 北侧看台正常态 [EP01-GALLERY-FIX](EP01-GALLERY-FIX.png)，警报态 [EP01-GALLERY-RED-FIX](EP01-GALLERY-RED-FIX.png)。
-- 电梯朝轿厢 [开门](EP01-ELEVATOR-FIX.png) 与 [闭门](EP01-ELEVATOR-CLOSED-FIX.png)。
-- 工牌裂壳露芯 [EP01-BADGE-BROKEN](EP01-BADGE-BROKEN.png)，第01镜尾和第04镜首沿用同一状态。
-- 接管键闭罩 [EP01-CONTROLS-CLOSED](EP01-CONTROLS-CLOSED.png)，开启后参考 EP01-S01-CONTROLS。
+- 北侧看台正常态 [EP01-GALLERY-FIX](../assets/props/EP01-GALLERY-FIX.png)，警报态 [EP01-GALLERY-RED-FIX](../assets/props/EP01-GALLERY-RED-FIX.png)。
+- 电梯朝轿厢 [开门](../assets/props/EP01-ELEVATOR-FIX.png) 与 [闭门](../assets/props/EP01-ELEVATOR-CLOSED-FIX.png)。
+- 工牌裂壳露芯 [EP01-BADGE-BROKEN](../assets/props/EP01-BADGE-BROKEN.png)，第01镜尾和第04镜首沿用同一状态。
+- 接管键闭罩 [EP01-CONTROLS-CLOSED](../assets/props/EP01-CONTROLS-CLOSED.png)，开启后参考 EP01-S01-CONTROLS。
 
 本包采用修订稿的 **16:9 横屏**。工牌字样、巨幕数字和手机界面留给后期。G 段的 0.6 秒挂断镜和 1.4 秒夺机镜按成片取用长度标注，生成素材可留动作前后余量。F、G 段包含大厅与雨夜外景，按各镜标注锁定地点。
 

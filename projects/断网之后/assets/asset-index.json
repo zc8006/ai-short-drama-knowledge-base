@@ -1901,6 +1901,54 @@
       "generated_source_filename": "exec-8427df80-99d6-44d1-9914-4f29c54a38fb.png",
       "local_git_blob_sha": "47ba3f1b8a4f45765e8f0febbde456b3309ef768",
       "production_note": "本轮在本地生成或替换，PNG严格解码通过，待镜头试用。"
+    },
+    {
+      "id": "EP01-BADGE-BROKEN",
+      "title": "工牌｜裂壳露内芯",
+      "repository_path": "projects/断网之后/assets/props/EP01-BADGE-BROKEN.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "production_note": "首集连续性修订参考图。"
+    },
+    {
+      "id": "EP01-CONTROLS-CLOSED",
+      "title": "主控台｜接管键闭罩",
+      "repository_path": "projects/断网之后/assets/props/EP01-CONTROLS-CLOSED.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "production_note": "首集连续性修订参考图。"
+    },
+    {
+      "id": "EP01-ELEVATOR-CLOSED-FIX",
+      "title": "大厅朝轿厢｜电梯闭门",
+      "repository_path": "projects/断网之后/assets/props/EP01-ELEVATOR-CLOSED-FIX.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "production_note": "首集连续性修订参考图。"
+    },
+    {
+      "id": "EP01-ELEVATOR-FIX",
+      "title": "大厅朝轿厢｜电梯开门",
+      "repository_path": "projects/断网之后/assets/props/EP01-ELEVATOR-FIX.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "production_note": "首集连续性修订参考图。"
+    },
+    {
+      "id": "EP01-GALLERY-FIX",
+      "title": "北侧看台｜正常态",
+      "repository_path": "projects/断网之后/assets/props/EP01-GALLERY-FIX.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "production_note": "首集连续性修订参考图。"
+    },
+    {
+      "id": "EP01-GALLERY-RED-FIX",
+      "title": "北侧看台｜警报态",
+      "repository_path": "projects/断网之后/assets/props/EP01-GALLERY-RED-FIX.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "production_note": "首集连续性修订参考图。"
     }
   ]
 }

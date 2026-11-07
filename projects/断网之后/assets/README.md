@@ -228,3 +228,12 @@
 | EP01-S01-MASTER | [总部大厅｜首集横屏主卡](props/EP01-S01-MASTER.png) |
 | EP01-BAG-OPEN | [运维包｜台面敞开](props/EP01-BAG-OPEN.png) |
 | EP01-S01-ELEVATOR-CLOSED | [大厅南侧｜电梯闭门](props/EP01-S01-ELEVATOR-CLOSED.png) |
+
+### 首集连续性修订参考图
+
+- [工牌｜裂壳露内芯](props/EP01-BADGE-BROKEN.png)
+- [主控台｜接管键闭罩](props/EP01-CONTROLS-CLOSED.png)
+- [大厅朝轿厢｜电梯闭门](props/EP01-ELEVATOR-CLOSED-FIX.png)
+- [大厅朝轿厢｜电梯开门](props/EP01-ELEVATOR-FIX.png)
+- [北侧看台｜正常态](props/EP01-GALLERY-FIX.png)
+- [北侧看台｜警报态](props/EP01-GALLERY-RED-FIX.png)
