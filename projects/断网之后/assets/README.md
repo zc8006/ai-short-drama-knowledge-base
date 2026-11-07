@@ -2,7 +2,7 @@
 
 《断网之后，全网跪求老架构师》｜AI仿真人影视风。
 
-**生图与 GitHub 上传：正式资产 114/114 项已完成，另有 3 张备选图。** 周衍已认可的初版为独立参考，尚待上传。
+**正式资产 114 项，另有 3 张备选图和本轮首集新增资产。** GitHub 留存上一版，本轮替换与新增图已存本地。 周衍已认可的初版为独立参考，尚待上传。
 
 六位主要人物均有正面、左侧面、背面三视图；人物表情、造型状态和群演图全部已上传。
 
@@ -10,7 +10,7 @@
 
 三视图用于外形参考；后续镜头使用对应单人造型和表情。工牌编号、倒计时、代码、合同与证据UI留待后期叠加。FX为黑底合成备选素材；最终镜头需复核手部、键位、接口和手表细节。
 
-2026-11-05：D05-B、D06-A、D06-B 与 D08-A 使用补做版本，已上传，待逐图验收。
+本轮已替换损坏的 D05-B、D06-A、D06-B，三张新图严格解码通过。S01-CAM01 和 S01-CAM03 已替换为首集横屏底板，采用外露梁架，北侧看台连接东侧楼梯。D08-A 解码通过。
 
 ## 六位主角三视图
 
@@ -197,6 +197,34 @@
 | S04-CAM01-ALT-M | 大厦前场｜晨光离场机位 | [预览](props/S04-CAM01-ALT-M.png) |
 | S06-CAM01-ALT-N | 会客室｜无警报视频背景 | [预览](props/S06-CAM01-ALT-N.png) |
 
+首集绑定与补做规格见 [全季资产库](../02-全季资产库.md#首集表演修订稿资产绑定)。
+
 手机正面编号为 `D13-FRONT`，仓库现有文件名为 `D13-FRON.png`。场景与特效图片目前也位于 `props/`。
 
 完整进度与恢复索引：[asset-index.json](asset-index.json)。
+
+
+## 首集表演修订稿新增图片
+
+| 编号 | 内容 |
+|---|---|
+| P04-EP01 | [唐小川｜首集卫衣与运维包](characters/P04-EP01.png) |
+| EP01-BOX | [搬家纸箱](props/EP01-BOX.png) |
+| EP01-BAG-CLOSED | [运维包｜闭合](props/EP01-BAG-CLOSED.png) |
+| EP01-CONTRACT | [裁员合同｜无字纸张](props/EP01-CONTRACT.png) |
+| EP01-GUARD-A | [保安甲](characters/EP01-GUARD-A.png) |
+| EP01-GUARD-B | [保安乙](characters/EP01-GUARD-B.png) |
+| EP01-PHONE-P01 | [周衍手机｜带壳](props/EP01-PHONE-P01.png) |
+| EP01-PHONE-P02 | [贺凯手机｜裸机](props/EP01-PHONE-P02.png) |
+| EP01-S01-ELEVATOR | [大厅南侧｜电梯开门](props/EP01-S01-ELEVATOR.png) |
+| EP01-S04-R | [总部前场｜雨棚至街角](props/EP01-S04-R.png) |
+| EP01-S01-CONTROLS | [主控台｜接管键与中止键](props/EP01-S01-CONTROLS.png) |
+| EP01-S01-ROLLBACK | [西侧副控台｜回滚确认键](props/EP01-S01-ROLLBACK.png) |
+| EP01-S01-RED | [总部大厅｜首集横屏警报](props/EP01-S01-RED.png) |
+| EP01-S01-GALLERY-RED | [北侧二楼看台｜红色警报](props/EP01-S01-GALLERY-RED.png) |
+| P03-EP01 | [秦岚｜首集盘发与白西装](characters/P03-EP01.png) |
+| P01-EP01-RAIN | [周衍｜雨夜下摆局部湿态](characters/P01-EP01-RAIN.png) |
+| P02-EP01-REACTION | [贺凯｜零点故障克制反应](characters/P02-EP01-REACTION.png) |
+| EP01-S01-MASTER | [总部大厅｜首集横屏主卡](props/EP01-S01-MASTER.png) |
+| EP01-BAG-OPEN | [运维包｜台面敞开](props/EP01-BAG-OPEN.png) |
+| EP01-S01-ELEVATOR-CLOSED | [大厅南侧｜电梯闭门](props/EP01-S01-ELEVATOR-CLOSED.png) |

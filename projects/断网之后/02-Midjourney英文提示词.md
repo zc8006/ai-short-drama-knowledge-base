@@ -132,7 +132,7 @@
 | IMG-S01-G | 总部监控大厅｜恢复翠绿 |
 | IMG-S01-CAM01 | 大厅｜踩工牌对峙底板 |
 | IMG-S01-CAM02 | 大厅｜大屏铁证底板 |
-| IMG-S01-CAM03 | 大厅｜南二层总裁看台 |
+| IMG-S01-CAM03 | 大厅｜北侧二层总裁看台 |
 | IMG-S02-EMPTY-N | 地下核心机房｜正常空景 |
 | IMG-S02-R | 机房｜故障空景 |
 | IMG-S02-G | 机房｜恢复空景 |
@@ -1113,13 +1113,13 @@
 
 ## IMG-S01-EMPTY-N · 总部监控大厅｜正常空景
 
-- 参考：无外部参考
+- 参考：现有 S01-EMPTY-N，仅限梁架、灯具与地面材质
 
 用途／集数：E01–03、06主场景
 
 ### 可复制提示词
 
-> A corporate monitoring hall 40 meters long, 25 meters wide and 12 meters high. Camera on the ground floor at the south looking north, one 22-meter-wide curved display fixed to the north wall, blank dark screen. Low operator desks along the east, an entrance on the west, the south-side second-floor executive gallery behind and above the camera, outside this view. Matte dark gray stone floor, metal beams, glass and tidy cable details, cool white ceiling lights and restrained cyan strips. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set. --ar 9:16 --raw --s 50 --v 8.2 --no text logos watermarks anime cartoon illustration CGI people
+> A corporate monitoring hall 40 meters long, 25 meters wide and 12 meters high. South ground floor view looking north. Blank 22-meter curved display on the north wall, central master console, secondary console to the west, elevator and worktable to the south, north upper gallery connected by an east staircase. Exposed dark structural beams, cool white fixtures, restrained cyan strips, matte gray flooring and glass. Photorealistic empty live-action film set, no people. --ar 16:9 --raw --s 50 --v 8.2 --no text logos watermarks anime cartoon illustration CGI people
 
 ## IMG-S01-R · 总部监控大厅｜崩盘红屏
 
@@ -1143,19 +1143,19 @@
 
 ### 可复制提示词
 
-> The same corporate hall, south-to-north view, north-wall 22-meter curved display, east operator desks, west entrance. The curved display is bright blank emerald green, cool white working lights restored, restrained cyan edge lighting, unchanged floor reflections and architecture. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set. --ar 9:16 --raw --s 50 --v 8.2 --no text logos watermarks anime cartoon illustration CGI people
+> The same corporate hall, south-to-north view, north-wall 22-meter curved display, central master console, western secondary console, east staircase. The curved display is bright blank emerald green, cool white working lights restored, restrained cyan edge lighting, unchanged floor reflections and architecture. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set. --ar 9:16 --raw --s 50 --v 8.2 --no text logos watermarks anime cartoon illustration CGI people
 
 ## IMG-S01-CAM01 · 大厅｜踩工牌对峙底板
 
-- 参考：无外部参考
+- 参考：按新版布局定稿的 S01-EMPTY-N
 
 用途／集数：E01羞辱
 
-使用前：附上同一场景已选空景图，保持结构；反向机位按正文重建视角，不镜像整张图。 当前尚无已生成参考图；此行是生成顺序说明。
+使用前：旧图仅作材质参考，首集机位按新版布局补做。
 
 ### 可复制提示词
 
-> The same corporate hall. Camera in the southwest facing northeast, 35mm lens, slightly low medium-wide framing. Clear foreground floor for a confrontation and one badge landing spot, part of the north curved screen high in the background, operator desks to the rear right. Cool white key light and cyan edge reflections. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set. --ar 9:16 --raw --s 50 --v 8.2 --no text logos watermarks anime cartoon illustration CGI people
+> Same corporate hall as S01-EMPTY-N. Keep the exposed dark beams, existing light fixtures and floor. Camera east of the north-south confrontation axis, with clear positions for the southern character on frame left and the northern character on frame right. Leave floor space for the badge and retain the southern worktable and western secondary console in their established positions. Cool white key light and cyan edge reflections. Photorealistic empty live-action film set, no people. --ar 16:9 --raw --s 50 --v 8.2 --no text logos watermarks anime cartoon illustration CGI people
 
 ## IMG-S01-CAM02 · 大厅｜大屏铁证底板
 
@@ -1167,19 +1167,19 @@
 
 ### 可复制提示词
 
-> The same corporate hall. Camera from the south looking north, 50mm lens, the north-wall 22-meter curved display filling the upper frame, empty lower third for later chest-up character placement. Operator desks stay east, blank low-intensity emerald screen, realistic screen reflections. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set. --ar 9:16 --raw --s 50 --v 8.2 --no text logos watermarks anime cartoon illustration CGI people
+> The same corporate hall. Camera from the south looking north, 50mm lens, the north-wall 22-meter curved display filling the upper frame, empty lower third for later chest-up character placement. The secondary console stays west, blank low-intensity emerald screen, realistic screen reflections. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set. --ar 9:16 --raw --s 50 --v 8.2 --no text logos watermarks anime cartoon illustration CGI people
 
-## IMG-S01-CAM03 · 大厅｜南二层总裁看台
+## IMG-S01-CAM03 · 大厅｜北侧二层总裁看台
 
-- 参考：无外部参考
+- 参考：按新版布局定稿的 S01-EMPTY-N
 
 用途／集数：E01秦岚旁观
 
-使用前：附上同一场景已选空景图，保持结构；反向机位按正文重建视角，不镜像整张图。 当前尚无已生成参考图；此行是生成顺序说明。
+使用前：旧图仅作材质参考，首集机位按新版布局补做。
 
 ### 可复制提示词
 
-> The same corporate hall seen in reverse from the north ground floor facing south. 50mm lens, a glass-and-metal second-floor executive gallery in the upper middle, a staircase at the southwest connecting it to the ground floor, blurred operator desks in the foreground. The north screen stays behind the camera outside the frame, normal cyan and cool white working light. Photorealistic live-action film location, contemporary Chinese city, physically believable architecture, cinematic lighting, readable shadows, an empty set. --ar 9:16 --raw --s 50 --v 8.2 --no text logos watermarks anime cartoon illustration CGI people
+> Same corporate hall as S01-EMPTY-N. Ground floor east-side camera angled up toward the north upper gallery, 65mm lens. Glass-and-metal railing, the same exposed structural beams, and the east staircase connecting the gallery to the ground floor. Cool white and cyan working light for shot 09. Preserve this exact geometry under red alarm light with readable face fill for shot 24. Photorealistic empty live-action film set, no people. --ar 16:9 --raw --s 50 --v 8.2 --no text logos watermarks anime cartoon illustration CGI people
 
 ## IMG-S02-EMPTY-N · 地下核心机房｜正常空景
 
@@ -1470,7 +1470,7 @@
 | 合同 | 15%集团无偿干股、技术一票否决权；原台词“先签期权转让书”不改 |
 | 证据 | 五千万美金交易、前两集贺凯看表时间与交易时间并列；公开铁证与警方带走沿企划 |
 | 工牌与密钥 | 原工牌裂壳、周衍捡走钛合金内芯、E05插主柜；金质新工牌是另一件物品 |
-| 旧键盘 | E01交唐小川，收固定抽屉；E05取出，接同一根线；空格磨痕、右上划痕不换位 |
+| 旧键盘 | E01交唐小川并装入背包；后续须交代转存固定抽屉；E05取出，接同一根线；空格磨痕、右上划痕不换位 |
 | 身份与强弱 | 三层身份、十六进制热补丁、踢膝跪递电脑、魏哲跪拜、火花、盲敲残影均沿原企划 |
 | 文字政策 | 编号0001、盘古AI、报错、倒计时、合同、签名、转账和股价暴跌40%均后期制作 |
 | 后期图层 | FX为纯黑底素材，黑底不等于透明底；雨、灯与火花按遮挡合成。FX06优先用已生成盲敲镜头的延迟帧叠加，本提示词只作备选。 |
