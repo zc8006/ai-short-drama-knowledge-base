@@ -1949,6 +1949,33 @@
       "generation_status": "generated",
       "github_status": "pending_upload",
       "production_note": "首集连续性修订参考图。"
+    },
+    {
+      "id": "P01-EP01-CARD",
+      "title": "周衍｜定脸与首集全身角色卡",
+      "repository_path": "projects/断网之后/assets/characters/P01-EP01-CARD.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-973ba26c-ae4d-4250-8c54-8dce0bfc0c93.png",
+      "production_note": "同一人物左侧定脸特写、右侧首集全身造型。双视图仅供参考，正片只生成镜头指定人数。待视频试用。"
+    },
+    {
+      "id": "P02-EP01-CARD",
+      "title": "贺凯｜定脸与首集全身角色卡",
+      "repository_path": "projects/断网之后/assets/characters/P02-EP01-CARD.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-eda80179-5728-4245-a9fa-ec54721b17fe.png",
+      "production_note": "同一人物左侧定脸特写、右侧首集全身造型。双视图仅供参考，正片只生成镜头指定人数。待视频试用。"
+    },
+    {
+      "id": "P04-EP01-CARD",
+      "title": "唐小川｜定脸与首集全身角色卡",
+      "repository_path": "projects/断网之后/assets/characters/P04-EP01-CARD.png",
+      "generation_status": "generated",
+      "github_status": "pending_upload",
+      "generated_source_filename": "exec-1c8a61ba-ab06-475e-bddd-a1c200100b71.png",
+      "production_note": "同一人物左侧定脸特写、右侧首集全身造型。双视图仅供参考，正片只生成镜头指定人数。待视频试用。"
     }
   ]
 }
