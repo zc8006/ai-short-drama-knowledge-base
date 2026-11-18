@@ -1,0 +1,211 @@
+[
+  {
+    "name": "浓烟铁门与白栖赶到",
+    "source": "EP001.mp4",
+    "start": 0.0,
+    "frames": 149,
+    "timeline_start": 0.0
+  },
+  {
+    "name": "当天早上",
+    "source": null,
+    "start": 0.0,
+    "frames": 18,
+    "card": "当天早上",
+    "timeline_start": 6.208333333333333
+  },
+  {
+    "name": "白璐的旧采访笔记",
+    "source": "插镜素材/EP02-001_白璐旧笔记_月考疑问_韩文.png",
+    "start": 0.0,
+    "frames": 66,
+    "still": true,
+    "label": "白璐的旧采访笔记",
+    "ambient": [
+      "EP001.mp4",
+      7.75,
+      9.75
+    ],
+    "timeline_start": 6.958333333333333
+  },
+  {
+    "name": "姜书沅公布巡逻",
+    "source": "EP001.mp4",
+    "start": 7.75,
+    "frames": 101,
+    "timeline_start": 9.708333333333332
+  },
+  {
+    "name": "走廊低声提醒补拍",
+    "source": "E02_001补拍.mp4",
+    "start": 0.0,
+    "frames": 121,
+    "timeline_start": 13.916666666666664
+  },
+  {
+    "name": "白栖回应与盲区图、跟班打火机",
+    "source": "EP001.mp4",
+    "start": 16.291666666666668,
+    "frames": 134,
+    "timeline_start": 18.958333333333332
+  },
+  {
+    "name": "白栖收图眼神",
+    "source": "EP001.mp4",
+    "start": 22.5,
+    "frames": 61,
+    "timeline_start": 24.541666666666664
+  },
+  {
+    "name": "午后空座问路、寻人及入室",
+    "source": "试剪/EP02-002_三条补拍试剪_v1.mp4",
+    "start": 0.0,
+    "frames": 399,
+    "label": "当天午后",
+    "label_seconds": 1.2,
+    "chapter": "rescue",
+    "timeline_start": 27.083333333333332
+  },
+  {
+    "name": "拉阀与刚落下的水",
+    "source": "补拍视频/02_红柜喷淋与弯发卡_节奏试剪_v3.mp4",
+    "start": 0.875,
+    "frames": 19,
+    "timeline_start": 43.70833333333333
+  },
+  {
+    "name": "锁孔留下弯发卡",
+    "source": "补拍视频/02_红柜喷淋与弯发卡_节奏试剪_v3.mp4",
+    "start": 1.9583333333333333,
+    "frames": 30,
+    "timeline_start": 44.49999999999999
+  },
+  {
+    "name": "扶人跨出门槛",
+    "source": "补拍视频/002补拍4.mp4",
+    "start": 0.0,
+    "frames": 121,
+    "audio_tail": [
+      "试剪/EP02-002_三条补拍试剪_v1.mp4",
+      22.0,
+      22.458333
+    ],
+    "timeline_start": 45.74999999999999
+  },
+  {
+    "name": "门外叙述、白璐往事、捡火机与独白",
+    "source": "试剪/EP02-002_三条补拍试剪_v1.mp4",
+    "start": 22.458333333333332,
+    "frames": 381,
+    "timeline_start": 50.79166666666666
+  },
+  {
+    "name": "浓烟通报与学生检查员示意",
+    "source": "补拍视频/02_003_补拍3_开场查包.mp4",
+    "start": 0.0,
+    "frames": 97,
+    "chapter": "checkpoint",
+    "timeline_start": 66.66666666666666
+  },
+  {
+    "name": "跟班慌张、南智宥动机与白栖抱书走来",
+    "source": "EP02-003.mp4",
+    "start": 2.75,
+    "frames": 140,
+    "timeline_start": 70.70833333333333
+  },
+  {
+    "name": "错身与袋口露出火机",
+    "source": "补拍视频/02_003_补拍1_托特包袋口.mp4",
+    "start": 0.7083333333333334,
+    "frames": 53,
+    "timeline_start": 76.54166666666666
+  },
+  {
+    "name": "搜出同一打火机、处置跟班与白栖袖口",
+    "source": "EP02-003.mp4",
+    "start": 12.708333333333334,
+    "frames": 130,
+    "timeline_start": 78.74999999999999
+  },
+  {
+    "name": "南智宥急辩失言后合嘴",
+    "source": "补拍视频/02_003_补拍2_南智宥失言.mp4",
+    "start": 0.25,
+    "frames": 76,
+    "timeline_start": 84.16666666666666
+  },
+  {
+    "name": "姜书沅转头、扣分与白栖反应",
+    "source": "EP02-003.mp4",
+    "start": 19.791666666666668,
+    "frames": 150,
+    "timeline_start": 87.33333333333333
+  },
+  {
+    "name": "放学楼梯质问",
+    "source": "EP02-004.mp4",
+    "start": 0.0,
+    "frames": 360,
+    "label": "放学后",
+    "label_seconds": 1.3,
+    "chapter": "after_school",
+    "timeline_start": 93.58333333333333
+  },
+  {
+    "name": "权限表指向副校长室",
+    "source": "插镜素材/EP02-004_权限表_副校长室_韩文注释.png",
+    "start": 0.0,
+    "frames": 66,
+    "still": true,
+    "audio_source": [
+      "EP02-004.mp4",
+      15,
+      17.041667
+    ],
+    "timeline_start": 108.58333333333333
+  },
+  {
+    "name": "白栖夜间补记答案",
+    "source": "插镜素材/EP02-004_白栖补记_封装负责人_韩文.png",
+    "start": 0.0,
+    "frames": 72,
+    "still": true,
+    "audio_source": [
+      "EP02-004.mp4",
+      17.041667,
+      19
+    ],
+    "timeline_start": 111.33333333333333
+  },
+  {
+    "name": "银饰手操纵鼠标",
+    "source": "EP02-004.mp4",
+    "start": 19.0,
+    "frames": 35,
+    "timeline_start": 114.33333333333333
+  },
+  {
+    "name": "后台选中白栖",
+    "source": "EP02-004.mp4",
+    "start": 20.458333333333332,
+    "frames": 32,
+    "filter": "drawbox=x=121:y=429:w=360:h=58:color=0x01121e:t=fill",
+    "timeline_start": 115.79166666666666
+  },
+  {
+    "name": "白栖被列入红名单",
+    "source": "EP02-004.mp4",
+    "start": 21.791666666666668,
+    "frames": 53,
+    "filter": "drawbox=x=118:y=210:w=602:h=155:color=0x01121e:t=fill",
+    "timeline_start": 117.12499999999999
+  },
+  {
+    "name": "片尾黑卡",
+    "source": "EP02-004.mp4",
+    "start": 24.0,
+    "frames": 49,
+    "timeline_start": 119.33333333333331
+  }
+]
