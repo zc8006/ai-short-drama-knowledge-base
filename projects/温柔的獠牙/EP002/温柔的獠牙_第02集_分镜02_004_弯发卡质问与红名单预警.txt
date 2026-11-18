@@ -4,12 +4,12 @@
 剧情定位：第02集第四段（当天放学至当晚，无缝承接《02_003》）。已按导演终审意见全面定稿：① 镜01–04锁定白栖在台阶上方、姜书沅在下方平台，姜书沅抬眼上看、白栖略低眼下看，眼神在发卡上停一下再控制性解释；② 镜05–06省去半步逼近改为视线从袖口抬到眼睛，尾音落在13.1s留足0.6s沉默垂眼；③ 镜07–08静音连看，把“副校长室”放在接近的画面位置，笔记开镜已写好只拍划线；④ 镜09–12同底版左键选中“백서”后叠红框留满2.0s，24.0s硬切纯黑片尾卡。
 
 【全局引用清单（共8张）】
-按以下顺序挂载场景、人物和道具参考。图4、图5按文件名从已有素材中选取。
+按以下顺序挂载场景、人物和道具参考。图4、图5按下列项目相对路径归入共享场景目录，文末附原图及对应的本地文件名。
 全局图片1｜C01-BAIQI-A｜../角色/baiqi_a_3view.png｜白栖A面校服三视图（左胸完全空白无徽章）
 全局图片2｜C01-BAIQI-FACE｜../角色/baiqi_portrait.png｜白栖高清定脸肖像（锁五官与泪痣）
 全局图片3｜C02-JIANG｜../角色/jiang_shuyuan.png｜姜书沅造型（三七分黑短发、双排扣深蓝S级金徽章校服）
-全局图片4｜S03-STAIR-LANDING｜校园主楼楼梯转角.png｜镜01–06。锁定左侧灰色石阶与深木扶手、右侧下方平台及其接往主楼走廊的方向。
-全局图片5｜S10-RENTAL-DESK｜深夜窗边的旧木书桌.png｜镜08。锁定白栖出租屋的灰墙、左侧旧窗、深色旧木桌与桌面左后角的黑色台灯。
+全局图片4｜S03-STAIR-LANDING｜../场景/s03_stair_landing.png｜镜01–06。锁定左侧灰色石阶与深木扶手、右侧下方平台及其接往主楼走廊的方向。
+全局图片5｜S10-RENTAL-DESK｜../场景/s10_rental_desk.png｜镜08。锁定白栖出租屋的灰墙、左侧旧窗、深色旧木桌与桌面左后角的黑色台灯。
 全局图片6｜P10-HAIRPIN｜../道具/p10_hairpin_v2.png｜黑色细金属发卡（仅取弯折形态，画面中仅出现一枚）
 全局图片7｜P07-NOTEBOOK｜../道具/p07_interview_notebook.png｜姐姐白璐的旧采访笔记
 全局图片8｜S03-CORRIDOR｜../场景/s03_corridor.png｜镜07。锁定自律会办公室门口所在的主楼走廊，保留拱窗、深木护墙与大理石地面。
@@ -141,7 +141,7 @@
 9:16；内容时长26.0秒（含2.0s纯黑片尾卡，纯剧情镜头24.0秒/11镜）；共12个编号段；本段8张参考图。
 
 【场景连续性｜挂图与后期核对】
-图4原图：[校园主楼楼梯转角.png](https://chatgpt.com/library?file_id=libfile_c2bb89b1b97c819194395eb45b283b85&account_id=personal)
-图5原图：[深夜窗边的旧木书桌.png](https://chatgpt.com/library?file_id=libfile_d5668484cdec81918f2b15dcfe10cfa9&account_id=personal)
+图4本地文件名：s03_stair_landing.png。原图：[校园主楼楼梯转角.png](https://chatgpt.com/library?file_id=libfile_c2bb89b1b97c819194395eb45b283b85&account_id=personal)
+图5本地文件名：s10_rental_desk.png。原图：[深夜窗边的旧木书桌.png](https://chatgpt.com/library?file_id=libfile_d5668484cdec81918f2b15dcfe10cfa9&account_id=personal)
 出租屋布局核对：[四向视角的昏暗出租屋.png](https://chatgpt.com/library?file_id=libfile_b7e90f10285481919c544d1c6d539989&account_id=personal)。西北角为书桌区，窗在西墙、桌靠北墙，台灯固定在靠窗的桌面左后角。西南角为沙袋区，棕色沙袋吊点固定。深灰房门开在南墙东侧，东墙保持空墙。镜08挂图5单图。训练镜头沿用 ../场景/s10_rental_room.png，换方向或反打时用四向图核对相对位置。
 镜10–11共用后台底版。面向中文观众时，后期在同一选中行标清“백서／白栖”，预警出现时标清“RED LIST／红名单”，红框维持2秒。
